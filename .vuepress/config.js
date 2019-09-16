@@ -4,7 +4,7 @@ description: 'just playing around',
 themeConfig: {
     nav: [
         { text: 'Home', link: '/'},
-        { text: 'About', link: '/guide'},
+        { text: 'About', link: '/about'},
         { text: 'Resume', link: '/resume'},
         { text: 'Illustrations', link: 'illustrations.html'},
         { text: 'Writing samples', link: 'writingsamples.html'}
