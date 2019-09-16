@@ -9,8 +9,8 @@
 
 ### Original
 
-#### Powering on and off
-> Connect power and power on the RealPresence Group system after you have connected all of the equipment that you will use with it. Make sure that the system is powered off before you connect devices to it. It is important to note that Polycom RealPresence Group systems do not have what you might think of as a power button—they have a power proximity sensor. Instead of pressing an actual button that moves, you touch the sensor (or near the sensor) that indicates power  on the front of the system.
+> #### Powering on and off
+Connect power and power on the RealPresence Group system after you have connected all of the equipment that you will use with it. Make sure that the system is powered off before you connect devices to it. It is important to note that Polycom RealPresence Group systems do not have what you might think of as a power button—they have a power proximity sensor. Instead of pressing an actual button that moves, you touch the sensor (or near the sensor) that indicates power  on the front of the system.
 
 ## Rewrite **
 
