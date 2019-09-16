@@ -9,6 +9,6 @@ features:
   details: Skills, experience, etc.
 - title: Writing samples
   details: Here are a few samples of things I've written.
-footer: MIT Licensed
+footer: chriskpeterson@gmail.com | 2019
 ---
 
