@@ -3,12 +3,12 @@ home: true
 actionText: Resume
 actionLink: resume.html
 features: 
-- title: Chris Peterson
-  details: Information Developer
-- title: Resume
-  details: Skills, experience, etc.
-- title: Writing samples
-  details: Here are a few samples of things I've written.
+- title: DITA XML
+  details: DITA XLM topic writing expert. Worked with SDL, XMetaL, Oxygen, and Vasont.
+- title: Innovation
+  details: Interactive documentation, SVGs, and augmented reality.
+- title: Simplified English
+  details: Clear, concise writing to make localization happy.
 footer: chriskpeterson@gmail.com | 2019
 ---
 
