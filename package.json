@@ -1,0 +1,23 @@
+{
+  "name": "vuepress2",
+  "version": "1.1.0",
+  "description": "vuepress portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskpeterson/vuepress2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriskpeterson/vuepress2/issues"
+  },
+  "homepage": "https://github.com/tomcam/vpdemo1#readme",
+  "dependencies": {
+     "vuepress": "^0.12.0"
+  }
