@@ -6,7 +6,7 @@ themeConfig: {
         { text: 'Home', link: '/'},
         { text: 'About', link: '/about'},
         { text: 'Resume', link: '/resume'},
-        { text: 'Illustrations', link: 'illustrations.html'},
+        { text: 'Rewrites', link: 'rewrites.html'},
         { text: 'Writing samples', link: 'writingsamples.html'}
     ],
     
