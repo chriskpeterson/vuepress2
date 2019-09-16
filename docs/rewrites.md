@@ -5,7 +5,7 @@
 }
 
 ---
-# Documentation rewrites
+# Topic evaluation
 
 ### Original
 
@@ -21,12 +21,12 @@
 The RealPresense Group series solution powers on with a proximity sensor power switch. The proximity sensor detects movement up to two inches.
 :::
 ::: warning
-Only connect peripherals when the system is powered off.
+Only connect peripherals when the solution is powered off.
 :::
 
 1. Before connecting power to the codec, connect all peripheral devices.
 2. Connect power to the codec.
-3. Power on the system using the proximity power switch.
+3. Power on the solution using the proximity power switch located on the front right-side of the codec.
 
 ### Explanation
 * Reduce the word count and use simplified English for clear translation. It's not necessary to state what a product  doesn't have.
