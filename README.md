@@ -1,6 +1,6 @@
 --- 
 home: true
-actionText: View resume
+actionText: Resume
 actionLink: resume.html
 features: 
 - title: Chris Peterson
