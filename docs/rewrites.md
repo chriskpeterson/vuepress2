@@ -17,17 +17,17 @@ Connect power and power on the RealPresence Group system after you have connecte
 
 ### Rewrite
 
-#### Powering on and off
+## First-time setup
+#### Connecting peripherals
 
-::: note 
+::: tip 
 
-The RealPresense Group series proximity sensor senses movement up to two inches from the sensor.
+The RealPresense Group series proximity sensor powers on and off when it senses movement. The proximity sensor senses movement up to two inches from the sensor.
 
 :::
 
 1. With the system powered off, connect all peripheral devices to the main unit. 
-2. Power on the system using he proximity power switch.
-
+2. Power on the system using the proximity power switch.
 
 
 ### Explanation
@@ -36,6 +36,9 @@ Reduce the wordcount and simplify the language for clear translation. It's not n
 
 Also, it's best to not instruct something and then explain aftwerward that something else should be done first.
 
+This doesn't appear to be a power on the system topic. It's two topics. 
+* Connecting peripherals
+* Powering on the system
 
 ## Poly 
 
