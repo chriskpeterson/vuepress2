@@ -3,12 +3,12 @@ home: true
 actionText: View resume
 actionLink: resume.html
 features: 
-- title: Chris Peterson portfolio
-  details: Information developer learning the web
-- title: About me
-  details: something about myself
-- title: Another one
-  details: just a bit more
+- title: Chris Peterson
+  details: Information Developer
+- title: Resume
+  details: Skills, experience, etc.
+- title: Writing samples
+  details: Here are a few samples of things I've written.
 footer: MIT Licensed
 ---
 
