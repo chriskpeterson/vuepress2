@@ -1,6 +1,6 @@
 ---
 {
-"title": "Documentation rewrite",
+"title": "Topic evaluation",
 "lang": "en-US"
 }
 
@@ -27,6 +27,12 @@ Only connect peripherals when the solution is powered off.
 1. Before connecting power to the codec, connect all peripheral devices.
 2. Connect power to the codec.
 3. Power on the solution using the proximity power switch located on the front right-side of the codec.
+
+### Topic questions
+* Where is the sensor located?
+* What happens if I move near the sensor in the middle of a call?
+* What happens if I connect a peripheral with the power on?
+	* The codec connects with peripherals during startup.
 
 ### Explanation
 * Reduce the word count and use simplified English for clear translation. It's not necessary to state what a product  doesn't have.
