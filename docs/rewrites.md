@@ -26,7 +26,7 @@ The RealPresense Group series uses a proximity sensor to power the unit on and o
 Only connect peripherals when the system is powered off.
 :::
 
-1. Before connecting power to the unit, connect all peripheral devices.
+1. Before connecting the unit to power, connect all peripheral devices.
 2. Connect the unit to power.
 3. Power on the system using the proximity power switch.
 
