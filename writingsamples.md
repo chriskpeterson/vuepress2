@@ -1,3 +1,11 @@
+---
+{
+    "title": "Writing samples",
+    "lang": "en-US"
+}
+
+---
+
 # Writing samples
 
 ::: tip 

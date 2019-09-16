@@ -1,3 +1,11 @@
+---
+{
+    "title": "Chris Peterson resume",
+    "lang": "en-US"
+}
+
+---
+
 # Resume
 chriskpeterson@gmail.com
 

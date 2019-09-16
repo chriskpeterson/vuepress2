@@ -12,6 +12,3 @@ features:
 footer: MIT Licensed
 ---
 
-'# Hello VuePress'
-
-
