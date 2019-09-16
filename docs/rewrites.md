@@ -19,8 +19,9 @@ Connect power and power on the RealPresence Group system after you have connecte
 #### Connecting peripherals
 
 ::: tip
-The RealPresense Group series uses a proximity sensor powers the unit on and off. The proximity sensor senses movement up to two inches in front of the sensor.
+The RealPresense Group series uses a proximity sensor to power the unit on and off. The proximity sensor senses movement up to two inches in front of the sensor.
 :::
+
 ::: warning
 Only connect peripherals when the system is powered off.
 :::
