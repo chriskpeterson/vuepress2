@@ -5,7 +5,7 @@ A fun way to work with DITA XML documentation is to design interactivity into th
 
 This is an example that could be implemented as part of a summary step to show the procedure when clicked. This would allow a user to navigate the superprocedure without leaving the topic.
 
-## Creating an button that shows content
+## Creating a button that shows content
 
 DITA XML elements can be assigned output classes when authoring in XMetaL. These output classes are converted to classes in the HTML output. 
 Classes allow you to manipulate content in an HTML document.
