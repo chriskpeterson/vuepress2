@@ -23,3 +23,21 @@ To do this you need to
 ### HPE Synergy Software Releases
 
 HPE Synergy Software Releases include a Management combination and a Synergy Custom SPP.
+
+
+Upgrading to HPE Synergy 4.20.02 or 5.0
+::: warning 
+
+Immediately before upgrading to HPE OneView 4.20.02 or HPE OneView 5.00.00.01, install HPE_PreUpgrade_4.20_5.00_Z7550-96608.bin.
+:::
+1. Download the PreUpgrade file from the HPE Support Center download page for the HPE Synergy Management combination.
+2. Once initiated, the PreUpgrade task displays a progress bar indicating completion status. 
+The PreUpgrade task should complete within 20 minutes. In rare cases, the PreUpgrade task can run for multiple hours. 
+3. If the PreUpgrade tasks runs for longer than 20 minutes, and if no errors are displayed, let the task run to completion. 
+Once the task is complete, you will be returned to the Settings page where the Update process can be initiated.
+
+If the PreUpgrade bin file has already been applied to the appliance, there is no need to repeat the process before upgrading to OneView 4.20.02 or 5.00.
+
+Any HPE OneView 4.10.03 or later can be upgraded to version 5.0.
+
+For more details on these changes, review the HPE OneView 5.0 Release Notes for HPE Synergy and the HPE Synergy Image Streamer 5.0 Release Notes.
