@@ -8,6 +8,9 @@
 
 # Writing samples
 
+## Topic-based writing
+
+*In my current role, I write using the topic-based writing methodology. Our authoring environment is based on DITA 1.2. As a member of the Information Architecture team, I help decide on and implement updates to the model. For example, we don't currently use `wintitle`. Instead we mark dialogue windows and other components as `uicontrol`. As we're trying to move toward chatbots and AI, I felt that is important to use the correct DITA elements.*
 
 
 ## Frame Link Module
