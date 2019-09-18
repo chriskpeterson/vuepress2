@@ -1,6 +1,7 @@
 
 
 *This topic explains how the HPE Synergy Frame Link Module manages network traffic within an HPE Synergy 12000 Frame.*
+*This topic includes terms that are defined elsewhere in the documentation and in an external glossary.*
 
 ### HPE Synergy 12000 Frame internal management network
 
