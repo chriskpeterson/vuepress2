@@ -8,9 +8,24 @@
 
 # Writing samples
 
-[Writing samples](writingsamples1.html)
+
 
 ## Frame Link Module
+
+[Writing samples](writingsamples1.html)
+
+## ConvergedSystem 700
+
+*The ConvergedSystem 700 is a converged hardware and software solution providing a fully configured and management hardware and software stack. Writing for this program requires a basic understanding of the hardware and software platforms.*
+
+[Writing samples](writingsamples1.html)
+
+## HPE Synergy
+
+*Similar to ConvergedSystems, HPE Synergy is a composable solution-based product. Writing for this product requires an understanding of the hardware components and the management software, HPE OneView.*
+
+[Writing samples](writingsamples1.html)
+
 
 ### HPE Synergy 12000 Frame internal management network
 
