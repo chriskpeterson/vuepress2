@@ -12,7 +12,7 @@ Frame link module Ethernet ports supporting the appliance bays run at 10Gb. Ethe
 
 These Ethernet connections provide fault tolerant connectivity to the frame management network. Device and interconnect bay Ethernet ports are connected to the switch through the Active frame link module.
 
-![frame link module management network](.vuepress/public/flm_mgmt_network.PNG)
+![frame link module management network](https://github.com/chriskpeterson/vuepress2/flm_mgmt_network.PNG)
 
 
 
