@@ -8,7 +8,7 @@
 
 # Writing samples
 
-[writingsamples1.html](writing samples)
+[Writing samples](writingsamples1.html)
 
 ## Frame Link Module
 
