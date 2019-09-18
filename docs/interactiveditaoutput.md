@@ -1,6 +1,11 @@
 # Creating interactive DITA output by assigning XML output classes
 #work
-Content in SDL can be assigned output classes when authoring in XMetaL. These output classes are converted to classes in the HTML output. 
+
+A fun way to work with DITA XML documentation is to design interactivity into the DITA code. This is great for creating documentation content allowing customers to choose what they want to see.
+
+This example covers displaying portions of a large table allowing the user to choose what options they want to see. In the future, I'd like to work through an example where superprocedures are presented with the summary step links loaded in the DOM allowing the user to click the summary step and show the procedure.
+
+DITA XML elements can be assigned output classes when authoring in XMetaL. These output classes are converted to classes in the HTML output. 
 Classes provided a means to manipulate content in an HTML document.
 
 *For example*
