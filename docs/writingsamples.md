@@ -8,6 +8,8 @@
 
 # Writing samples
 
+[writingsamples1.html](writing samples)
+
 ## Frame Link Module
 
 ### HPE Synergy 12000 Frame internal management network
