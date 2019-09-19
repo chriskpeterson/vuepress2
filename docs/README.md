@@ -8,17 +8,19 @@ footer: chriskpeterson@gmail.com | 2019
 
 <div class="features">
   <div class="feature" style="text-align: center;">
-    <h2>Simplicity First</h2>
-    <p>Minimal setup with markdown-centered project structure helps you focus on writing.</p>
+    <h2>Resume</h2>
+    <p>Normal resume matter. Skills, Experience, Etc.</p>
     <a href="resume.html">Resume</a>
   </div>
   <div class="feature" style="text-align: center;">
-    <h2>Vue-Powered</h2>
-    <p>Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.</p>
+    <h2>Writing samples</h2>
+    <p>A few writing samples. Things I'm working on now.</p>
+    <a href="writingsamples.html">Resume</a>
   </div>
   <div class="feature" style="text-align: center;">
-    <h2>Performant</h2>
-    <p>VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.</p>
+    <h2>About</h2>
+    <p>A bit about me.</p>
+    <a href="aboute.html">Resume</a>
   </div>
 </div>
 
