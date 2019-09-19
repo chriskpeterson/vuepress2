@@ -1,16 +1,29 @@
 --- 
 home: true
-actionText: Resume
-actionLink: resume.html
-features: 
-- title: Resume
-  details: DITA XLM topic writing expert. Worked with SDL, XMetaL, Oxygen, and Vasont.
-  [Resume](resume.html)
-- title: Writing Samples
-  details: DITA XML, concept, task, and reference topics.
-  [Writing samples](writingsamples.html)
-- title: About
-  details: Clear, concise writing to make localization happy.
 footer: chriskpeterson@gmail.com | 2019
 ---
+<div style="text-align: center">
+  <Bit/>
+</div>
+
+<div class="features">
+  <div class="feature" style="text-align: center;">
+    <h2>Resume</h2>
+    <p>Normal resume matter.</p> 
+    <p>Skills, Experience, Etc.</p>
+    <a href="resume.html">resume</a>
+  </div>
+  <div class="feature" style="text-align: center;">
+    <h2>Writing samples</h2>
+    <p>A few writing samples.</p>
+      <p>Things I'm working on now.</p>
+    <a href="writingsamples.html">writing samples</a>
+  </div>
+  <div class="feature" style="text-align: center;">
+    <h2>About</h2>
+    <p>A bit about me.</p>
+    <a href="aboute.html">about</a>
+  </div>
+</div>
+
 
