@@ -7,7 +7,7 @@
 ---
 # Topic evaluation
 
-I thought it would be a good idea to provide a few samples of rewrites to demonstrate how I think through topic writing.
+*I thought it would be a good idea to provide a few samples of rewrites to demonstrate how I think through topic writing.*
 
 ## Sample 1
 
@@ -41,38 +41,40 @@ I thought it would be a good idea to provide a few samples of rewrites to demons
 
 # Sample 2
 
-This one is from the PingID Administration Guide
+## Evaluation
 
-## Reset your Admin portal password
-
-If you forget your password to the PingOne Admin portal, reset it from the login page.
+> ### Reset your portal password
+>
+> If you forget your password to the portal, reset it from the login page.
+>
+> ------
+> **NOTE:** If you enter the wrong credentials three times your account is locked for a 15 minute period, during which you cannot access your account.
+>
+> ------
+>
+> **Steps**
+>
+> 1. From the portal login page, click **Change My Password**.
+>    The Recover Password screen is shown.
+> 2. Enter your email address and click **Submit**.
+>    You'll receive an email link with details of how to reset your password.
 
 ------
-**NOTE:** If you enter the wrong credentials three times your account is locked for a 15 minute period, during which you cannot access your account.
 
-------
+*The topic discusses resetting the password, but uses the word 'credentials' in the note. I would use 'password' throughout.* 
 
-**Steps**
-
-1. From the Admin portal login page, click **Change My Password**.
-   The Recover Password screen is shown.
-2. Enter your email address and click **Submit**.
-   You'll receive an email link with details of how to reset your password.
-   
-### Evaluation
-The topic discusses resetting the password, but uses the word 'credentials'. I would use 'password' throughout. This topic assumes the customer knows their email address as they're asked to provide it for a password reset. 
-
-I didn't consider whether or not this is a shared note in the database. If so, I understand using credentials as this note may exist in other PingID topics.
+*I believe the customer would understand that an account lock would result in no account access. It may be worthwhile to include what to do if your account is locked. Can you reset your password to gain access? If so, we could include that in the note.*
 
 ### Rewrite
 
-Here, I'd try to minimize a few lines.
+#### Reset your portal password
 
-* I'd update the introduction:
+**NOTE:** Entering the wrong password three times results in a 15 minute account lock. To unlock your account, reset the password.
 
-  If you forget your PingOne portal password, reset it from the login page.
+**Steps**
 
-* I'd update the note to read:
-   **NOTE:** Entering the wrong password three times results in a 15 minute account lock.
-* I'd update the last line:
-   You'll receive a password reset email.
+1. From the portal login page, click **Change My Password**.
+   The Recover Password screen is shown.
+2. Enter your email address and click **Submit**.
+   A password reset email is sent.
+3. Follow the instructions in the password reset email.
