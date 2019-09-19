@@ -11,6 +11,7 @@ I'm not much of a personal facts person. I like the standard things, I enjoy:
 * Road biking
 * Playing guitar and writing music
 * Convincing myself that 'this time' I'll get up and sing karaoke.
+* I designed a chandelier for the Lululemon brand, Kit and Ace. The store wasn't open long.
 
 
 For what it's worth, I learned VuePress, Github, Netflify, and markdown to create this site. I'm new to this, but enjoy working through new processes and procedures.
@@ -28,6 +29,6 @@ For what it's worth, I learned VuePress, Github, Netflify, and markdown to creat
 ### University
 
 I have two degrees
-BA English (first degree)
-BS Industrial Design (second degree)
-For fun, here's some of my design work [ID Portfolio](behance.net/chriskpeterson)
+* BA English (first degree)
+* BS Industrial Design (second degree)
+For fun, here's some of my design work [ID Portfolio](https://www.behance.net/chriskpeterson)

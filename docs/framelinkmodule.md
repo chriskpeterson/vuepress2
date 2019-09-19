@@ -6,7 +6,7 @@
 
 *This topic explains how the HPE Synergy Frame Link Module manages network traffic within an HPE Synergy 12000 Frame. This topic includes terms that are defined elsewhere in the documentation and in an external glossary.*
 
-### HPE Synergy 12000 Frame internal management network
+## HPE Synergy 12000 Frame internal management network
 
 Each frame link module contains an Ethernet switch that manages all HPE Synergy internal frame management network connections. Frame link modules also manage management ring (frame link topology) connections. The frame link module Ethernet switch ports connect to every appliance, device, and interconnect bay within the frame. Independent midplane signal
 connections and independent bay connections provide fault tolerance.
@@ -19,7 +19,7 @@ These Ethernet connections provide fault tolerant connectivity to the frame mana
 
 
 
-### HPE Synergy 12000 Frame external management ring network
+## HPE Synergy 12000 Frame external management ring network
 
 ------
 
@@ -37,7 +37,7 @@ NOTE: To perform a MGMT Port Test, use the Frame Management Network IPv6 Link Lo
 
 *TASK TOPIC SAMPLES*
 
-#### Performing an MGMT Port Test
+## Performing an MGMT Port Test
 
 ------
 
@@ -59,7 +59,7 @@ Procedure
 
 
 
-### Collecting an FLM Support Dump
+## Collecting an FLM Support Dump
 
 ------
 
