@@ -24,3 +24,10 @@ For what it's worth, I learned VuePress, Github, Netflify, and markdown to creat
 * Arbortext (also...)
 * Adobe Creative Cloud (Illustrator, Photoshop, etc.)
 * Some coding with HTML, CSS, and JavaScript
+
+### University
+
+I have two degrees
+BA English (first degree)
+BS Industrial Design (second degree)
+For fun, here's some of my design work [ID Portfolio](behance.net/chriskpeterson)
