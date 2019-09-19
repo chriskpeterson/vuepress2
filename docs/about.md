@@ -5,7 +5,7 @@ Currently, I live in Houston, TX and work at Hewlett Packard Enterprise (HPE). A
 
 [Current projects](projects.html)
 
-### Personal facts
+### Some personal facts
 
 I like the standard things, like:
 * General exercise including running (though I'm currently nursing a broken toe) and biking.
@@ -13,25 +13,8 @@ I like the standard things, like:
 * Convincing myself that 'this time' I'll get up there and sing karaoke.
 * Design. Not too long ago, I designed a chandelier for the Lululemon brand, Kit and Ace. Sadly, the store's no longer there and I don't know where the chandelier is.
 * Technology and learning. For what it's worth, I learned VuePress, Github, Netflify, and markdown to create this site. I'm new to this, but enjoy learning new technology. 
+* I studied industrial design. For fun, here's some of my design work [ID Portfolio](https://www.behance.net/chriskpeterson)
 
-### Some tools I use or am familiar with
-* SDL (our current authoring database)
-* XMetaL (our current authoring tool)
-* Oxygen (I currently use Oxygen for testing)
-* AuthorIT
-* Vasont 
-* Arbortext 
-* Adobe Creative Cloud (Illustrator, Photoshop, etc.)
-* Some coding with HTML, CSS, and JavaScript
-
-### University
-
-I have two degrees
-* BA English 
-
-* BS Industrial Design
-
-  For fun, here's some of my design work [ID Portfolio](https://www.behance.net/chriskpeterson)
 
 ### Volunteering
 

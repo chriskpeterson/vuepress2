@@ -53,3 +53,9 @@ imaging. Responsible for vendor management including negotiating and managing eq
 * Reduced yearly department budget by $300k through negotiating copier leases and print costs.
 * Negotiated mail service contracts reducing costs by 15% while improving service offerings.
 
+### University
+
+I have two degrees
+* BA English 
+* BS Industrial Design
+  For fun, here's some of my design work [ID Portfolio](https://www.behance.net/chriskpeterson)
