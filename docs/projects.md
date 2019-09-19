@@ -27,12 +27,8 @@ This is very basic interactivity, but allows the user to filter through the tabl
 This used the same interactivity as the Converged System Tool, but the value add is that a customer can enter a cable or cable kit part number and identify what it can be used to cable.
 
 ### Augmented Reality
-A colleague and I create an augmented reality (AR) template tool for server cabling. (You can see it [HPE ProLiant Gen10 DL380 Cabling Matrix](https://techhub.hpe.com/eginfolib/servers/CableMatrix/GUID-76C9E454-E5AA-4A65-BA5E-132A7D306E07.html) here.) This was done using JavaScript which has limited functionality for AR. We are currently looking at options to developer this further.
+A colleague and I create an augmented reality (AR) template tool for server cabling. This was done using JavaScript which has limited functionality for AR. We are currently looking at options to developer this further.
+[HPE ProLiant Gen10 DL380 Cabling Matrix](https://techhub.hpe.com/eginfolib/servers/CableMatrix/GUID-76C9E454-E5AA-4A65-BA5E-132A7D306E07.html)
 
-<<<<<<< HEAD:docs/Projects.md
 ### Interactive Cabling diagrams
 Working with the visual design team to code SVGs for interactivity allowing customers to click-through complex cabling procedures.
-=======
-## Interactive Cabling diagrams
-Working with the visual design team to code SVGs for interactivity allowing customers to click-through complex cabling procedures.
->>>>>>> 411b178ff517743842d4da50eddf149a21a953ae:docs/projects.md
