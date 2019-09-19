@@ -6,8 +6,7 @@ This is something I worked on recently to provide a high-level overview of the c
 
 ------
 ![Start Here Poster page 1](https://chriskpeterson.github.io/vuepress2/public/starthereposter1.PNG)
-------
-------
+
 ![Start Here Poster page 2](https://chriskpeterson.github.io/vuepress2/public/starthereposter2.PNG)
 ------
 
