@@ -2,9 +2,8 @@
 
 # HPE Synergy Frame Link Module
 
-*CONCEPT TOPIC SAMPLE*
 
-*This topic explains how the HPE Synergy Frame Link Module manages network traffic within an HPE Synergy 12000 Frame. This topic includes terms that are defined elsewhere in the documentation and in an external glossary.*
+*This topic includes terminology defined in the documentation and in an external glossary.*
 
 ## HPE Synergy 12000 Frame internal management network
 
@@ -35,13 +34,11 @@ NOTE: To perform a MGMT Port Test, use the Frame Management Network IPv6 Link Lo
 
 
 
-*TASK TOPIC SAMPLES*
-
 ## Performing an MGMT Port Test
 
 ------
 
-**NOTE:** To perform a MGMT Port Test, use the Frame Management Network IPv6 Link Local address of a frame claimed by HPE OneView. The Frame Management Network IPv6 Link Local address can be viewed on the HPE Synergy Console Frame Health & Inventory screen.
+**NOTE:** To perform an MGMT Port Test, use the Frame Management Network IPv6 Link Local address of a frame claimed by HPE OneView. The Frame Management Network IPv6 Link Local address can be viewed on the HPE Synergy Console Frame Health & Inventory screen.
 
 ------
 

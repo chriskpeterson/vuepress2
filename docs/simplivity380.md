@@ -1,8 +1,8 @@
 # HPE SimpliVity 380
 
-*This content is from a*
+*This content is from an installation guide for the previous generation HPE SimpliVity 380 (Hyper Converged 380). Installation included cabling and management software installation and configuration.*
 
-TASK TOPIC
+
 
 ## Before you begin
 
@@ -48,23 +48,23 @@ The initial configuration setup and process only utilize a portion of the total 
 2. Enter your user name and password for the vSphere Web Client.  		    		
 
 3. Click   **Login**.  		    		
-    To familiarize yourself with the layout of the vSphere Web Client, review the information on the   **Getting Started** tab
+    To familiarize yourself with the layout of the vSphere Web Client, review the information on the **Getting Started** tab
 
-4. In the Navigator, select vCenter. 
+4. Select **vCenter** > **Hosts and Clusters** > **Cluster**.
 
-5. In the Navigator, select **Hosts and Clusters** > **Cluster**. 
-
-6. Select the specific cluster for which you want to create a datastore. 
+5. Select the specific cluster for which you want to create a datastore. 
 	The Summary tab for the selected cluster appears. 
 	
-7. Select the Manage tab, and then select HP Management. 
-	The Actions menu appears on the right side of the window. 
-	The vSphere Web Client may not always refresh quickly. If you are not seeing what is expected, click the Refresh icon in the top menu bar or the disk refresh icon on the right side of the window. 
+6. Select **Manage** > **HPE Management**. 
+	The Actions menu appears. 
+	The vSphere Web Client may not always refresh quickly. 
 	
-9. From the Actions menu, select **Create Datastore**. 
-	The Create Datastore wizard appears. 
+	If you are not seeing what is expected, click **Refresh** in the top menu bar. 
 	
-	Alternatively, right-click the cluster name and select **All HP Management Actions** > **Create Datastores**. 
+7. From the Actions menu, select **Create Datastore**. 
+  The Create Datastore wizard appears. 
+
+  Alternatively, right-click the cluster name and select **All HP Management Actions** > **Create Datastores**. 
 
 
 

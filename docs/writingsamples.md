@@ -8,33 +8,36 @@
 
 # Writing samples
 
-The majority of my writing is for user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past I've written release notes, a OS installation guides, and volatility statements for high-security customers.
+In general, I write user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
 
 
 ## Frame Link Module
-*Content for this product includes a user guide and cabling guide. The frame link module is the frame management device for HPE Synergy. It is a hardware product with an accessible user interface for solution setup, maintenance, and troubleshooting.*
+*For this program, I write a user guide for the hardware and software components.*
 
 [Writing samples](framelinkmodule.html)
 
 
 ## HPE Synergy
 
-*For the HPE Synergy program I write the start here poster (resource), cabling guide, and software release overview information. I also serve as a product expert evaluating all other deliverables to ensure content consistency and content sharing best practices.* 
+*For the solution level HPE Synergy program, I write the start here poster (resource), cabling guide, and software release information. I also serve as a product expert evaluating all other deliverables to ensure content consistency and content sharing best practices.* 
 
 [Writing samples](synergy.html)
 
 
 ## ConvergedSystem 700
 
-*For this program I writer firmware and software compatibility matrix guides and multiple step-by-step update guides. The update guides include installing firmware updates, software updates, VMware ESXi configuration, and switch configuration. 
+*For this program, I write firmware and software compatibility matrices and step-by-step update guides. The update guides include firmware updates, software updates, VMware ESXi configuration, and switch configuration.*  
 
 [Writing samples](cs700.html)
 
 
-HPE SimpliVity 380
-*I worked on the initial setup guides for this product. A few of the topics I authored and an illustration are included.*
+## HPE SimpliVity 380
+
+*I worked on the initial setup guides for this product.* 
+*A few of the topics I authored and an illustration are included.*
 
 [Writing samples](simplivity380.html)
+
 
 ## Topic analysis and rewrite exercise
 

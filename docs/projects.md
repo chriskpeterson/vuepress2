@@ -7,28 +7,28 @@ I'm currently working on a template for our server platform allowing writers to 
 
 ## Information Architecture team
 On this team we:
-* Provide consultation services for knowledge management writing teams on topic writing, sharing strategies, and DITA elements. 
-* Addresses DTD issues such as missing elements (our environment uses a constrained DTD). 
-* Transform issues related to elements (are writers using extra `<p>` tags for spacing? should every image be placed into a `<fig>`?).
+* Provide consultation services for knowledge management writing teams on topic writing, sharing strategies, and DITA elements.
+* Create best practice guides topic planning and topic writing.
+* Address DTD issues such as missing elements (Our environment uses a constrained DTD. For example, we don't use the `<wintitle>` tag. Should we?). 
+* Evaluate transform issues related to elements (Are writers using extra `<p>` tags for spacing? Should every image be placed into a `<fig>` tag?).
 
 ## Quality team
-This team evaluates support cases that have been flagged for knowledge management. We access the cases and pull out any relevant information where documentation was a factor. Typically the information exists, but the customer can't find it.  
+This team evaluates support cases that have been flagged for knowledge management. We access the cases and pull out any relevant information where documentation was a factor. In a recent win, we identified that customers didn't understand how to setup a particular server. We were able to borrow the server and confirmed that the process had some gotchas. We updated the procedures and realized a reduction in service calls. 
 
 ## Interactive documentation
-I am very interested in exploring documentation delivery that allows customer to select the information they need versus clicking through topics. I have been able to create a couple interactive deliverables.
+I am very interested in interactive documentation delivery models. I believe we can reduce task complexity by allowing customers to choose options and retrieve relevant content. We realized this with the HPE Synergy Firmware Comparison Tool. Customers reported fewer issues understanding the supported software and firmware for their solution. Even better, we received positive feedback from customers and the field.
 
 ### HPE Synergy Firmware Comparison Tool
-I created this tool and have passed on maintenance to another writer
+The firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.  
 
 ### HPE ConvergedSystems 750 Interactive Matrix
-This is very basic interactivity, but allows the user to filter through the table content.
+This is very basic interactivity allowing the customer to filter through the table content. 
 
 ### HPE DL380 Gen10 Cabling Matrix
-This used the same interactivity as the Converged System Tool, but the value add is that a customer can enter a cable or cable kit part number and identify what it can be used to cable.
+This also uses the simple filter text field. The value add is allowing the customer to enter a cable or cable kit part number and identify supported cabling scenarios.
 
 ### Augmented Reality
-A colleague and I create an augmented reality (AR) template tool for server cabling. This was done using JavaScript which has limited functionality for AR. We are currently looking at options to developer this further.
-[HPE ProLiant Gen10 DL380 Cabling Matrix](https://techhub.hpe.com/eginfolib/servers/CableMatrix/GUID-76C9E454-E5AA-4A65-BA5E-132A7D306E07.html)
+A colleague and I create an augmented reality (AR) template tool for server cabling. This was done using JavaScript which has limited functionality for AR. We are currently looking at options to develop this further.
 
 ### Interactive Cabling diagrams
 Working with the visual design team to code SVGs for interactivity allowing customers to click-through complex cabling procedures.
