@@ -1,7 +1,7 @@
 --- 
 home: true
-features: 
-<div style="text-align: center">
+footer: chriskpeterson@gmail.com | 2019
+---
   <Bit/>
 </div>
 
@@ -20,6 +20,5 @@ features:
     <p>VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.</p>
   </div>
 </div>
-footer: chriskpeterson@gmail.com | 2019
----
+
 
