@@ -3,11 +3,13 @@ home: true
 actionText: Resume
 actionLink: resume.html
 features: 
-- title: DITA XML
+- title: Resume
   details: DITA XLM topic writing expert. Worked with SDL, XMetaL, Oxygen, and Vasont.
-- title: Innovation
-  details: Interactive documentation, SVGs, and augmented reality.
-- title: Simplified English
+  [Resume](resume.html)
+- title: Writing Samples
+  details: DITA XML, concept, task, and reference topics.
+  [Writing samples](writingsamples.html)
+- title: About
   details: Clear, concise writing to make localization happy.
 footer: chriskpeterson@gmail.com | 2019
 ---
