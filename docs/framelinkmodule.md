@@ -85,3 +85,18 @@ Procedure
    An USB inventory is collected and a default USB storage device is presented.
 4. Select a USB storage device from the list.
 5. To initiate the support dump collection. click **Collect**.
+
+
+## Security features
+
+Hewlett Packard Enterprise recommends following security best practices by protecting and isolating management networks
+from production data networks. To ensure high availability, and to guard against various network attacks, isolate the HPE
+Synergy Composer management network using the appropriate mechanisms such as firewalls and intrusion detection systems.
+
+To ensure a secure platform for data center management, the frame link module includes features such as the following:
+
+* Separation of the data and management environments, which is critical to protect against Denial of Service (DoS) attacks.
+* Protection against DoS attacks on the management ring with traffic prioritization and rate limiting.
+* Audit logging of all frame link module activity.
+* Verification of certificates for Transport Layer Security (TLS).
+* Hardware enforced write protection to ensure integrity and prevent unauthorized modification of the currently running frame link module firmware image.
