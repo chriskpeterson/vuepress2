@@ -2,6 +2,7 @@
 home: true
 footer: chriskpeterson@gmail.com | 2019
 ---
+<div style="text-align: center">
   <Bit/>
 </div>
 
