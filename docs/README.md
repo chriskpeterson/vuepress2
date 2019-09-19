@@ -9,18 +9,20 @@ footer: chriskpeterson@gmail.com | 2019
 <div class="features">
   <div class="feature" style="text-align: center;">
     <h2>Resume</h2>
-    <p>Normal resume matter. Skills, Experience, Etc.</p>
-    <a href="resume.html">Resume</a>
+    <p>Normal resume matter.</p> 
+    <p>Skills, Experience, Etc.</p>
+    <a href="resume.html">resume</a>
   </div>
   <div class="feature" style="text-align: center;">
     <h2>Writing samples</h2>
-    <p>A few writing samples. Things I'm working on now.</p>
-    <a href="writingsamples.html">Resume</a>
+    <p>A few writing samples.</p>
+      <p>Things I'm working on now.</p>
+    <a href="writingsamples.html">writing samples</a>
   </div>
   <div class="feature" style="text-align: center;">
     <h2>About</h2>
     <p>A bit about me.</p>
-    <a href="aboute.html">Resume</a>
+    <a href="aboute.html">about</a>
   </div>
 </div>
 
