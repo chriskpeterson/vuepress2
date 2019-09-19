@@ -87,5 +87,5 @@ When using the HC 380 General Virtualization or VDI solutions, the following net
 
 *Just including this for the illustration. I sometimes work in Illustrator to create cabling diagrams, flow charts, and task illustrations.*
 
-![](C:\Users\chris\Documents\GitHub\vuepress2\docs\public\hc380genvirtconfigcabling.PNG)
+![](https://chriskpeterson.github.io/vuepress2/public/hc380genvirtconfigcabling.PNG)
 
