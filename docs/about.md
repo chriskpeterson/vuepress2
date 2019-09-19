@@ -2,7 +2,8 @@
 
 ## Some information about me
 
-Currently, I live in Houston, TX and work at Hewlett Packard Enterprise (HPE). At HPE, I focus on content for HPE Synergy and the AMD-based HPE ProLiant DL385 server. In our knowledge management group, I serve on the information architecture team, the quality team, and tools team. I help new writers learn the tools and help seasoned writers with troubleshooting. 
+Currently, I live in Houston, TX and work at Hewlett Packard Enterprise (HPE). At HPE, I focus on content for HPE Synergy and the AMD-based HPE ProLiant DL385 server. In our knowledge management group, I serve on the information architecture team, the quality team, and tools team. I help new writers learn the tools and help seasoned writers troubleshoot the tools. 
+[Current projects](projects.html)
 
 ### Personal facts
 
