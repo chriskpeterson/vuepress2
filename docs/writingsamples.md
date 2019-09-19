@@ -18,7 +18,7 @@
 
 ## Frame Link Module
 
-[Writing samples](writingsamples1.html)
+[Writing samples](framelinkmodule.html)
 
 ------
 
