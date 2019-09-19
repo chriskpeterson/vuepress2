@@ -18,14 +18,6 @@ The majority of my writing is for user guides, update guides, setup overviews, a
 
 ------
 ------
-## ConvergedSystem 700
-
-*For this program I writer firmware and software compatibility matrix guides and multiple step-by-step update guides. The update guides include installing firmware updates, software updates, VMware ESXi configuration, and switch configuration. 
-
-[Writing samples](cs700.html)
-
-------
-------
 ## HPE Synergy
 
 *For the HPE Synergy program I write the start here poster (resource), cabling guide, and software release overview information. I also serve as a product expert evaluating all other deliverables to ensure content consistency and content sharing best practices.* 
@@ -33,10 +25,24 @@ The majority of my writing is for user guides, update guides, setup overviews, a
 [Writing samples](synergy.html)
 
 ------
+------
+## ConvergedSystem 700
+
+*For this program I writer firmware and software compatibility matrix guides and multiple step-by-step update guides. The update guides include installing firmware updates, software updates, VMware ESXi configuration, and switch configuration. 
+
+[Writing samples](cs700.html)
+------
+------
+HPE SimpliVity 380
+*I worked on the initial setup guides for this product. A few of the topics I authored and an illustration are included.*
+
+[Writing samples](simplivity380.html)
 
 ## Topic analysis and rewrite exercise
 
 *Here, I picked two topics for evaluation.* 
 
 [Topic evaluation](topicevaluation.html)
+
+
 
