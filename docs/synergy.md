@@ -11,7 +11,7 @@ This print deliverable provides a high-level overview of the complete process to
 
 A few topics from the poster:
 
-## 3. Configure the hardware in HPE OneView
+### 3. Configure the hardware in HPE OneView
 
 The following steps provide an overview of the initial setup of HPE OneView. For detailed steps, see "Quick Start: Initial configuration of HPE OneView" in the *HPE OneView Help for HPE Synergy*.
 
