@@ -4,9 +4,9 @@
 
 This print deliverable provides a high-level overview of the complete process to install the hardware and software for HPE Synergy. This project involved converting a  20" x 30" poster to 11"x17 while also adding additional content. 
 
-![Start Here Poster page 1](https://chriskpeterson.github.io/vuepress2/public/starthereposter1a.PNG)
+![Start Here Poster page 1](https://chriskpeterson.github.io/vuepress2/public/starthereposter1a.png)
 
-![Start Here Poster page 2](https://chriskpeterson.github.io/vuepress2/public/starthereposter2a.PNG)
+![Start Here Poster page 2](https://chriskpeterson.github.io/vuepress2/public/starthereposter2a.png)
 
 
 A few topics from the poster:
