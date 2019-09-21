@@ -55,7 +55,16 @@ imaging. Responsible for vendor management including negotiating and managing eq
 
 ### University
 
-I have two degrees
 * BA English 
 * BS Industrial Design
-  For fun, here's some of my design work [ID Portfolio](https://www.behance.net/chriskpeterson)
+
+### Some tools I use or am familiar with
+
+* SDL (our current authoring database)
+* XMetaL (our current authoring tool)
+* Oxygen (I currently use Oxygen for testing)
+* AuthorIT
+* Vasont 
+* Arbortext 
+* Adobe Creative Cloud (Illustrator, Photoshop, etc.)
+* Some coding with HTML, CSS, and JavaScript

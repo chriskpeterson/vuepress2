@@ -41,7 +41,7 @@ In general, I write user guides, update guides, setup overviews, and software an
 
 ## Topic analysis and rewrite exercise
 
-*Here, I picked two topics for evaluation.* 
+*I choose two topics providing some evaluation and minor rewrites.* 
 
 [Topic evaluation](topicevaluation.html)
 
