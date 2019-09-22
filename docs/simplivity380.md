@@ -2,13 +2,15 @@
 
 *This content is from an installation guide for the previous generation HPE SimpliVity 380 (Hyper Converged 380). Installation included cabling and management software installation and configuration.*
 
+*HPE SimpliVity 380 is a node-based composable architecture utilizing rack-based servers for compute, storage, and networking. In a typically large-scale deployment, compute and storage are typically hardware components. Though this has its advantages, it can be difficult to configure and deploy. The all-in-one architecture of SimpliVity allows customers to easily configure and grow their solution as demand increases.*
+
+*I worked on the first documentation resources for this product. As part of the team, I worked with engineering testing installation, configuration, and maintenance well before the product was shipped.*
+
+*The following topics are snippets from the installation guide and the user guide.*
+
 
 
 ## Before you begin
-
-
-
-
 
 ## Installing the Hyper Converged Operating Environment
 
@@ -62,7 +64,7 @@ The initial configuration setup and process only utilize a portion of the total 
 	If you are not seeing what is expected, click **Refresh** in the top menu bar. 
 	
 7. From the Actions menu, select **Create Datastore**. 
-  The Create Datastore wizard appears. 
+    The Create Datastore wizard appears. 
 
   Alternatively, right-click the cluster name and select **All HP Management Actions** > **Create Datastores**. 
 
@@ -86,6 +88,8 @@ When using the HC 380 General Virtualization or VDI solutions, the following net
 ## General virtualization configuration (all 1GbE appliance)
 
 *Just including this for the illustration. I sometimes work in Illustrator to create cabling diagrams, flow charts, and task illustrations.*
+
+![HPE SimpliVity 380 cabling diagrams](https://chriskpeterson.github.io/vuepress2/public/hc380_cabling_diagrams.PNG)
 
 ![](https://chriskpeterson.github.io/vuepress2/public/hc380genvirtconfigcabling.PNG)
 
