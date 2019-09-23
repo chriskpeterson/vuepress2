@@ -1,9 +1,14 @@
 
 
-# HPE Synergy Frame Link Module
+# HPE Synergy Frame Link Module User Guide
 
+*Content samples from the HPE Synergy Frame Link Module User Guide*
 
 *This topic includes terminology defined in the documentation and in an external glossary.*
+
+**Tools:** SDL and XMetaL
+
+**Role:** Project lead and lead writer
 
 ## HPE Synergy 12000 Frame internal management network
 

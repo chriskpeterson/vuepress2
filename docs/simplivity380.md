@@ -10,7 +10,15 @@
 
 *The following topics are snippets from the installation guide and the user guide.*
 
+------
 
+**Tools:** AuthorIT / (migrated to and completed in SDL and XMetaL)
+
+**Role:** Part of a writing team responsible for the user guide, release notes, and contributing to the installation guide.
+
+------
+
+**
 
 > ## Before you begin
 >
@@ -82,7 +90,7 @@
 >
 > When using the HC 380 General Virtualization or VDI solutions, the following networks and configurations are used over the FlexLOM (1 or 10GbE) interface for each node:
 >
-> * ESXi Management Network (untagged, pvid network).  
+> * VMware ESXi Management Network (untagged, pvid network).  
 > * VMware vMotion Network (untagged or tagged network). 
 > * VSA iSCSI Storage network (untagged or tagged network). 
 > * IPv6 must be enabled for the VLANs used by the HC 380. 
