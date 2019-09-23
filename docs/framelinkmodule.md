@@ -16,7 +16,7 @@ The samples below include a description of the management network, managed by th
 
 ------
 
-
+*This product is focused on customer wanted a high-security environment. For this reason, we wanted to explicity explain how the product's management network is highly secure separating management and production networks.*
 
 ## HPE Synergy 12000 Frame internal management network
 
