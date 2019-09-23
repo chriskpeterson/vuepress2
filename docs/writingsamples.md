@@ -8,7 +8,7 @@
 
 # Writing samples
 
-I write user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
+At HPE, I write user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
 
 Below, I've listed some of the programs I work on with a link to a few writing samples from each.
 
