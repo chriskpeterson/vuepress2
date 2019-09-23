@@ -89,10 +89,9 @@ When using the HC 380 General Virtualization or VDI solutions, the following net
 
 ## General virtualization configuration (all 1GbE appliance)
 
-*Just including this for the illustration. I sometimes work in Illustrator to create cabling diagrams, flow charts, and task illustrations.*
 
 ![HPE SimpliVity 380 cabling diagrams](https://chriskpeterson.github.io/vuepress2/public/hc380_cabling_diagrams.PNG)
 
-![](https://chriskpeterson.github.io/vuepress2/public/hc380genvirtconfigcabling.PNG)
+![HPE SimpliVity 380 cabling diagram](https://chriskpeterson.github.io/vuepress2/public/hc380genvirtconfigcabling.PNG)
 
-<kbd><img src="https://chriskpeterson.github.io/vuepress2/public/hc380_cabling_diagrams.PN" style="border-style: solid;"/></kbd>
+
