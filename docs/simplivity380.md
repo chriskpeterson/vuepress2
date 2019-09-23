@@ -1,26 +1,22 @@
 # HPE SimpliVity 380
 
-*This content is from an installation guide for the previous generation HPE SimpliVity 380 (Hyper Converged 380). Installation included cabling and management software installation and configuration.*
+*This content is from an installation guide for the first generation HPE SimpliVity 380 (Hyper Converged 380). Installation included cabling and management software installation and configuration. I was on the team that worked on the initial launch of this product. The hardware, software, and user interface were all being developed in tandem with the documentation.*
 
-*HPE SimpliVity Hyper Converged 380 is a node-based hyperconverged architecture utilizing rack-based servers for compute, storage, and networking. In a typical large-scale deployment, compute, storage, and networking are integrated using individual components. 
+*The key to this product is that it offers an easy installation and setup. Our group supported management's vision and delivered a documentation set through enough for a novice IT engineer to install and configure this product.* 
 
-*I was on the team that worked on the initial launch of this product. The hardware, software, and user interface were all being developed as we created the documentation. On this project, I worked closely with the team writing the hyperconverged management software context sensitive help.*
-
-*I worked on the first documentation resources for this product. As part of the team, I worked with engineering testing installation, configuration, and maintenance well before the product was shipped.*
+This product was developed quickly requiring a short ramp and steep learning curve. The documentation team worked closely with engineering to test installation, configuration, and maintenance against each of our guides.*
 
 *The following topics are snippets from the installation guide and the user guide.*
 
 ------
 
-**Tools:** AuthorIT / (migrated to and completed in SDL and XMetaL)
+**Tools:** AuthorIT / SDL and XMetaL / Adobe Illustrator)
 
 **Role:** Part of a writing team responsible for the user guide, release notes, and contributing to the installation guide.
 
 ------
 
-**
 
- ## Before you begin
 
  ## Installing the Hyper Converged Operating Environment
 
@@ -61,18 +57,17 @@
  2. Enter your user name and password for the vSphere Web Client.  		    		
 
  3. Click   **Login**.  		    		
-     To familiarize yourself with the layout of the vSphere Web Client, review the information on the **Getting Started** tab
+     To familiarize yourself with the layout of the vSphere Web Client, review the information on the **Getting Started** tab.
 
  4. Select **vCenter** > **Hosts and Clusters** > **Cluster**.
 
  5. Select the specific cluster for which you want to create a datastore. 
- 	The Summary tab for the selected cluster appears. 
- 	
+	 	The Summary tab for the selected cluster appears. 
+	
  6. Select **Manage** > **HPE Management**. 
- 	The Actions menu appears. 
- 	The vSphere Web Client may not always refresh quickly. 
- 	
- 	If you are not seeing what is expected, click **Refresh** in the top menu bar. 
+	 	The Actions menu appears. 
+
+ 	If the Action menu does not appear, click **Refresh** in the top menu bar. 
  	
  7. From the Actions menu, select **Create Datastore**. 
      The Create Datastore wizard appears. 
@@ -98,10 +93,11 @@
 
  ## General virtualization configuration (all 1GbE appliance)
 
+ *Due to the aggressive project schedule, I create all of the illustrations in the guide. *
 
- ![HPE SimpliVity 380 cabling diagrams](https://chriskpeterson.github.io/vuepress2/public/hc380_cabling_diagrams.PNG)
+![HPE SimpliVity 380 cabling diagrams](https://chriskpeterson.github.io/vuepress2/public/hc380_cabling_diagrams.PNG)
 
- ![HPE SimpliVity 380 cabling diagram](https://chriskpeterson.github.io/vuepress2/public/hc380genvirtconfigcabling.PNG)
+
 
 
 
