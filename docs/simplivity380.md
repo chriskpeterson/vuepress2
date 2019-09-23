@@ -2,7 +2,9 @@
 
 *This content is from an installation guide for the previous generation HPE SimpliVity 380 (Hyper Converged 380). Installation included cabling and management software installation and configuration.*
 
-*HPE SimpliVity 380 is a node-based composable architecture utilizing rack-based servers for compute, storage, and networking. In a typically large-scale deployment, compute and storage are typically hardware components. Though this has its advantages, it can be difficult to configure and deploy. The all-in-one architecture of SimpliVity allows customers to easily configure and grow their solution as demand increases.*
+*HPE SimpliVity Hyper Converged 380 is a node-based hyperconverged architecture utilizing rack-based servers for compute, storage, and networking. In a typical large-scale deployment, compute, storage, and networking are integrated using individual components. 
+
+*I was on the team that worked on the initial launch of this product. The hardware, software, and user interface were all being developed as we created the documentation. On this project, I worked closely with the team writing the hyperconverged management software context sensitive help.*
 
 *I worked on the first documentation resources for this product. As part of the team, I worked with engineering testing installation, configuration, and maintenance well before the product was shipped.*
 
@@ -93,3 +95,4 @@ When using the HC 380 General Virtualization or VDI solutions, the following net
 
 ![](https://chriskpeterson.github.io/vuepress2/public/hc380genvirtconfigcabling.PNG)
 
+<kbd><img src="https://chriskpeterson.github.io/vuepress2/public/hc380_cabling_diagrams.PN" style="border-style: solid;"/></kbd>
