@@ -30,14 +30,11 @@ These Ethernet connections provide fault tolerant connectivity to the frame mana
 ![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/flm_mgmt_network.PNG)
 
 
-
+------
 ## HPE Synergy 12000 Frame external management ring network
 
-------
 
 **IMPORTANT:** All external rack switches used for the management network must be IEEE 802.1D compliant so that LLDP packets are not forwarded.
-
-------
 
 The frame link module LINK port provides a 10Gb redundant air-gapped fault tolerant network. Connected LINK ports create a management ring in single frame or multiframe configurations. Once the solution is cabled, management network connectivity does not require user or external rack switch configuration.
 
@@ -46,14 +43,13 @@ The frame link module MGMT port provides a 1Gb or 10Gb connection to the externa
 NOTE: To perform a MGMT Port Test, use the Frame Management Network IPv6 Link Local address of a frame claimed by HPE OneView. The Frame Management Network IPv6 Link Local address can be viewed on the HPE Synergy Console Frame Health & Inventory screen.
 
 
-
-## Performing an MGMT Port Test
-
 ------
+*This topic is a task topic covering a ping test to ensure the solution is cabled directly. The note is included because we had numerous support calls about the IPv6 test to use for this test.*
+
+## Performing an MGMT Port Test on a remote management ring
+
 
 **NOTE:** To perform an MGMT Port Test, use the Frame Management Network IPv6 Link Local address of a frame claimed by HPE OneView. The Frame Management Network IPv6 Link Local address can be viewed on the HPE Synergy Console Frame Health & Inventory screen.
-
-------
 
 Procedure
 
@@ -67,7 +63,8 @@ Procedure
 
    If the test is unsuccessful, information to troubleshoot the error is displayed.
 
-
+------
+*This was a new feature in our last release.*
 
 ## Collecting an FLM Support Dump
 
