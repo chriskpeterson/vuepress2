@@ -1,3 +1,3 @@
 # HPE Restful API
 
-![HPE SimpliVity 380 cabling diagram](https://chriskpeterson.github.io/vuepress2/public/hpe_restulapi.PNG)
+![HPE RESTful api video](https://chriskpeterson.github.io/vuepress2/public/hpe_restful_api.PNG)
