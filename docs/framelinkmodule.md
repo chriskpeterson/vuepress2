@@ -31,6 +31,7 @@ These Ethernet connections provide fault tolerant connectivity to the frame mana
 
 
 ------
+
 ## HPE Synergy 12000 Frame external management ring network
 
 **IMPORTANT:** All external rack switches used for the management network must be IEEE 802.1D compliant so that LLDP packets are not forwarded.
@@ -43,6 +44,7 @@ NOTE: To perform a MGMT Port Test, use the Frame Management Network IPv6 Link Lo
 
 
 ------
+
 *This topic is a task topic covering a ping test to ensure the solution is cabled directly. The note is included because we had numerous support calls about the IPv6 test to use for this test.*
 
 ## Performing an MGMT Port Test on a remote management ring
@@ -62,6 +64,7 @@ Procedure
    If the test is unsuccessful, information to troubleshoot the error is displayed.
 
 ------
+
 *This was a new feature in our last release.*
 
 ## Collecting an FLM Support Dump
@@ -69,8 +72,6 @@ Procedure
 **NOTE:** Collecting an FLM Support Dump requires a USB 2.0 compatible USB drive formatted as FAT16, FAT32, or VFAT.
 
 **NOTE:** To access the FLM Support Dump action, the FLM Maintenance Console must be enabled. For more information, see “About the FLM Maintenance Console”.
-
-The FLM Support Dump feature writes a frame link module support dump to a USB storage device.
 
 **Procedure**
 
@@ -84,6 +85,7 @@ The FLM Support Dump feature writes a frame link module support dump to a USB st
 5. To initiate the support dump collection. click **Collect**.
 
 ------
+
 ## Security features
 
 Hewlett Packard Enterprise recommends following security best practices by protecting and isolating management networks
