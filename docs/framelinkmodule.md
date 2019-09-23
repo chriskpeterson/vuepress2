@@ -4,7 +4,7 @@
 
 *Content samples from the HPE Synergy Frame Link Module User Guide*
 
-I server as the project lead and lead writer for this guide. HPE Synergy is a new product, but I didn't start writing for it until a year after launch. This particular component did not have a dedicated user guide so I worked with the core team to develop this guide from the ground up. This allowed me to identify issues in other guides around HPE Synergy terminology and help clean up the documentation set.
+I serve as the project lead and lead writer for this guide. HPE Synergy is a new product, but I didn't start writing for it until a year after launch. This particular component did not have a dedicated user guide so I worked with the core team to develop this guide from the ground up. This allowed me to identify issues in other guides around HPE Synergy terminology and help clean up the documentation set.
 
 The samples below include a description of the management network, managed by the frame link module, and a few task samples.
 
