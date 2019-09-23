@@ -46,4 +46,9 @@ In general, I write user guides, update guides, setup overviews, and software an
 [Topic evaluation](topicevaluation.html)
 
 
+## Other work
 
+### HPE RESTful API
+Created a video for the HPE RESTful API interface
+
+[HPE RESTful API video](hpe_restful_api.html)
