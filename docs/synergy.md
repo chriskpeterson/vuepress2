@@ -6,7 +6,7 @@
 
 ------
 
-For this program, I work on solution-level documentation and server as an intermediary between writers to ensure content consistency. 
+For this program, I work on solution-level documentation and serve as an intermediary between writers to ensure content consistency. 
 
 ## HPE Synergy software releases
 
@@ -14,7 +14,7 @@ As part of the software release team, I document and deliver content that's publ
 
 This is a page from the Important Notes section where we outline supported firmware, firmware features, and any firmware level alerts. I create the content in our authoring database to ensure consistency. Once approved, it's output to HTML and submitted to our supply chain group.
 
-[HPE Synergy Software Release Information - sample content](https://support.hpe.com/hpsc/doc/public/SynergySoftwareRelease.pdf)
+[HPE Synergy Software Release Information - sample content](https://chriskpeterson.github.io/vuepress2/public/SynergySoftwareRelease.pdf)
 
 ------
 
