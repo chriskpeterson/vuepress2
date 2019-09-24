@@ -8,7 +8,7 @@
 
 **Tools:** SDL and XMetaL
 
-**Link:** [HPE ProLiant DL385 Gen10 Server User Guide - sample](https://chriskpeterson.github.io/vuepress2/public/DL385_sample.pdf)
+**Link:**  [HPE ProLiant DL385 Gen10 Server User Guide - sample](https://chriskpeterson.github.io/vuepress2/public/DL385_sample.pdf)
 
 ------
 

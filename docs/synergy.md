@@ -1,15 +1,26 @@
 # HPE Synergy
 
-## Start Here Poster
+## HPE Synergy Software Release Information
 
-This print deliverable provides a high-level overview of the complete process to install the hardware and software for HPE Synergy. This project involved converting a  20" x 30" poster to 11"x17 while also adding additional content. 
+One of the HPE Synergy deliverables I work on is the software release information. We typically release some level of firmware every two to three weeks. This content is developed in our authoring tool, SDL, and then provided to supply chain for upload into our software depot.
+
+This is a page from the Important Notes section where we outline supported firmware, firmware features, and any firmware level alerts. 
+
+[HPE Synergy Software Release Information - sample content](https://support.hpe.com/hpsc/doc/public/SynergySoftwareRelease.pdf)
+
+
+
+## HPE Synergy Start Here Poster
+
+This print deliverable provides a high-level overview of the complete process to install and configure the hardware and software for HPE Synergy. The content was developed with the core team, field engineers, sales enablement, and our R&D group. I validated the steps through our field engineers and by participating in a setup and configuration lab. 
 
 ![Start Here Poster page 1](https://chriskpeterson.github.io/vuepress2/public/starthereposter1a.png)
 
 ![Start Here Poster page 2](https://chriskpeterson.github.io/vuepress2/public/starthereposter2a.png)
 
+The poster is intentionally displayed in low quality as this is a print deliverable and not posted to the web.
 
-A few topics from the poster:
+Here are a few topics from the poster:
 
 ### 3. Configure the hardware in HPE OneView
 
@@ -56,5 +67,4 @@ An enclosure group is a logical resource that defines the configuration for an e
 
 An enclosure group can contain up to five enclosures.
 
-To add an enclosure group, select **OneView** > **SERVERS** > **Enclosure**
-**groups**.
+To add an enclosure group, select **OneView** > **SERVERS** > **Enclosure groups**.
