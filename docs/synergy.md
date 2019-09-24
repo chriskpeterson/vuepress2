@@ -6,7 +6,7 @@
 
 ------
 
-For this program, I work on solution-level documentation and serve as an intermediary between writers to ensure content consistency. 
+The following samples are for solution level documentation covering both hardware and software components and procedures.
 
 ## HPE Synergy software releases
 
