@@ -42,14 +42,14 @@ For this program, I work on the various in-box print deliverables and the user g
 
 ## ConvergedSystem 700
 
-For this program, I write firmware and software compatibility matrices and the step-by-step upgrade guides. 
+For this program, I write firmware and software compatibility matrices and step-by-step upgrade guides. 
 
 [Writing sample](cs700.html)
 
 
 
 
-## HPE SimpliVity 380
+## HPE Hyper Converged 380
 
 For this program, I worked on a user guide, compatibility matrix, and release notes.
 
