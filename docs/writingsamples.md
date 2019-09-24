@@ -27,7 +27,17 @@ HPE Synergy is a premier program at HPE. The product is a composable software-de
 
 For the solution level HPE Synergy program, I write the start here poster (resource), cabling guide, and software release information. I also serve as a product expert evaluating all other deliverables to ensure content consistency and content sharing best practices.
 
-[Writing samples*](synergy.html)
+[Writing samples](synergy.html)
+
+
+
+## HPE ProLiant DL380 Server
+
+
+
+[Writing sample](HPEProLiantServers.html)
+
+
 
 
 ## ConvergedSystem 700
