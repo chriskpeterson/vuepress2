@@ -8,11 +8,9 @@
 
 # Writing samples
 
-Please find a link to some of the content I've created at HPE. These samples are mostly task, concept, and reference topics
+Please find a link to some of the content I've created at HPE. These samples are mostly task, concept, and reference topics At HPE, I write user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
 
-At HPE, I write user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
-
-Below, I've listed some of the programs I work on with a link to a few writing samples from each.
+Below, I've listed some of the programs I work on with a link to a sample from each.
 
 
 
@@ -22,7 +20,7 @@ The frame link module is a management module for HPE Synergy frames.  This modul
 
 For this program, I write a user guide for the hardware and software components.
 
-[Writing samples](framelinkmodule.html)
+[Writing sample](framelinkmodule.html)
 
 
 
@@ -33,7 +31,7 @@ HPE Synergy is a premier program at HPE. The product is a composable software-de
 
 For the solution level HPE Synergy program, I write the start here poster (resource), cabling guide, and software release information. I also serve as a product expert evaluating all other deliverables to ensure content consistency and content sharing best practices.
 
-[Writing samples](synergy.html)
+[Writing sample](synergy.html)
 
 
 
@@ -52,7 +50,9 @@ HPE ConvergedSystem 700 is pre-configured and purpose compute, networking, and s
 
 For this program, I write firmware and software compatibility matrices and step-by-step update guides. The update guides include firmware updates, software updates, VMware ESXi configuration, and switch configuration.
 
-[Writing samples](cs700.html)
+[Writing sample](cs700.html)
+
+
 
 
 ## HPE SimpliVity 380
@@ -61,7 +61,9 @@ HPE Hyper Converged 380 (or HPE SimpliVity 380) is a node-based server solution 
 
 For this program I worked on the initial deployment which was run on an aggressive schedule.
 
-[Writing samples](simplivity380.html)
+[Writing sample](simplivity380.html)
+
+
 
 
 ## Topic analysis and rewrite exercise
