@@ -1,20 +1,20 @@
 # HPE SimpliVity 380
 
-*This content is from an installation guide for the first generation HPE SimpliVity 380 (Hyper Converged 380). Installation included cabling and management software installation and configuration. I was on the team that worked on the initial launch of this product. The hardware, software, and user interface were all being developed in tandem with the documentation.*
-
-*The key to this product is that it offers an easy installation and setup. Our group supported management's vision and delivered a documentation set through enough for a novice IT engineer to install and configure this product.* 
-
-This product was developed quickly requiring a short ramp and steep learning curve. The documentation team worked closely with engineering to test installation, configuration, and maintenance against each of our guides.*
-
-*The following topics are snippets from the installation guide and the user guide.*
-
-------
-
-**Tools:** AuthorIT / SDL and XMetaL / Adobe Illustrator)
+**Tools:** AuthorIT / SDL and XMetaL / Adobe Illustrator
 
 **Role:** Part of a writing team responsible for the user guide, release notes, and contributing to the installation guide.
 
 ------
+
+This content is from an installation guide for the first generation HPE SimpliVity 380 (Hyper Converged 380). Installation included cabling and management software installation and configuration. I was on the team that worked on the initial launch of this product. The hardware, software, and user interface were all being developed in tandem with the documentation.
+
+
+
+Link: [Initial setup sample](https://chriskpeterson.github.io/vuepress2/public/DL385tasks.pdf)
+
+------
+
+
 
 
 
