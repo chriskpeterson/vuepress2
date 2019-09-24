@@ -4,7 +4,7 @@
 
 *Content samples from the HPE Synergy Frame Link Module User Guide*
 
-I server as the project lead and lead writer for this guide. HPE Synergy is a new product, but I didn't start writing for it until a year after launch. This particular component did not have a dedicated user guide so I worked with the core team to develop this guide from the ground up. This allowed me to identify issues in other guides around HPE Synergy terminology and help clean up the documentation set.
+I serve as the project lead and lead writer for this guide. HPE Synergy is a new product, but I didn't start writing for it until a year after launch. This particular component did not have a dedicated user guide so I worked with the core team to develop this guide from the ground up. This allowed me to identify issues in other guides around HPE Synergy terminology and help clean up the documentation set.
 
 The samples below include a description of the management network, managed by the frame link module, and a few task samples.
 
@@ -18,7 +18,7 @@ Link: [HPE Synergy Frame Link Module User Guide for FLM 3.0](https://support.hpe
 
 ------
 
-
+*This product is focused on customer wanted a high-security environment. For this reason, we wanted to explicity explain how the product's management network is highly secure separating management and production networks.*
 
 ## HPE Synergy 12000 Frame internal management network
 
@@ -32,14 +32,11 @@ These Ethernet connections provide fault tolerant connectivity to the frame mana
 ![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/flm_mgmt_network.PNG)
 
 
+------
 
 ## HPE Synergy 12000 Frame external management ring network
 
-------
-
 **IMPORTANT:** All external rack switches used for the management network must be IEEE 802.1D compliant so that LLDP packets are not forwarded.
-
-------
 
 The frame link module LINK port provides a 10Gb redundant air-gapped fault tolerant network. Connected LINK ports create a management ring in single frame or multiframe configurations. Once the solution is cabled, management network connectivity does not require user or external rack switch configuration.
 
@@ -48,14 +45,13 @@ The frame link module MGMT port provides a 1Gb or 10Gb connection to the externa
 NOTE: To perform a MGMT Port Test, use the Frame Management Network IPv6 Link Local address of a frame claimed by HPE OneView. The Frame Management Network IPv6 Link Local address can be viewed on the HPE Synergy Console Frame Health & Inventory screen.
 
 
-
-## Performing an MGMT Port Test
-
 ------
+
+*This topic is a task topic covering a ping test to ensure the solution is cabled directly. The note is included because we had numerous support calls about the IPv6 test to use for this test.*
+
+## Performing an MGMT Port Test on a remote management ring
 
 **NOTE:** To perform an MGMT Port Test, use the Frame Management Network IPv6 Link Local address of a frame claimed by HPE OneView. The Frame Management Network IPv6 Link Local address can be viewed on the HPE Synergy Console Frame Health & Inventory screen.
-
-------
 
 Procedure
 
@@ -69,25 +65,17 @@ Procedure
 
    If the test is unsuccessful, information to troubleshoot the error is displayed.
 
+------
 
+*This was a new feature in our last release.*
 
 ## Collecting an FLM Support Dump
 
-------
-
 **NOTE:** Collecting an FLM Support Dump requires a USB 2.0 compatible USB drive formatted as FAT16, FAT32, or VFAT.
-
-------
-
-------
 
 **NOTE:** To access the FLM Support Dump action, the FLM Maintenance Console must be enabled. For more information, see “About the FLM Maintenance Console”.
 
-The FLM Support Dump feature writes a frame link module support dump to a USB storage device.
-
-------
-
-Procedure
+**Procedure**
 
 1. Connect a USB storage device one of the following:
    - The frame front panel
@@ -98,6 +86,7 @@ Procedure
 4. Select a USB storage device from the list.
 5. To initiate the support dump collection. click **Collect**.
 
+------
 
 ## Security features
 
