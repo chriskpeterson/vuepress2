@@ -1,14 +1,22 @@
 # HPE Synergy
 
-## HPE Synergy Software Release Information
+**Role:** Lead writer
 
-One of the HPE Synergy deliverables I work on is the software release information. We typically release some level of firmware every two to three weeks. This content is developed in our authoring tool, SDL, and then provided to supply chain for upload into our software depot.
+**Tools:** SDL, XMetaL, Adobe Illustrator
 
-This is a page from the Important Notes section where we outline supported firmware, firmware features, and any firmware level alerts. 
+------
+
+For this program, I work on solution-level documentation and server as an intermediary between writers to ensure content consistency. 
+
+## HPE Synergy software releases
+
+As part of the software release team, I document and deliver content that's published to our software depot download page. This program requires new documentation to be delivered every two or three weeks. 
+
+This is a page from the Important Notes section where we outline supported firmware, firmware features, and any firmware level alerts. I create the content in our authoring database to ensure consistency. Once approved, it's output to HTML and submitted to our supply chain group.
 
 [HPE Synergy Software Release Information - sample content](https://support.hpe.com/hpsc/doc/public/SynergySoftwareRelease.pdf)
 
-
+------
 
 ## HPE Synergy Start Here Poster
 
