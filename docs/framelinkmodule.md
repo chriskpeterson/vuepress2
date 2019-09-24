@@ -14,6 +14,8 @@ The samples below include a description of the management network, managed by th
 
 **Tools:** SDL and XMetaL
 
+Link: [HPE Synergy Frame Link Module User Guide for FLM 3.0](https://support.hpe.com/hpsc/doc/public/display?docId=a00082630en_us)
+
 ------
 
 
