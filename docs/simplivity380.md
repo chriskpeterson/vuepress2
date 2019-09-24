@@ -6,11 +6,15 @@
 
 ------
 
-This content is from an installation guide for the HPE Hyper Converged 380. I was on the team that worked on the initial launch of this product. The hardware, software, and user interface were all being developed in tandem with the documentation.
+This content is from an installation guide for the HPE Hyper Converged 380.
 
-This installation guide for this product covered the initial deployment of the software. From there, the customer is asked to reference the user guide. This section convers setting up additional storage space after the initial deployment.
+
+
+The product installation guide covers software deployment. From there, the customer is asked to reference the user guide. This user guide topic covers setting up additional storage space.
 
 Link: [HPE Hyper Converged 380 task sample](https://chriskpeterson.github.io/vuepress2/public/HC380UG.pdf)
+
+
 
 This samples covers UI functionality and tasks.
 
