@@ -15,6 +15,12 @@ DITA/XML, Illustrator, Markdown, Microsoft Excel, PowerPoint, and Word, Oxygen X
 
 ## EXPERIENCE
 
+### ### Senior Technical Writer
+#### Poly, Austin, TX - 
+Document Prime for Poly CCX business media phones. 
+* Key member of the Information Architecture Team.
+* Drive task-based authoring initiative.
+
 ### Information Developer 
 #### Hewlett Packard Enterprise, Houston, TX — 9/2014 – Present
 
