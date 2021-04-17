@@ -24,7 +24,7 @@ Document Prime for Poly CCX business media phones.
 * Key member for new product launch and planning the documentation structure.
 * Enhance documentation team knowledge by teaching other writers to setup lab phones with OpenSIP.
 * Developed documentation strategies for multiple new program launches.
-* Awarded multiple Poly WoW awards
+* Awarded multiple Poly WoW awards.
 
 ### Information Developer 
 #### Hewlett Packard Enterprise, Houston, TX — 9/2014 – Present
