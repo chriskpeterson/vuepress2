@@ -1,6 +1,6 @@
 module.exports = {
 title: 'Chris Peterson',
-description: 'Information Developer portfolio',
+description: 'Technical Writer | Resume and Work Samples',
 themeConfig: {
     nav: [
         { text: 'Home', link: '/'},

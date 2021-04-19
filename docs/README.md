@@ -1,6 +1,6 @@
 --- 
 home: true
-footer: chriskpeterson@gmail.com | 2019
+footer: chriskpeterson@gmail.com | 2021
 ---
 <div style="text-align: center">
   <Bit/>
