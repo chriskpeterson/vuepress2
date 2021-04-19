@@ -6,7 +6,7 @@ themeConfig: {
         { text: 'Home', link: '/'},
         { text: 'About', link: 'about.html'},
         { text: 'Resume', link: '/resume'},
-        { text: 'Writing samples', link: 'writingsamples.html'}
+        { text: 'Writing Samples', link: 'writingsamples.html'}
     ],
     
     sidebar: 'auto'
