@@ -3,10 +3,10 @@
 Here are some projects I'm currently working on in my current role.
 
 ## Content sharing
-I'm currently working on a template for our server platform allowing writers to update multiple variable files to create a version specific to each server. Most of our server guides include the same topics, but they include specific product names and illustrations. Using one variable file for company and product-specific variables and another variable file for illustrations will greatly reduce topic duplication.
+Created a template with variable files to create a version specific to each server. Most of our server guides include the same topics, but they include specific product names and illustrations. Using one variable file for company and product-specific variables and another variable file for illustrations will greatly reduce topic duplication.
 
 ## Information Architecture team
-On this team we:
+Worked performed as part of this team:
 * Provide consultation services for knowledge management writing teams on topic writing, sharing strategies, and DITA elements.
 * Create best practice guides topic planning and topic writing.
 * Address DTD issues such as missing elements (Our environment uses a constrained DTD. For example, we don't use the `<wintitle>` tag. Should we?). 
@@ -19,7 +19,7 @@ This team evaluates support cases that have been flagged for knowledge managemen
 I am very interested in interactive documentation delivery models. I believe we can reduce task complexity by allowing customers to choose options and retrieve relevant content. We realized this with the HPE Synergy Firmware Comparison Tool. Customers reported fewer issues understanding the supported software and firmware for their solution. Even better, we received positive feedback from customers and the field.
 
 ### HPE Synergy Firmware Comparison Tool
-The firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.  
+This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.  
 
 ### HPE ConvergedSystems 750 Interactive Matrix
 This is very basic interactivity allowing the customer to filter through the table content. 

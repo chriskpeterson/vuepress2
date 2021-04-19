@@ -19,7 +19,7 @@ footer: chriskpeterson@gmail.com | 2019
   </div>
   <div class="feature" style="text-align: center;">
     <h2>Projects</h2>
-    <p>Some teams I work with and projects I'm working on at HPE.</p>
+    <p>Some teams I work with and projects I'm working on.</p>
     <b><a href="projects.html" style="text-decoration: underline;">projects</a></b>
   </div>
 </div>
