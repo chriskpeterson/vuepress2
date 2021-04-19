@@ -13,7 +13,9 @@ Please find a link to some of the content I've created at HPE. These samples are
 Below, I've listed some of the programs I work on with a link to a writing sample for each.
 
 
+## Poly CCX Business Media Phones / UC Software
 
+[Writing sample](polysamples.md) 
 
 ## HPE Synergy
 
