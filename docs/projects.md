@@ -1,4 +1,4 @@
-# Projects and teams
+# Projects and Teams
 
 Here are some projects I'm currently working on in my current role.
 
@@ -6,7 +6,7 @@ Here are some projects I'm currently working on in my current role.
 
 Worked with our editing team to update the product documentation library taxonomy. As part of this project, I worked with Zoomin to implement their metadata to facets publishing plugin. Using this plugin ensures that topics utilize consistent metadata tagging and saves publishing time by a few hours.
 
-## Create task-based voice documentation
+## Create Task-Based Voice Documentation
 
 I initiated a project to take the concept and reference-based administrator guides for voice and convert them to task-based guides.
 
@@ -18,7 +18,7 @@ Investigated software to help our team write API documentation for both video an
 
 An integral member of the documentation team looking at ways to provide next-generation documentation. I'm investigating microcontent, personalized documentation, and methods for moving away from a book paradigm for delivering content.
 
-## Content sharing (HPE)
+## Content Sharing (HPE)
 
 Created a reuse template for server documentation leveraging the fact that most of the server guides are identical. The template allows writers to swap out the server name and images using a separate XML file. 
 
