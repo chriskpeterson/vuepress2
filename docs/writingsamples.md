@@ -13,7 +13,7 @@ Please find a link to some of the content I've created at Poly and HPE. These sa
 Below, I've listed some of the programs I work on with a link to a writing sample for each.
 
 
-## Poly CCX Business Media Phones / UC Software
+## Poly CCX Business Media Phones with UC Software
 
 [Writing sample](polysamples.md) 
 
