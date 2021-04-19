@@ -8,7 +8,7 @@
 
 # Writing samples
 
-Please find a link to some of the content I've created at HPE. These samples are mostly task, concept, and reference topics At HPE, I write user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
+Please find a link to some of the content I've created at Poly and HPE. These samples are mostly task, concept, and reference topics At HPE, I write user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
 
 Below, I've listed some of the programs I work on with a link to a writing sample for each.
 
