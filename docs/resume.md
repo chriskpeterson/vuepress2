@@ -65,7 +65,7 @@ imaging. Responsible for vendor management including negotiating and managing eq
 * Enhanced services and quality by cross-training staff on all department functions and fostering personal development initiatives.
 * Created opportunities for staff to attend on and off site training for office and creative programs.
 
-## University
+## Education
 
 * BA English 
 * BS Industrial Design
