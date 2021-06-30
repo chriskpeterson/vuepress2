@@ -70,13 +70,4 @@ imaging. Responsible for vendor management including negotiating and managing eq
 * BA English 
 * BS Industrial Design
 
-## Tools
 
-* SDL (our current authoring database)
-* XMetaL (our current authoring tool)
-* Oxygen (I currently use Oxygen for testing)
-* AuthorIT
-* Vasont 
-* Arbortext 
-* Adobe Creative Cloud (Illustrator, Photoshop, etc.)
-* Some coding with HTML, CSS, and JavaScript
