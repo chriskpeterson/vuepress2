@@ -17,19 +17,19 @@ DITA/XML, Illustrator, Markdown, Microsoft Excel, PowerPoint, and Word, Oxygen X
 
 ### Senior Technical Writer
 #### Poly, Austin, TX - 10/2019 - Present
-Document Prime for Poly CCX business media phones. 
-* Key member of the Information Architecture Team.
-* Updated search facets and taxonomy and created an XLS transform for the documentation library.
-* Initiated a program to remove offensive language from Poly documentation and code.
-* Key member for new product launch and planning the documentation structure.
-* Enhance documentation team knowledge by teaching other writers to setup lab phones with OpenSIP.
+Documentation project manager and lead writer for Poly voice and video endpoint products. Mentor junior writers, interview new hires and contingent staff, and serve on the information architecture team.
+* Worked with a cross-functional team delivering an updated documentation portal taxonomy and metadata strategy.
+* Initiated the removal of offensive language from Poly documentation and code.
+* Created a thorough audience analysis process used by the documentation team to plan documentation for new products.
+* Enhanced documentation team knowledge by teaching other writers to set up and configure home lab devices.
 * Developed documentation strategies for multiple new program launches.
 * Awarded multiple Poly WoW awards.
 
-### Information Developer 
-#### Hewlett Packard Enterprise, Houston, TX — 9/2014 – Present
 
-Content developer focused on the HPE ProLiant DL385 AMD-based server and HPE’s composable infrastructure product, HPE Synergy. Work with program managers, engineers, learning and development, and marketing to plan, author, and deliver technical information.
+### Information Developer 
+#### Hewlett Packard Enterprise, Houston, TX — 6/2013 – 10/2019
+
+Lead content developer focused on the HPE ProLiant DL385 AMD-based server and HPE’s composable infrastructure product, HPE Synergy. Work with program managers, engineers, learning and development, and marketing to plan, author, and deliver technical information.
 * Key member of the Information Architecture team evaluating and defining HPE DITA/XML standards.
 * Serve on a documentation quality team evaluating support cases for opportunities to enhance technical content.
 * Provide training and support to new hires and contingent workers on the use of content and graphics creation tools.
@@ -60,16 +60,17 @@ Responsible for state warrant (check) distributions, stock inventory, and agency
 
 Managed a team of sixteen associates in multiple locations performing back-office functions including: print, mail, records, and
 imaging. Responsible for vendor management including negotiating and managing equipment leases and service contracts. 
-* Enhanced services and quality by cross-training staff and funding personal development initiatives.
-* Reduced yearly department budget by $300k through negotiating copier leases and print costs.
-* Negotiated mail service contracts reducing costs by 15% while improving service offerings.
+* Started a program to cross-train staff on all functions in the department.
+* Fostered staff development for promotional opportunities within the corporate service department.
+* Enhanced services and quality by cross-training staff on all department functions and fostering personal development initiatives.
+* Created opportunities for staff to attend on and off site training for office and creative programs.
 
-### University
+## University
 
 * BA English 
 * BS Industrial Design
 
-### Some tools I use or am familiar with
+## Tools
 
 * SDL (our current authoring database)
 * XMetaL (our current authoring tool)
