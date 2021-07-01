@@ -30,3 +30,23 @@ I typically like to have at least one volunteer effort at all times. Here are so
 * Comp-U-Dopt
 
   Refurbished corporate PCs with Ubuntu Linux for underserved families. 
+
+
+# About Me
+
+## What Impact Have a Had with Poly
+
+- Provided new thinking and strategies around documentation delivery.
+- Made things possible such as a taxonomy update and documentation strategies
+- Helped shaped the documentation planning process to include audience assessment, detailed documentation goals, and xxxx......
+- New deliverable types such as animations and videos.
+- Helped shape the newly launched Poly documentation library.
+- Worked with Zoomin to implement a new publishing process reducing publishing time.
+- Sought after for technical know how.
+- Sought after for thinking outside the box.
+
+## What am I Good at?
+
+- Content strategy - Organize information into digestible chunks through guides, topic groups, articles, or how-to's.
+- Information Architecture - Develop metadata taxonomy and ontologies to improve search and findability
+- Simplified English Writing - Clear and accurate content written in simple English.
