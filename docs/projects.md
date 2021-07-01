@@ -8,7 +8,8 @@ Worked with our editing team to update the product documentation library taxonom
 
 ## Create Task-Based Voice Documentation
 
-I initiated a project to take the concept and reference-based administrator guides for voice and convert them to task-based guides.
+Initiated a project to take the concept and reference-based administrator guides for voice and convert them to task-based guides.
+This included creating a task template for this new type of task for our audience.
 
 ## API Documentation 
 
@@ -26,8 +27,7 @@ Created a reuse template for server documentation leveraging the fact that most 
 Worked performed as part of this team:
 * Provide consultation services for knowledge management writing teams on topic writing, sharing strategies, and DITA elements.
 * Create best practice guides for topic planning and topic writing.
-* Address DTD issues such as missing elements (Our environment uses a constrained DTD. For example, we don't use the `<wintitle>` tag. Should we?). 
-* Evaluate transform issues related to elements (Are writers using extra `<p>` tags for spacing? Should every image be placed into a `<fig>` tag?).
+* Review the approved DTD and update as necessary.
 
 ## Quality team
 This team evaluates support cases that have been flagged for knowledge management. We access the cases and pull out any relevant information where documentation was a factor. In a recent win, we identified that customers didn't understand how to set up a particular server. We were able to borrow the server and confirmed that the process had some gotchas. We updated the procedures and realized a reduction in service calls. 
