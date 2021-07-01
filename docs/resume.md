@@ -17,26 +17,25 @@ DITA/XML, Illustrator, Markdown, Microsoft Excel, PowerPoint, and Word, Oxygen X
 
 ### Senior Technical Writer
 #### Poly, Austin, TX - 10/2019 - Present
-Documentation project manager and lead writer for Poly voice and video endpoint products. Mentor junior writers, interview new hires and contingent staff, and serve on the information architecture team.
+Documentation project manager and lead writer for select Poly voice and video endpoint products. Plan and complete project milestones including compliance, alpha, beta, and localization schedules. Mentor junior writers, interview new hires and contingent staff, and serve on the information architecture team.
 * Worked with a cross-functional team delivering an updated documentation portal taxonomy and metadata strategy.
-* Initiated the removal of offensive language from Poly documentation and code.
+* Initiated and participated in a Poly initiative to remove offensive language from Poly documentation and code.
 * Created a thorough audience analysis process used by the documentation team to plan documentation for new products.
 * Enhanced documentation team knowledge by teaching other writers to set up and configure home lab devices.
 * Developed documentation strategies for multiple new program launches.
-* Awarded multiple Poly WoW awards.
+* Awarded multiple Poly WoW awards for leadership and documentation enhancement efforts.
 
 
 ### Information Developer 
 #### Hewlett Packard Enterprise, Houston, TX — 6/2013 – 10/2019
 
-Lead content developer focused on the HPE ProLiant DL385 AMD-based server and HPE’s composable infrastructure product, HPE Synergy. Work with program managers, engineers, learning and development, and marketing to plan, author, and deliver technical information.
-* Key member of the Information Architecture team evaluating and defining HPE DITA/XML standards.
-* Serve on a documentation quality team evaluating support cases for opportunities to enhance technical content.
+Documentation lead for HPE Synergy, a composable infrastructure frame components. Serve on information architecture and customer escalation teams. Assisted with new hire training and intern project management.
+* Enhanced documentation usability by creating an interactive firmware comparison tool using DITA/XML and JQuery.
+* Assisted in migrating HPE knowledge management to a single DITA XML-based content management system.
+* Member of the knowledge management Information Architecture team evaluating and defining HPE DITA/XML standards.
 * Provide training and support to new hires and contingent workers on the use of content and graphics creation tools.
-* Received positive customer feedback for creating a suite of interactive firmware tools using DITA/XML and JQuery.
-* Assisted in migrating HPE knowledge management to a single DITA XML based content management system. 
-* Created an augmented reality template tool to address cabling and air flow issues in rack servers.
-* Awarded multiple HPE All Star awards for innovation and collaboration.
+* Created an augmented reality template tool to address cabling and airflow issues in rack servers.
+* Awarded multiple HPE All-Star awards for innovation and collaboration.
 
 
 ### Communications Assistant
