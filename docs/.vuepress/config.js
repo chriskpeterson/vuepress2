@@ -11,4 +11,7 @@ themeConfig: {
     
     sidebar: 'auto'
 }
+
+theme: 'default-prefers-color-scheme'
+}
 }
