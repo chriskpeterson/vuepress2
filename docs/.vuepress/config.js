@@ -8,10 +8,12 @@ themeConfig: {
         { text: 'Writing samples', link: 'writingsamples.html'},
         { text: 'Projects', link: 'projects.html'}
     ],
-    
+
+    theme: [
+        {'default-prefers-color-scheme' : true},
+    ],
+
     sidebar: 'auto'
 }
 
-theme: {'default-prefers-color-scheme' : true},
-}
 }
