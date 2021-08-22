@@ -34,22 +34,24 @@ These Ethernet connections provide fault tolerant connectivity to the frame mana
 
 ---
 
-::: IMPORTANT All external rack switches used for the management network must be IEEE 802.1D compliant so that LLDP packets are not forwarded.
+::: important
+All external rack switches used for the management network must be IEEE 802.1D compliant so that LLDP packets are not forwarded.
+:::
 
 ---
 
 **Frame link module LINK port**
+
 The frame link module LINK port provides a 10Gb redundant air-gapped fault-tolerant network. Connected LINK ports create a management ring in a single frame or multi-frame configuration. Once the solution is cabled, management network connectivity does not require user or external rack switch configuration.
 
 **Frame link module MGMT port**
+
 The frame link module MGMT port provides a 1Gb or 10Gb connection to the external management network. MGMT ports connected to the management network provide redundant uplink connectivity for all frames in a management ring. For high availability, in a multi-frame HPE Synergy solution, cable two or more MGMT ports, from separate frames, to your management network.
 
 #### HPE Synergy Image Streamer
 
----
-
-**NOTE:** HPE Synergy frames with HPE Synergy Image Streamer must have HPE Synergy Frame Link Module (2-Port) installed.
-
----
+::: note
+HPE Synergy frames with HPE Synergy Image Streamer must have HPE Synergy Frame Link Module (2-Port) installed.
+:::
 
 In frames with an HPE Synergy Image Streamer installed, the frame link module MGMT ports are both automatically configured for use by the installed HPE Synergy Image Streamer. The system uses the MGMT ports in frames with an HPE Synergy Image Streamer for boot image deployment. These MGMT ports cannot connect to the management network.
