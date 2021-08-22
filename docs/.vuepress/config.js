@@ -12,6 +12,6 @@ themeConfig: {
     sidebar: 'auto'
 }
 
-theme: 'default-prefers-color-scheme'
+theme: {'default-prefers-color-scheme' : true},
 }
 }
