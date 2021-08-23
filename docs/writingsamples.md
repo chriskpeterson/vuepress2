@@ -9,45 +9,49 @@ Please find a link to some of the content I've created at Poly and HPE. These sa
 
 Below, I've listed some of the programs I work on with a link to a writing sample for each.
 
-### Poly
+## Poly
 
-## Poly CCX Business Media Phones with UC Software
+### Poly CCX Business Media Phones with UC Software
 
 [Writing sample](polysamples.md)
 
-## Hewlett Packard Enterprise
+### Poly Solutions for Microsoft Teams Rooms
 
-## HPE Synergy
+Writing sample](polysamples.md)
+
+### Hewlett Packard Enterprise
+
+### HPE Synergy
 
 For this program, I work on the start here poster (printed and shipped in the box), cabling guide, and content for each software release.
 
 [Writing sample](synergy.html)
 
-## HPE Synergy Frame Link Module
+### HPE Synergy Frame Link Module
 
 For this program, I write a user guide for the hardware and software components.
 
 [Writing sample](framelinkmodule.html)
 
-## HPE ProLiant DL385 Server
+### HPE ProLiant DL385 Server
 
 For this program, I work on the various in-box print deliverables and the user guide. The content in HPE server guides doesn't change much, but there are small differences between products. These guides are the focus of my content reuse project currently in progress.
 
 [Writing sample](HPEProLiantServers.html)
 
-## ConvergedSystem 700
+### ConvergedSystem 700
 
 For this program, I write firmware and software compatibility matrices and step-by-step upgrade guides.
 
 [Writing sample](cs700.html)
 
-## HPE Hyper Converged 380
+### HPE Hyper Converged 380
 
 For this program, I worked on a user guide, compatibility matrix, and release notes.
 
 [Writing sample](simplivity380.html)
 
-## Topic analysis and rewrite exercise
+### Topic analysis and rewrite exercise
 
 I choose two topics providing some evaluation and minor rewrites.
 
