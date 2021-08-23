@@ -18,9 +18,9 @@ _If tasked with updating this topic, I would make a few changes including struct
 
 _Also, we don't know how close to the sensor we should get or how sensitive the sensor is. Is it possible to get too close and accidently turn of the unit? Researching this topic, I would make sure to address this._
 
-## Rewrite
+### Rewrite
 
-> ### Powering On the RealPresence Group Series system
+> #### Powering On the RealPresence Group Series system
 >
 > ::: tip NOTE
 > The product powers on with a proximity sensor switch. The proximity sensor detects movement up to two inches.
@@ -34,9 +34,9 @@ _Also, we don't know how close to the sensor we should get or how sensitive the 
 > 2. Connect power to the product.
 > 3. Press on or near the proximity power switch.
 
-# Sample 2
+## Sample 2
 
-## Reset your portal password
+### Reset your portal password
 
 If you forget your password to the portal, reset it from the login page.
 
@@ -57,9 +57,9 @@ _The topic discusses resetting the password, but uses the word 'credentials' in 
 
 _I believe the customer would understand that an account lock would result in no account access. It may be worthwhile to include what to do if your account is locked. Can you reset your password to gain access? If so, we could include that in the note._
 
-## Rewrite
+### Rewrite
 
-> ### Reset your portal password
+> #### Reset your portal password
 >
 > ::: tip NOTE
 > Entering the wrong password three times results in a 15 minute account lock. To unlock your account, reset the password.

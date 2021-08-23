@@ -19,13 +19,23 @@ Below, I've listed some of the programs I work on with a link to a writing sampl
 
 For this project I helped the team identify gaps in the information provided to customers. I converted a PDF setup sheet into an HTML walkthrough deliverable.
 
+To address usability, a broke away from the standar DITA topic-based model and created a walkthrough experience. Ultimately, as new solutions and supported products were added, I had to reevaluate the approach and reformat the document. Part of this process required that I dig deeper into DITA and learn how to add a topic to a document four times. Typically, this is not a recommended approach.
+
 [Writing sample](poly-mtr.md)
+
+### Poly P15 Peronal Video Bar
+
+Led the documentation development for the P15 personal video bar. This was part of a high priority campaign to provide high quality devices to for the hybrid workforce.
+
+As part of this program, I participated in the overall documenation strategy for the P series program.
+
+### Poly VideoOS Device Mode UX Copy
 
 ## Hewlett Packard Enterprise
 
 ### HPE Synergy
 
-For this program, I work on the start here poster (printed and shipped in the box), cabling guide, and content for each software release.
+For this program, I work on a start here poster (printed and shipped in the box), cabling guide, and content for each software release.
 
 [Writing sample](synergy.html)
 
