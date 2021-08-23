@@ -53,7 +53,7 @@ For this program, I worked on a user guide, compatibility matrix, and release no
 
 [Writing sample](simplivity380.html)
 
-### Topic analysis and rewrite exercise
+## Topic analysis and rewrite exercise
 
 I choose two topics providing some evaluation and minor rewrites.
 
