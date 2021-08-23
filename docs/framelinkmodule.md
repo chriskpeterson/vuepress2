@@ -34,7 +34,7 @@ These Ethernet connections provide fault tolerant connectivity to the frame mana
 
 ---
 
-::: important
+::: warning IMPORTANT
 All external rack switches used for the management network must be IEEE 802.1D compliant so that LLDP packets are not forwarded.
 :::
 
@@ -50,7 +50,7 @@ The frame link module MGMT port provides a 1Gb or 10Gb connection to the externa
 
 #### HPE Synergy Image Streamer
 
-::: note
+::: tip NOTE
 HPE Synergy frames with HPE Synergy Image Streamer must have HPE Synergy Frame Link Module (2-Port) installed.
 :::
 
