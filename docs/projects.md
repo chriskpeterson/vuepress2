@@ -15,7 +15,7 @@ Worked with our editing team to update the product documentation library taxonom
 
 ### Create Task-Based Voice Documentation
 
-Initiated a project to take the concept and reference-based administrator guides for voice and convert them to task-based guides. This included creating a task template for this new type of task for our audience.
+Initiated a project to take concept and reference topic-based administrator guides and convert them to task-based guides. This included creating a task template for this new type of task for our audience.
 
 ### API Documentation
 
@@ -31,7 +31,7 @@ An integral member of the documentation team looking at ways to provide next-gen
 
 Created a reuse template for server documentation leveraging the fact that most of the server guides are identical. The template allows writers to swap out the server name and images using a separate XML file.
 
-HPE server hardware documentation is nearly identical from one product to another. To streamline document creation, I developed a template to easily swap out images and the server name to easilly update a guide without checking out topics.
+HPE server hardware documentation is nearly identical from one product to another. To streamline document creation, I developed a template to easily swap out images and the server name to easily update a guide without checking out topics.
 
 ### Information Architecture team
 
@@ -39,15 +39,15 @@ Worked performed as part of this team:
 
 - Provided consultation services for knowledge management writing teams on topic writing, sharing strategies, and DITA elements.
 - Created best practice guides for topic planning and topic writing.
-- Reviewed the approved DTD and update as necessary.
+- Reviewed the approved the DITA DTD and updated as necessary.
 
 ### Quality team
 
-This team evaluates support cases that have been flagged for knowledge management. We access the cases and pull out any relevant information where documentation was a factor. In a recent win, we identified that customers didn't understand how to set up a particular server. We were able to borrow the server and confirmed that the process had some gotchas. We updated the procedures and realized a reduction in service calls.
+This team evaluates support cases flagged for potential documentation issues. In one case, we identified that customers continued to call in about a particular server setup procedure. We were able to borrow the server and confirmed that the process, as documented, was unclear. We updated the guide and leading to a reduction in service calls.
 
 ### Interactive documentation
 
-I am very interested in interactive documentation delivery models. I believe we can reduce task complexity by allowing customers to choose options and retrieve relevant content. We realized this with the HPE Synergy Firmware Comparison Tool. Customers reported fewer issues understanding the supported software and firmware for their solution. Even better, we received positive feedback from customers and the field.
+I'm very interested in interactive documentation delivery models. I believe we can reduce task complexity by allowing customers to choose options and retrieve relevant content. We realized this with the HPE Synergy Firmware Comparison Tool. Customers reported fewer issues understanding the supported software and firmware for their solution. Even better, we received positive feedback from customers and the field.
 
 #### HPE Synergy Firmware Comparison Tool
 
@@ -56,18 +56,18 @@ https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html
 
 #### HPE ConvergedSystems 750 Interactive Matrix
 
-This is very basic interactivity allowing the customer to filter through the firmware information in a table.
+This is very basic interactivity allowing the customer to filter through the firmware information in a table. These small additions to documentation can save a lot of time searching for particular pieces of data.
 
 #### HPE DL380 Gen10 Cabling Matrix
 
-This also uses the simple filter text field. The value add is allowing the customer to enter a cable or cable kit part number and identify supported cabling scenarios.
+The cabling matrix also uses the simple filter text field. The matrix allows customers to enter a cable or cable kit part number and identify supported cabling scenarios.
 
 https://techhub.hpe.com/eginfolib/servers/CableMatrix/DL380_Gen10_diagrams.html
 
 ### Augmented Reality
 
-A colleague and I create an augmented reality (AR) template tool for server cabling. This was done using JavaScript which has limited functionality for AR. We are currently looking at options to develop this further.
+A colleague and I create an augmented reality (AR) template tool for server cabling. We created the AR experience with HTML and JavaScript. The experience only works with certain browsers due to limited functionality and phone security.
 
 #### Interactive Cabling diagrams
 
-Working with the visual design team to code SVGs for interactivity allowing customers to click through complex cabling procedures.
+I worked with the visual design team to coding SVGs for interactivity. This effort was to allow customers to click through complex cabling procedures. We didn't end up realizing this goal, but we did learn about SVG coding and functionality.
