@@ -19,7 +19,7 @@ Below, I've listed some of the programs I work on with a link to a writing sampl
 
 Writing sample](polysamples.md)
 
-### Hewlett Packard Enterprise
+## Hewlett Packard Enterprise
 
 ### HPE Synergy
 
