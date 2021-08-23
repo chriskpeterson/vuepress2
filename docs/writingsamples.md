@@ -17,7 +17,9 @@ Below, I've listed some of the programs I work on with a link to a writing sampl
 
 ### Poly Solutions for Microsoft Teams Rooms
 
-Writing sample](polysamples.md)
+For this project I helped the team identify gaps in the information provided to customers. I converted a PDF setup sheet into an HTML walkthrough deliverable.
+
+[Writing sample](polysamples.md)
 
 ## Hewlett Packard Enterprise
 
