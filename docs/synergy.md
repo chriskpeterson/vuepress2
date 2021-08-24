@@ -61,7 +61,7 @@ For solutions that include HPE Synergy Image Streamer, create the HPE Image Stre
 Uploading a firmware bundle before creating a logical enclosure is recommended. However, you can choose to add a firmware bundle later, in step "4b. Add a firmware bundle to the appliance firmware repository".
 :::
 
-An enclosure group is a logical resource that defines the configuration for a single enclose or set of enclosures. When configured, these enclosures become a single logical enclosure. The network connectivity for an enclosure group is defined by the associated logical interconnect groups.
+An enclosure group is a logical resource that defines the configuration for a single enclosure or set of enclosures. When configured, these enclosures become a single logical enclosure. The network connectivity for an enclosure group is defined by the associated logical interconnect groups.
 
 An enclosure group can contain up to five enclosures.
 

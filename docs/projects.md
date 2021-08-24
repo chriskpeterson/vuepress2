@@ -21,6 +21,8 @@ Initiated a project to take concept and reference topic-based administrator guid
 
 Investigated software to help our team write API documentation for both video and voice. I taught other team members how to run API commands on our voice products.
 
+[Postman API Test Document](https://documenter.getpostman.com/view/13192773/TVYDdKDz)
+
 ### Documentation Planning and Strategy
 
 An integral member of the documentation team looking at ways to provide next-generation documentation.
@@ -28,8 +30,6 @@ An integral member of the documentation team looking at ways to provide next-gen
 ## Hewlett Packard Enterprise
 
 ### Content Templates (HPE)
-
-Created a reuse template for server documentation leveraging the fact that most of the server guides are identical. The template allows writers to swap out the server name and images using a separate XML file.
 
 HPE server hardware documentation is nearly identical from one product to another. To streamline document creation, I developed a template to easily swap out images and the server name to easily update a guide without checking out topics.
 
@@ -49,10 +49,12 @@ This team evaluates support cases flagged for potential documentation issues. In
 
 I'm very interested in interactive documentation delivery models. I believe we can reduce task complexity by allowing customers to choose options and retrieve relevant content. We realized this with the HPE Synergy Firmware Comparison Tool. Customers reported fewer issues understanding the supported software and firmware for their solution. Even better, we received positive feedback from customers and the field.
 
+To promote the model for interactive docuementation, I worked with two colleagues to create a poster and white paper. These were used as part of an HPE technical information fair.
+
 #### HPE Synergy Firmware Comparison Tool
 
 This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.
-https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html
+[HPE Firmware Comparison Tool](https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html)
 
 #### HPE ConvergedSystems 750 Interactive Matrix
 
@@ -62,7 +64,7 @@ This is very basic interactivity allowing the customer to filter through the fir
 
 The cabling matrix also uses the simple filter text field. The matrix allows customers to enter a cable or cable kit part number and identify supported cabling scenarios.
 
-https://techhub.hpe.com/eginfolib/servers/CableMatrix/DL380_Gen10_diagrams.html
+[HPE DL380 Gen10 Cabling Matrix](https://techhub.hpe.com/eginfolib/servers/CableMatrix/DL380_Gen10_diagrams.html)
 
 ### Augmented Reality
 
