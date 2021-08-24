@@ -13,10 +13,10 @@ _This topic includes terms that are defined elsewhere in the documentation and a
 
 ### HPE Synergy 12000 Frame internal management network
 
-Each frame link module contains an Ethernet switch that manages all HPE Synergy internal frame management network connections. Frame link modules also manage management ring (frame link topology) connections. The frame link module Ethernet switch ports connect to every appliance, device, and interconnect bay within the frame. Independent midplane signal
+Each frame link module contains an Ethernet switch that manages all HPE Synergy internal frame management network connections. Frame link modules also manage management ring connections. The frame link module Ethernet switch ports connect to every appliance, device, and interconnect bay within the frame. Independent midplane signal
 connections and independent bay connections provide fault tolerance.
 
-Frame link module Ethernet ports supporting the appliance bays run at 10Gb. Ethernet ports supporting the device and interconnect bays run at 1Gb. Appliance bay management Ethernet connections to both frame link modules are always active.
+Frame link module Ethernet ports supporting the appliance bays run at 10Gb. Ethernet ports supporting the device and interconnect bays run at 1Gb. Appliance bay management Ethernet connections, to both frame link modules, are always active.
 
 These Ethernet connections provide fault-tolerant connectivity to the frame management network. Device and interconnect bay Ethernet ports are connected to the switch through the Active frame link module.
 
@@ -34,7 +34,7 @@ The LINK port provides a 10Gb redundant air-gapped fault-tolerant network. Conne
 
 **Frame link module MGMT port**
 
-The frame link module MGMT port provides a 1Gb or 10Gb connection to the external management network. MGMT ports connected to the management network provide redundant uplink connectivity for all frames in a management ring. For high availability in a multi-frame HPE Synergy solution, cable two or more MGMT ports, from separate frames, to your management network.
+The frame link module MGMT port provides a 1Gb or 10Gb connection to the external management network. MGMT ports connected to the management network provide redundant uplink connectivity for all frames in a management ring. For high availability in a multi-frame HPE Synergy solution, cable two or more MGMT ports, from separate frames, to the management network.
 
 #### HPE Synergy Image Streamer
 
@@ -42,7 +42,7 @@ The frame link module MGMT port provides a 1Gb or 10Gb connection to the externa
 HPE Synergy frames with HPE Synergy Image Streamer must have HPE Synergy Frame Link Module (2-Port) installed.
 :::
 
-In frames with an HPE Synergy Image Streamer installed, the frame link module MGMT ports are both automatically configured for use by the installed HPE Synergy Image Streamer. The system uses the MGMT ports in frames with an HPE Synergy Image Streamer for boot image deployment. These MGMT ports cannot connect to the management network.
+In frames with an HPE Synergy Image Streamer installed, the system automatically configures the frame link module MGMT for use by the installed HPE Synergy Image Streamer. The system reserves these MGMT ports for boot image deployment. You cannot connect these MGMT ports to the management network.
 
 ## Documentation Samples
 

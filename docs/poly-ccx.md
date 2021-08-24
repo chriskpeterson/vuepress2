@@ -18,6 +18,8 @@ Link: [CCX task-based administrator guide chapter](https://chriskpeterson.github
 
 For this project, I responeded to an urgent reqeust to create a quick tips guide to ensure a large sale went through. The customer asked for a document they could send to their end users with quick, easy-to-follow instructions.
 
+Link: []()
+
 ## Other Work
 
 ### Hardware Setup and Walkthrough Animation

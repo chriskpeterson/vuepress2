@@ -51,6 +51,10 @@ I'm very interested in interactive documentation delivery models. I believe we c
 
 To promote the model for interactive docuementation, I worked with two colleagues to create a poster and white paper. These were used as part of an HPE technical information fair.
 
+This is the abstract portion of the paper. I can share the ideas, but not the entire document as it's marked HPE confidential.
+
+_Flexible, scalable, solution-based products require flexible, scalable, solution-based end-user documentation. A core responsibility of an information developer is to create user documentation that simplifies complex information and procedures. The standard one-size-fits-all approach to documentation creation and delivery adds an unnecessary burden to our customer’s search for product information. A better customer experience is realized by allowing customers to interact with documentation. This interaction sets the foundation for smarter documentation, where information is found quickly. In this paper, we propose a content delivery model that allows us to deliver interactive documentation to customers enabling quicker access to specific information. This content delivery model utilizes interactive web-based elements coded in JavaScript that can be added to content during publication to HTML. This solution is executed in TCE&Q Knowledge Management’s content development tool providing others in our organization a tool for dynamic content development._
+
 #### HPE Synergy Firmware Comparison Tool
 
 This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.
