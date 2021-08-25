@@ -17,7 +17,7 @@ themeConfig: {
 
     module.exports = {
         head: [
-          ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto' }],
+          ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap' }],
         ],
       }
       
