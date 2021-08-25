@@ -60,6 +60,8 @@ _Flexible, scalable, solution-based products require flexible, scalable, solutio
 This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.
 [HPE Firmware Comparison Tool](https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html)
 
+![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/HPE-firmware-comparison-tool.png)
+
 #### HPE ConvergedSystems 750 Interactive Matrix
 
 This is very basic interactivity allowing the customer to filter through the firmware information in a table. These small additions to documentation can save a lot of time searching for particular pieces of data.
