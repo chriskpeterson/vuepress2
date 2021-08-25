@@ -12,7 +12,7 @@ Here are a few chapters I worked on:
 
 Link: [Poly UC Software task-based administrator guide audio configuration](https://chriskpeterson.github.io/vuepress2/public/ccx-audio-chapter.pdf)
 
-Link: [Poly UC Software task-based administrator guide network configuration](https://chriskpeterson.github.io/vuepress2/public/ccx-networking-chapter.pdf)
+Link: [Poly UC Software task-based administrator guide network configuration](docs/ccx-networking-chapter.pdf)
 
 ## CCX with Microsoft Teams Quick Tips
 
