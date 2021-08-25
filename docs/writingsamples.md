@@ -11,6 +11,8 @@ Below, I've listed some of the programs I work on with a link to a writing sampl
 
 ## Poly
 
+The technical communications group at Poly utilizes reuse across all products. Voice products, in particular, reuse much of the same content. For this reason, I don't have significant writing samples to share.
+
 ### Poly CCX Business Media Phones with UC Software
 
 [Writing sample](poly-ccx.md)
