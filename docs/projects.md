@@ -58,7 +58,14 @@ _Flexible, scalable, solution-based products require flexible, scalable, solutio
 #### HPE Synergy Firmware Comparison Tool
 
 This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.
+
 [HPE Firmware Comparison Tool](https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html)
+
+::: tip NOTE
+The site uses a click "here" link which is not something I advocate for. For accessibility, the link should be "select a differemtn management combination."
+:::
+
+The screen capture shows an HPE Synergy management combination with two selected firmware packages. The **show differences** checkbox is checked causing the firmware differences to display as bold text.
 
 ![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/HPE-firmware-comparison-tool.png)
 
