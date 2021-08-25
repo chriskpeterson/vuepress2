@@ -10,3 +10,7 @@ I'll soon replace the current version with a second iteration. As we added addit
 
 Poly Solutions for Microsoft Teams Rooms Solution Guide
 https://documents.polycom.com/bundle/mtr-sg-current
+
+To outline the flow of the document, I created a setup diagram.
+
+![MTR Bundles Setup Diagram](https://chriskpeterson.github.io/vuepress2/public/MTR-diagram.PNG)
