@@ -5,8 +5,6 @@ lang: en-US
 
 # Writing samples
 
-These writing samples are a collection from Poly and HPE. These samples are mostly task, concept, and reference topics
-
 At Poly, I write content software administrator and user guides, setup sheets, and release notes for voice and video products. Much of my time is spent managing projects including creating documentation plans, Jira tickets, and status updates. For the team, I also work on other internal projects and serve on internal teams. Some of these projects are outlined in [Projects](projects.md).
 
 At HPE, I wrote user guides, update guides, setup overviews, and software and firmware compatibility matrices. In addition, I worked on release notes, OS installation guides, and volatility statements for high-security customers.
@@ -26,14 +24,6 @@ The technical communications group at Poly utilizes reuse across all products. V
 For this project I helped the team identify gaps in the information provided to customers. I converted a PDF setup sheet into an HTML walkthrough deliverable.
 
 [Writing sample](poly-mtr.md)
-
-### Poly P15 Peronal Video Bar
-
-Led the documentation development for the P15 personal video bar. This was part of a high priority campaign to provide high quality devices to for the hybrid workforce.
-
-As part of this program, I participated in the overall documenation strategy for the P series program.
-
-### Poly VideoOS Device Mode UX Copy
 
 ## Hewlett Packard Enterprise
 
