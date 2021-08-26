@@ -5,11 +5,11 @@ lang: en-US
 
 # Writing samples
 
-These writing samples are a collection from Poly and HPE. These samples are mostly task, concept, and reference topics.
+These writing samples are a collection from Poly and HPE. These samples are mostly task, concept, and reference topics
 
 At Poly, I write content software administrator and user guides, setup sheets, and release notes for voice and video products. Much of my time is spent managing projects including creating documentation plans, Jira tickets, and status updates. For the team, I also work on other internal projects and serve on internal teams. Some of these projects are outlined in [Projects](projects.md).
 
-At HPE, I wrote user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
+At HPE, I wrote user guides, update guides, setup overviews, and software and firmware compatibility matrices. In addition, I worked on release notes, OS installation guides, and volatility statements for high-security customers.
 
 Below, I've listed some of the programs I work on with a link to a writing sample for each.
 
