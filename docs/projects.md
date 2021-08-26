@@ -49,11 +49,11 @@ This team evaluates support cases flagged for potential documentation issues. In
 
 I'm very interested in interactive documentation delivery models. I believe we can reduce task complexity by allowing customers to choose options and retrieve relevant content. We realized this with the HPE Synergy Firmware Comparison Tool. Customers reported fewer issues understanding the supported software and firmware for their solution. Even better, we received positive feedback from customers and the field.
 
-To promote the model for interactive docuementation, I worked with two colleagues to create a poster and white paper. These were used as part of an HPE technical information fair.
+To promote the model for interactive documentation, I worked with two colleagues to create a poster and white paper. We presented the white paper and poster at an internal HPE technical information fair.
 
-This is the abstract portion of the paper. I can share the ideas, but not the entire document as it's marked HPE confidential.
+The paper is labeled confidential so I can only share the abstract.
 
-_Flexible, scalable, solution-based products require flexible, scalable, solution-based end-user documentation. A core responsibility of an information developer is to create user documentation that simplifies complex information and procedures. The standard one-size-fits-all approach to documentation creation and delivery adds an unnecessary burden to our customer’s search for product information. A better customer experience is realized by allowing customers to interact with documentation. This interaction sets the foundation for smarter documentation, where information is found quickly. In this paper, we propose a content delivery model that allows us to deliver interactive documentation to customers enabling quicker access to specific information. This content delivery model utilizes interactive web-based elements coded in JavaScript that can be added to content during publication to HTML. This solution is executed in TCE&Q Knowledge Management’s content development tool providing others in our organization a tool for dynamic content development._
+_Flexible, scalable, solution-based products require flexible, scalable, solution-based end-user documentation. A core responsibility of an information developer is to create user documentation that simplifies complex information and procedures. The standard one-size-fits-all approach to creating and delivering documentation adds an unnecessary burden to our customers. We can create a superior customer experience by allowing customers to choose exactly the information they need. Creating interactive documentation sets the foundation for smarter documentation and more efficient information gathering. In this paper, we propose a content delivery model that delivers interactive web-based documentation from a DITA-based CCMS. This content delivery model utilizes interactive web-based elements coded in JQuery and added to the CCMS HTML transform. We designed this content delivery model to allow anyone in our organization to create dynamic interactive content._
 
 #### HPE Synergy Firmware Comparison Tool
 
@@ -61,28 +61,18 @@ This firmware comparison tool allows customers to choose and compare two HPE Syn
 
 [HPE Firmware Comparison Tool](https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html)
 
-::: tip NOTE
-The site uses a click "here" link which is not something I advocate for. For accessibility, the link should be "select a differemtn management combination."
-:::
-
-The screen capture shows an HPE Synergy management combination with two selected firmware packages. The **show differences** checkbox is checked causing the firmware differences to display as bold text.
+The screen capture shows an HPE Synergy management combination with two selected firmware packages. Checking the **show differences** checkbox causes the firmware differences to display as bold text.
 
 ![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/HPE-firmware-comparison-tool.png)
 
 #### HPE ConvergedSystems 750 Interactive Matrix
 
-This is very basic interactivity allowing the customer to filter through the firmware information in a table. These small additions to documentation can save a lot of time searching for particular pieces of data.
+This interactive matrix includes basic functionality allowing the customer to filter through the firmware information in a table. These small additions to documentation can save a lot of time searching for particular pieces of data. This matrix was the first interactive document we created.
 
 #### HPE DL380 Gen10 Cabling Matrix
 
 The cabling matrix also uses the simple filter text field. The matrix allows customers to enter a cable or cable kit part number and identify supported cabling scenarios.
 
+We also added an AR component to this matrix that placed a transparent template on the phone screen with the camera active. Customers can hold the template above the server to see the necessary cabling in place. Unfortunately, this feature has limited due to security settings in some browsers.
+
 [HPE DL380 Gen10 Cabling Matrix](https://techhub.hpe.com/eginfolib/servers/CableMatrix/DL380_Gen10_diagrams.html)
-
-### Augmented Reality
-
-A colleague and I create an augmented reality (AR) template tool for server cabling. We created the AR experience with HTML and JavaScript. The experience only works with certain browsers due to limited functionality and phone security.
-
-#### Interactive Cabling diagrams
-
-I worked with the visual design team to coding SVGs for interactivity. This effort was to allow customers to click through complex cabling procedures. We didn't end up realizing this goal, but we did learn about SVG coding and functionality.

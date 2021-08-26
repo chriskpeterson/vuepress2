@@ -1,21 +1,70 @@
-# Poly CCX Business Media Phones
+---
+title: Writing Samples
+lang: en-US
+---
 
-As my first program, I launched Poly's new line of phones, the CCX series. Much of the content was from existing guides as we heavily reuse content across voice documentation.
+# Writing samples
 
-## Task-Based Administrator Guide Rewrite
+Below, I've included samples of my work at Poly and HPE.
 
-Mid last year, I proposed a project to rewrite the administrator guides for our voice projects. The guides were a mix of concept and reference topics with very few task topics. This type of guide doesn't allow a customer to approach it with a question. For example, if a customer wanted to find out how to change the admin password, they'd find a concept about it and a reference with the parameter, but they wouldn't find a topic that explained how to change the password.
+## Poly
 
-Management sponsored the project, and we started working on it late last year. Ultimately, due to my workload, another colleague managed the project. I moved into a support role, helping convert the topics.
+At Poly, I write software administrator and user guides, setup sheets, and release notes for voice and video products. As a documentation prime, I create documentation plans, attend core team meetings, work with scrum teams, and write and edit strings for our UX team.
 
-Here are a few chapters I worked on:
+In addition to my program work, I also work on other internal projects and serve on internal teams. Some of these projects are outlined in [Projects](projects.md).
 
-Link: [Poly UC Software task-based administrator guide audio configuration](https://chriskpeterson.github.io/vuepress2/public/ccx-audio-chapter.pdf)
+The technical communications group at Poly utilizes reuse across all products. Voice products, in particular, reuse much of the same content. For this reason, I don't have significant writing samples to share.
 
-Link: [Poly UC Software task-based administrator guide network configuration](https://chriskpeterson.github.io/vuepress2/public/ccx-networking-chapter.pdf)
+### Poly CCX Business Media Phones with UC Software
 
-## CCX with Microsoft Teams Quick Tips
+As my first assignment, I was the documentation prime for Poly's new line of phones, the CCX series.
 
-The sales team approached the documentation team for help. Their customer requested a quick tips document for our CCX phones with Microsoft Teams. I quickly created the Microsoft Teams quick tips to ensure we closed on the sale.
+[Writing sample](poly-ccx.md)
 
-Link: [Poly CCX Business Media Phones with Teams Quick Tips](https://chriskpeterson.github.io/vuepress2/public/ccx-with-teams-quicktips.pdf)
+### Poly Solutions for Microsoft Teams Rooms
+
+As I've grown in my role, I've been in a hybrid position working on programs that need special attention. For this product, I helped solve a customer satisfaction issue by working with the product and identifying information gaps.
+
+[Writing sample](poly-mtr.md)
+
+### Poly VideoOS Device Mode UX Copy
+
+## Hewlett Packard Enterprise
+
+At HPE, I wrote user guides, update guides, setup overviews, and software and firmware compatibility matrices. In the past, I've written release notes, OS installation guides, and volatility statements for high-security customers.
+
+### HPE Synergy
+
+For this program, I work on a start here poster (printed and shipped in the box), cabling guide, and content for each software release.
+
+[Writing sample](synergy.html)
+
+### HPE Synergy Frame Link Module
+
+For this program, I write a user guide for the hardware and software components.
+
+[Writing sample](framelinkmodule.html)
+
+### HPE ProLiant DL385 Server
+
+For this program, I work on the various in-box print deliverables and the user guide. The content in HPE server guides doesn't change much, but there are small differences between products. These guides are the focus of my content reuse project currently in progress.
+
+[Writing sample](HPEProLiantServers.html)
+
+### ConvergedSystem 700
+
+For this program, I write firmware and software compatibility matrices and step-by-step upgrade guides.
+
+[Writing sample](cs700.html)
+
+### HPE Hyper Converged 380
+
+For this program, I worked on a user guide, compatibility matrix, and release notes.
+
+[Writing sample](simplivity380.html)
+
+## Topic analysis and rewrite exercise
+
+I choose two topics providing some evaluation and minor rewrites.
+
+[Topic evaluation](topicevaluation.html)
