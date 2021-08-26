@@ -9,6 +9,7 @@ themeConfig: {
         { text: 'Writing Samples', link: 'writingsamples.html'}
     ],
     
-    sidebar: 'auto'
+    sidebar: [{'auto'}
+]
 }
 }
