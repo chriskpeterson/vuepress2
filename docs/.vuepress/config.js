@@ -6,7 +6,7 @@ themeConfig: {
         { text: 'Home', link: '/'},
         { text: 'Resume', link: '/resume'},
         { text: 'Writing samples', link: 'writingsamples.html'},
-        { text: 'Projects', link: 'projects.html'}
+        { text: 'Work Projects', link: 'projects.html'}
     ],
 
     theme: [
@@ -14,7 +14,7 @@ themeConfig: {
     ],
 
     head: [
-        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap' }],
+        {'link',  rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap' },
       ],
 
     sidebar: 'auto'
