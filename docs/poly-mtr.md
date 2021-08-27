@@ -1,6 +1,15 @@
+---
+title: Microsoft Teams Rooms Samples
+lang: en-US
+---
+
+**Role:** Lead writer
+
+**Tools:** Adobe Illustrator, Oxygen, and Vasont
+
 # Poly Solutions for Microsoft Teams Rooms
 
-For this program, my manager assigned me to help solve a customer satisfaction issue. Potential customers were returning demo units with the complaint that the setup and configuration information was unclear.
+For this program, I was assigned to help solve a customer satisfaction issue. Potential customers were returning demo units with the complaint that the setup and configuration information was unclear.
 
 I picked up a demo unit from the office and set it up in my home lab. The team insisted that this product needed very few instructions, so the program's writer complied by creating a simple PDF setup sheet. Going through the setup process, it was clear that critical information was missing.
 

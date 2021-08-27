@@ -1,6 +1,6 @@
 # HPE Hyper Converged 380
 
-**Tools:** AuthorIT / SDL and XMetaL / Adobe Illustrator
+**Tools:** Adobe Illustrator, AuthorIT, SDL, and XMetaL
 
 **Role:** Lead writer
 

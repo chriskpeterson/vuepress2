@@ -70,6 +70,10 @@ imaging. Responsible for vendor management including negotiating and managing eq
 
 ## EDUCATION
 
-### BA English
-
 ### BS Industrial Design
+
+University of Houston | 2014
+
+### BA English / Minor Studio Arts
+
+University of Houston | 1999
