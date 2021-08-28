@@ -40,3 +40,13 @@ Refurbished corporate PCs with Ubuntu Linux for underserved families.
 - Worked with Zoomin to implement a new publishing process reducing publishing time and implementing a new taxonomy/metadata to enhance topic findability.
 - Helped my colleagues troubleshoot tools issues and discover new ways to use the toolset.
 - Helped guide junior writers and new hires.
+
+'''
+<XML! Something>
+
+<Navigation>
+
+    <Nav Header name="Products">
+    	<something name="CCX PHones" content="ccx-series">
+
+'''
