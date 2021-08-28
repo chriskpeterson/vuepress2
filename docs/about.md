@@ -41,12 +41,11 @@ Refurbished corporate PCs with Ubuntu Linux for underserved families.
 - Helped my colleagues troubleshoot tools issues and discover new ways to use the toolset.
 - Helped guide junior writers and new hires.
 
-```xml
+```html
 <XML! Something>
-
-<Navigation>
-
-    <Nav Header name="Products">
-    	<something name="CCX PHones" content="ccx-series">
-
+  <Navigation>
+    <nav Header name="Products">
+      <something name="CCX PHones" content="ccx-series"> </something></nav
+  ></Navigation>
+</XML!>
 ```
