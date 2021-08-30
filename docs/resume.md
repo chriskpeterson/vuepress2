@@ -6,7 +6,7 @@
 
 ## ABOUT
 
-Customer success-driven writer bringing thought leadership and innovation. Able to quickly grasp new and challenging concepts and processes. Strives to build solid relationships with coworkers, SMEs, and product stakeholders.
+Customer success-driven writer bringing thought leadership and innovation. Able to quickly grasp new and challenging concepts and processes. Strives to build solid relationships with coworkers, SMEs, and product stakeholders. Helps new and tenured staff understand and troubleshoot tools and processes.
 
 ## EXPERIENCE
 
@@ -14,28 +14,23 @@ Customer success-driven writer bringing thought leadership and innovation. Able 
 
 #### Poly, Austin, TX - 10/2019 - Present
 
-Documentation project manager and lead writer for select Poly voice and video endpoint products. Plan and complete project milestones including compliance, alpha, beta, and localization schedules. Mentor junior writers, interview new hires and contingent staff, and serve on the information architecture team.
+Documentation project manager and lead writer for select Poly voice and video endpoint products. Plan and complete project milestones including compliance, alpha, beta, and localization schedules. Mentor junior writers, interview new hires and contingent staff and serve on the information architecture team.
 
 **_Manage front-end planning of documentation initiatives_** - Create formal documentation plans for new products. Partner with program and product managers, developers, solution architects, and other stakeholders to plan the feature work for each release. Work with prototype hardware and firmware installing and testing developer builds. Attend daily standups and weekly core team meetings.
 
-**_Solve customer satisfaction issues_** - Assigned by management to handle customer satisfaction issues in the department. Work with hardware to act as a customer advocate identifying documentation gaps and propose new documentation strategies. In one instance, customers were returning a product due to their inability to find the information to set it up. In another, a customer required a quick tips guide before committing to purchase phones.
+**_Solve customer satisfaction issues_** - Assigned by management to handle customer satisfaction issues in the department. Set up and use Poly products acting as a customer advocate identifying documentation gaps and proposing new documentation strategies. In one instance, customers were returning a product due to their inability to properly set up and configure it. In another, a customer required a quick tips guide for their staff before committing to purchase phones.
 
 **_Participate in new hire interviews, onboarding, and training_** - As a trusted team leader, conduct new hire and contractor interviews, onboarding, and training. Establish strong working relationships through ongoing coaching and assistance.
 
-**_Deliver an updated taxonomy and metadata strategy_** - As a member of the information architecture team, participated in recreating the documentation taxonomy to better align with the overall company taxonomy. Updated the product documentation library XML subjectscheme file and Oxygen profiling attributes. Created an XSL transform to convert the old metadata to the new model to avoid site search limitations. Supported the team by conducting department-wide metadata training.
+**_Deliver an updated taxonomy and metadata strategy_** - As a member of the information architecture team, participated in restructuring the documentation taxonomy to better align with the overall company taxonomy. Updated the product documentation library XML subjectscheme file and Oxygen profiling attributes. Created an XSL transform to convert metadata in legacy documents to match the new model. Supported the team by conducting department-wide metadata training.
 
-**_Increase the team's technology knowledge_** \- Works with colleagues to understand the technology around our voice and video products. Trained coworkers to set up SIP IP phones for documentation development and product testing. Researched, tested, and created instructions allowing colleagues to set up a provisioning server in their home lab using a Linux virtual machine.
+**_Increase the team's technology knowledge_** Help colleagues better understand telephony and conferencing technology for voice and video products. Trained coworkers to set up SIP IP phones for documentation development and product testing. Researched, tested, and created instructions allowing colleagues to set up a provisioning server in their home lab using a Linux virtual machine.
 
-**_Convert legacy documentation to user-friendly task-based guides_** - Worked with voice colleagues to convert concept and reference topic-based administrator guides to task-based. The task-based administrator guides include parameter sample code for configuring various phone features.
+**_Convert legacy documentation to user-friendly task-based guides_** - Worked with voice colleagues to convert concept and reference topic-based administrator guides to task-based. The new task-based administrator guides include parameter sample code for configuring various phone features. Created parameter reference guides as a separate deliverable for audiences that don't require step-by-step walkthroughs.
 
-**_Research new processes and tools_** - Assist management in adopting the best tools and practices by evaluating trials and researching developments in information delivery.
+**_Research new processes and tools_** - Assist management in adopting the best tools and practices by evaluating trials and researching developments in information delivery. Tasked with evaluating CCMS, publishing tools, API documentation tools, and design software.
 
-- Worked with a cross-functional team delivering an updated documentation portal taxonomy and metadata strategy.
-- Initiated and participated in a Poly initiative to remove offensive language from Poly documentation and code.
-- Created a thorough audience analysis process used by the documentation team to plan documentation for new products.
-- Enhanced documentation team knowledge by teaching other writers to set up and configure home lab devices.
-- Developed documentation strategies for multiple new program launches.
-- Awarded multiple Poly WoW awards for leadership and documentation enhancement efforts.
+**_Recognized as an innovator and leader_** - Received multiple Poly WoW awards for leadership and innovation.
 
 ### Information Developer
 
