@@ -5,7 +5,7 @@ lang: en-US
 
 # Projects and Teams
 
-At Poly and HPE, I participated in various workstreams and worked on products outside of my day-to-day writing responsibilities.
+At Poly and HPE, I participated in various workstreams and department initiatives.
 
 ## Poly
 
