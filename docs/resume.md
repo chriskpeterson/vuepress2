@@ -2,7 +2,7 @@
 { "title": "Chris Peterson resume", "lang": "en-US" }
 ---
 
-# Resume
+# Work History and Experience
 
 ## ABOUT
 
@@ -24,7 +24,7 @@ Documentation project manager and lead writer for select Poly voice and video en
 
 **_Deliver an updated taxonomy and metadata strategy_** - As a member of the information architecture team, participated in restructuring the documentation taxonomy to better align with the overall company taxonomy. Updated the product documentation library XML subjectscheme file and Oxygen profiling attributes. Created an XSL transform to convert metadata in legacy documents to match the new model. Supported the team by conducting department-wide metadata training.
 
-**_Increase the team's technology knowledge_** Help colleagues better understand telephony and conferencing technology for voice and video products. Trained coworkers to set up SIP IP phones for documentation development and product testing. Researched, tested, and created instructions allowing colleagues to set up a provisioning server in their home lab using a Linux virtual machine.
+**_Increase the team's technology knowledge_** - Help colleagues better understand telephony and conferencing technology for voice and video products. Trained coworkers to set up SIP IP phones for documentation development and product testing. Researched, tested, and created instructions allowing colleagues to set up a provisioning server in their home lab using a Linux virtual machine.
 
 **_Convert legacy documentation to user-friendly task-based guides_** - Worked with voice colleagues to convert concept and reference topic-based administrator guides to task-based. The new task-based administrator guides include parameter sample code for configuring various phone features. Created parameter reference guides as a separate deliverable for audiences that don't require step-by-step walkthroughs.
 
