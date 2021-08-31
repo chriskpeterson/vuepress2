@@ -3,7 +3,7 @@ title: Writing Samples
 lang: en-US
 ---
 
-# Writing samples
+# Writing Samples
 
 At Poly, I write software administrator and user guides, hardware setup guides, and release notes for voice and video products.
 
