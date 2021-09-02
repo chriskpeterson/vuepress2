@@ -45,7 +45,11 @@ Refurbished corporate PCs with Ubuntu Linux for underserved families.
 <XML! Something>
   <Navigation>
     <nav Header name="Products">
-      <something name="CCX PHones" content="ccx-series"> </something></nav
-  ></Navigation>
+      <something name="CCX PHones" content="ccx-series"> </something>
+    </nav>
+    ></Navigation
+  >
 </XML!>
 ```
+
+![CCX documentation strategy](ccx-doc-strategy.png)
