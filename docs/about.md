@@ -52,4 +52,4 @@ Refurbished corporate PCs with Ubuntu Linux for underserved families.
 </XML!>
 ```
 
-![CCX documentation strategy](ccx-doc-strategy.png)
+![CCX documentation strategy](https://chriskpeterson.github.io/vuepress2/public/ccx-doc-strategy.png)
