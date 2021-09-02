@@ -5,7 +5,7 @@ lang: en-US
 
 # Projects and Teams
 
-At Poly and HPE, I participated in various workstreams and department initiatives.
+At Poly and HPE, I participated in various work streams and department initiatives.
 
 ## Poly
 
@@ -31,11 +31,9 @@ An integral member of the documentation team looking at ways to provide next-gen
 
 ## Hewlett Packard Enterprise
 
-### Content Templates (HPE)
+### Content Templates
 
-**Tools**: SDL and XMetaL
-
-HPE server hardware documentation is nearly identical from one product to another. To streamline document creation, I developed a template to easily swap out images and the server name to easily update a guide without checking out topics.
+HPE server hardware documentation is nearly identical from one product to another. To streamline document creation, I developed a template to easily swap out images and the server name to quickly update the guides.
 
 ### Information Architecture team
 
@@ -65,7 +63,9 @@ _Flexible, scalable, solution-based products require flexible, scalable, solutio
 
 **Tools**: SDL, VS Code, and XMetaL
 
-This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. I created this tool as a way to present a table with over fifteen columns to our customers.
+This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. Before this tool was created, the team provided a large Excel spreadsheet to customers.
+
+Before leaving HPE, I developed documentation and training so the team could update and maintain the tool.
 
 [HPE Firmware Comparison Tool](https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html)
 
@@ -77,7 +77,7 @@ The screen capture shows an HPE Synergy management combination with two selected
 
 **Tools**: SDL, VS Code, and XMetaL
 
-This interactive matrix includes basic functionality allowing the customer to filter through the firmware information in a table. These small additions to documentation can save a lot of time searching for particular pieces of data. This matrix was the first interactive document we created.
+This interactive matrix includes basic functionality allowing the customer to filter through the firmware information in a table. These small additions to documentation save a lot of time searching for particular pieces of data. This matrix was the first interactive document we created.
 
 #### HPE DL380 Gen10 Cabling Matrix
 
@@ -85,6 +85,6 @@ This interactive matrix includes basic functionality allowing the customer to fi
 
 The cabling matrix also uses the simple filter text field. The matrix allows customers to enter a cable or cable kit part number and identify supported cabling scenarios.
 
-We also added an AR component to this matrix that placed a transparent template on the phone screen with the camera active. Customers can hold the template above the server to see the necessary cabling in place. Unfortunately, this feature has limited due to security settings in some browsers.
+We also added an augmented reality component to this matrix that placed a transparent template on the phone screen with the camera active. Customers can hold the template above the server to see the necessary cabling in place. Unfortunately, this feature has limited due to security settings in some browsers.
 
 [HPE DL380 Gen10 Cabling Matrix](https://techhub.hpe.com/eginfolib/servers/CableMatrix/DL380_Gen10_diagrams.html)

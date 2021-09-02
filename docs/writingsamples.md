@@ -9,13 +9,15 @@ At Poly, I write software administrator and user guides, hardware setup guides, 
 
 At HPE, I wrote hardware and software user guides, update guides, setup overviews, and firmware compatibility matrices. In addition, I worked on release notes, OS installation guides, and volatility statements.
 
-At both Poly and HPE, I worked on additional internal projects and served on workstreams. I included some of these projects in [Projects](projects.md).
+At both Poly and HPE, I worked on additional internal projects and served on work streams. I included some of these projects in [Projects](projects.md).
 
 Please use the links below to view writing samples from Poly and HPE.
 
 ## Poly
 
-The technical communications group at Poly utilizes reuse across all products. Voice products, in particular, reuse much of the same content. For this reason, I don't have significant writing samples to share.
+At Poly, I've worked on both voice and video products. I started working on CCX business media phones full suite of guides. Currently I work on high visibility video products and occasionally help with new voice products.
+
+I've included a few samples of work for products currently on the market.
 
 ### Poly CCX Business Media Phones with UC Software
 
@@ -25,7 +27,9 @@ Helping launch the CCX phones was my first project at Poly. I have since turned 
 
 ### Poly Solutions for Microsoft Teams Rooms
 
-The team views me as the problem solver. We had issues selling this product due to incomplete documentation. I took this over to help identify gaps in the information provided to us by our SMEs. This project demonstrates how working directly with the products ensures we can successfully advocate for the customer.
+The team views me as the problem solver. We had issues selling this product due to incomplete documentation. I took this over to help identify gaps in the information provided to us by our SMEs.
+
+The team provided me with a Poly G40-T Microsoft Teams Solution. I worked through the steps, reviewed Microsoft's documentation, and proposed a more comprehensive HTML document to the team.
 
 [Writing sample](poly-mtr.md)
 
@@ -35,11 +39,13 @@ The team views me as the problem solver. We had issues selling this product due 
 
 For this program, I redesigned a start here poster, cabling guide, and software release content. To complete this project, I worked directly with the engineering team in the lab and had access to the product's virtual test environment.
 
+In addition to the poster, I worked on the HPE Synergy Cabling Guide. When I took the guide over, we provided one incomplete cabling diagram for each cabling scenario. Working with the product team, I created a step-by-step cabling guide to add clarity and simplify the cabling process.
+
 [Writing sample](synergy.html)
 
 ### HPE Synergy Frame Link Module
 
-I worked on various components of the HPE Synergy project, but the frame link module was my main product. I joined the team after the initial launch, quickly learning the product and becoming an information lead.
+I worked on various components of the HPE Synergy project, but the frame link module was my main product. I joined the team after the initial launch, quickly learning the product and becoming an information lead. After getting up to speed, I noticed the same terminology was being used for the CLI management tool for multiple components. I worked with the team to update the terminology database and reduce customer confusion.
 
 [Writing sample](framelinkmodule.html)
 
