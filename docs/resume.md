@@ -6,7 +6,7 @@
 
 ## ABOUT
 
-Customer success-driven writer bringing thought leadership and innovation. Able to quickly grasp new and challenging concepts and processes. Strives to build solid relationships with coworkers, SMEs, and product stakeholders. Helps new and tenured staff understand and troubleshoot tools and procedures.
+Customer success-driven writer who brings thought leadership and innovation. Able to quickly grasp new and challenging concepts and processes. Strives to build solid relationships with coworkers, SMEs, and product stakeholders. Inquisitive and research-driven, an active participant in team discussions, product meetings, and daily stand-ups.
 
 Authored documentation for Poly (Plantronics/Polycom) phone and video products, HPE composable infrastructure products, individual server hardware components. Worked on various internal teams including, information architecture and customer call case analysis.
 
@@ -18,9 +18,9 @@ Familiar with various authoring methodologies including, DocBook and DITA XML st
 
 #### Poly, Austin, TX - 10/2019 - Present
 
-Documentation project manager and lead writer for select Poly voice and video endpoint products. Plan and complete project milestones including compliance, alpha, beta, and localization schedules. Mentor junior writers, interview new hires and contingent staff and serve on the information architecture team.
+Documentation project manager and UX writer for Poly embedded software products. Plan and complete project milestones, including compliance, alpha, beta, and localization schedules. Participate in core team meetings and daily stand-ups. Mentor junior writers, interview new hires, and serve on the information architecture team.
 
-**_Manage front-end planning of documentation initiatives_** - Create formal documentation plans for new products. Partner with program and product managers, developers, solution architects, and other stakeholders to plan the feature work for each release. Work with prototype hardware and firmware installing and testing developer builds. Attend daily stand ups and weekly core team meetings.
+**_Manage front-end planning of documentation initiatives_** - Create formal documentation plans for new products. Partner with program and product managers, developers, solution architects, and other stakeholders to plan the feature work for each release. Work with prototype hardware and firmware installing and testing developer builds. Attend daily stand-ups and weekly core team meetings.
 
 **_Solve customer satisfaction issues_** - Assigned by management to handle customer satisfaction issues in the department. Set up and use Poly products acting as a customer advocate identifying documentation gaps and proposing new documentation strategies. In one instance, customers were returning a product due to their inability to properly set up and configure it. In another, a customer required a quick tips guide for their staff before committing a purchase.
 
