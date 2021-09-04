@@ -17,6 +17,46 @@ Worked with our editing team to update the product documentation library taxonom
 
 Initiated a project to take concept and reference topic-based administrator guides and convert them to task-based guides. This included creating a task template for this new type of task for our audience.
 
+
+**Problem:**
+The voice administrator guides
+
+Customer prefer task-based guides. Ideally, when a customer wants to know how to enable, disable, or configure a feature they can find content that tells them how to do it.
+
+The current administrator guides don’t show customers how to perform tasks. Instead, they’re a mix of resource and parameter topics requiring a customer to look through lists of parameters and figure out which ones they need to configure their phones.
+
+>Voice Activity Detection parameters
+>
+v
+>Template | Parameter | Permitted Values | Change Causes Restart or Reboot |
+>---------------------------------------------------------------------------
+>`site.cf` | `voice.vad.signalAnnexB` | 0 - There is no change to SDP. | No
+
+**Research:**
+Talked with SMEs, program managers, and researched customer issues in our community forums.
+
+**Solution:**
+The team delivered a reworked administrator guide using task-based instructions to better guide customers in using parameters and achieving their goals.
+
+> ###Configure Voice Activity Detection
+
+> Set the threshold for determining what is considered background noise using Voice activity detection (VAD).
+
+> Voice activity detection (VAD) conserves network bandwidth. VAD detects periods of silence in the transmit data path so the phone doesn’t transmit unnecessary data packets for outgoing audio.
+
+> For compression algorithms without an inherent VAD function, such as G.711,the phone uses the codec- independent processing specified in RFC 3389.
+
+> G.711 Appendix II, in RFC 3389, defines the payload format for G.711 use in packet-based multimedia communication systems.
+
+> For more information about VAD, see Voice Activity Detection parameters in the *Parameter Reference Guide*.
+
+>> **Procedure**
+> 1. Enable VAD.
+> `voice.vadEnable="1"`
+> 3. Set the VAD threshold in decibels.
+> `voice.vadThresh="<0 to 30"`
+
+
 ### API Documentation
 
 **Tools**: Postman
@@ -27,7 +67,7 @@ Investigated software to help our team write API documentation for both video an
 
 ### Documentation Planning and Strategy
 
-An integral member of the documentation team looking at ways to provide next-generation documentation.
+
 
 ## Hewlett Packard Enterprise
 
@@ -44,7 +84,7 @@ Writers spend a lot of time sharing and duplicating content to build HPE server 
 DITA provides multiple tools for replacing portions of topics without updating the topic. Conrefs, conkeyrefs, and variables can all be used to replace portions of a topic from a separate file in the document structure.
 I investigated and tested each of these methods to find the right method for this project.
 
-**Conrefs** - Conrefs are great for reuse, but they create a one-to-one relationship between the original topic and the topic with the conrefed content. These are best for content that lives in multiple guides such as alerts.
+* **Conrefs** - Conrefs are great for reuse, but they create a one-to-one relationship between the original topic and the topic with the conrefed content. These are best for content that lives in multiple guides such as alerts.
 
 * **Conkeyrefs** -
 
