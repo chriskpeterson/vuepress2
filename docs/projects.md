@@ -28,9 +28,9 @@ The current administrator guides don’t show customers how to perform tasks. In
 >Voice Activity Detection parameters
 >
 v
->Template | Parameter | Permitted Values | Change Causes Restart or Reboot |
->---------------------------------------------------------------------------
->`site.cf` | `voice.vad.signalAnnexB` | 0 - There is no change to SDP. | No
+>| Template | Parameter                | Permitted Values               | Change Causes Restart or Reboot |
+>| -------- | ________________________ | ------------------------------ | ------------------------------- |
+>`site.cf`  | `voice.vad.signalAnnexB` | 0 - There is no change to SDP. | No                              |
 
 **Research:**
 Talked with SMEs, program managers, and researched customer issues in our community forums.
