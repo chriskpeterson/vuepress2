@@ -38,19 +38,19 @@ Talked with SMEs, program managers, and researched customer issues in our commun
 **Solution:**
 The team delivered a reworked administrator guide using task-based instructions to better guide customers in using parameters and achieving their goals.
 
-> ###Configure Voice Activity Detection
-
+> ### Configure Voice Activity Detection
+>
 > Set the threshold for determining what is considered background noise using Voice activity detection (VAD).
-
+>
 > Voice activity detection (VAD) conserves network bandwidth. VAD detects periods of silence in the transmit data path so the phone doesn’t transmit unnecessary data packets for outgoing audio.
-
+>
 > For compression algorithms without an inherent VAD function, such as G.711,the phone uses the codec- independent processing specified in RFC 3389.
-
+>
 > G.711 Appendix II, in RFC 3389, defines the payload format for G.711 use in packet-based multimedia communication systems.
-
+>
 > For more information about VAD, see Voice Activity Detection parameters in the *Parameter Reference Guide*.
-
->> **Procedure**
+>
+> **Procedure**
 > 1. Enable VAD.
 > `voice.vadEnable="1"`
 > 3. Set the VAD threshold in decibels.
