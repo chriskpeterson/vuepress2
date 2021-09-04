@@ -7,24 +7,33 @@ footer: chriskpeterson@gmail.com | 2021
 </div>
 
 <div class="features">
+
   <div class="feature" style="text-align: center;">
     <h2>Resume</h2>
     <p>Work experience, skills, school, and volunteering.</p>
     <b><a href="resume.html" style="text-decoration: underline;">Resume</a></b>
   </div>
+
   <div class="feature" style="text-align: center;">
     <h2>Writing samples</h2>
     <p>A few writing samples including a brief topic evaluation.</p>
     <b><a href="writingsamples.html" style="text-decoration: underline;">Writing Samples</a></b>
   </div>
+
   <div class="feature" style="text-align: center;">
     <h2>Projects</h2>
     <p>Some teams I work with and projects I'm working on.</p>
     <b><a href="projects.html" style="text-decoration: underline;">Projects</a></b>
   </div>
+
+</div>
+
+<div class="features">
+
   <div class="feature" style="text-align: center;">
     <h2>Case Studies</h2>
     <p>Content strategy and development.</p>
     <b><a href="case-studies.html" style="text-decoration: underline;">Projects</a></b>
   </div>
+
 </div>
