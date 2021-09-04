@@ -1,4 +1,4 @@
---- 
+---
 home: true
 footer: chriskpeterson@gmail.com | 2021
 ---
@@ -22,6 +22,9 @@ footer: chriskpeterson@gmail.com | 2021
     <p>Some teams I work with and projects I'm working on.</p>
     <b><a href="projects.html" style="text-decoration: underline;">Projects</a></b>
   </div>
+  <div class="feature" style="text-align: center;">
+    <h2>Case Studies</h2>
+    <p>Content strategy and development.</p>
+    <b><a href="case-studies.html" style="text-decoration: underline;">Projects</a></b>
+  </div>
 </div>
-
-
