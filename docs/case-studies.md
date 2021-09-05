@@ -37,3 +37,5 @@ When I was asked to update this guide, I looked at one we had and proposed a new
 * [HPE ProLiant Cabling Matrix](proliant-cabling-matrix.md)
 
 Hard drive cabling in a server can be tricky. In some cases, there are over forty combinations of cables you might use depending on how many drives you have installed, what type of drives, and which drive controllers the server using.
+
+* [HPE Server Guides Content Template](case-studies/content-templates.md)

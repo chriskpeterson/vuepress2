@@ -10,11 +10,12 @@ The current administrator guides don’t show customers how to perform tasks. In
 ## Problem
 
 
-![Previous Administrator Guide consistent](https://chriskpeterson.github.io/vuepress2/public/admin-guide-rewrite/Artboard-1.png)
+![Previous Administrator Guide consistent](https://chriskpeterson.github.io/vuepress2/public/admin-guide-rewrite/Artboard-2.png)
+
 
 ## research
 
 
 ## Solution
 
-![Previous Administrator Guide consistent](https://chriskpeterson.github.io/vuepress2/public/admin-guide-rewrite/Artboard-2.png)
+![New Administrator Guide](https://chriskpeterson.github.io/vuepress2/public/admin-guide-rewrite/Artboard-1.png)
