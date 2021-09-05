@@ -19,7 +19,7 @@ Leverage legacy concept and reference topics to create a user-friendly task-base
 
 Correct a customer satisfaction issue caused by inadequate Poly and third party documentation.
 
-[Full case study - Poly Solutions for Microsoft Teams Rooms](case-studies/poly.mtr.md)
+[Full case study - Poly Solutions for Microsoft Teams Rooms](case-studies/poly-mtr.md)
 
 
 ### Update Metadata and Streamline Publishing
