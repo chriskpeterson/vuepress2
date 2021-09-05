@@ -21,23 +21,11 @@ footer: chriskpeterson@gmail.com | 2021
   </div>
 
   <div class="feature" style="text-align: center;">
-    <h2>Projects</h2>
-    <p>Some teams I work with and projects I'm working on.</p>
-    <b><a href="projects.html" style="text-decoration: underline;">Projects</a></b>
+    <h2>Content Development</h2>
+    <p>Document strategy samples and other projects.</p>
+    <b><a href="case-studies.html" style="text-decoration: underline;">Document Strategy</a></b>
   </div>
 
 </div>
 
-<div class="features">
-</div>
-<div class="feature" style="text-align: center;">
-
-  <div class="feature" style="text-align: center;">
-    <h2>Case Studies</h2>
-    <p>Content strategy and development.</p>
-    <b><a href="case-studies.html" style="text-decoration: underline;">Projects</a></b>
-  </div>
-
-  <div class="feature" style="text-align: center;">
-</div>
 </div>

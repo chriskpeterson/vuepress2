@@ -8,6 +8,9 @@ lang: en-US
 
 <!--- Maybe name this something else --->
 
+Hard drive cabling in a server can be tricky. In some cases, there are over forty combinations of cables you might use depending on how many drives you have installed, what type of drives, and which drive controllers the server using.
+
+
 ## Problem
 Cabling drives in HPE servers can be difficult depending on how many drives you add to the server. Customers were having issues finding the cabling diagram for their use case. In addition, they were having trouble routing the cables through the correct path.
 
@@ -20,3 +23,6 @@ The mechanical engineering team asked for help to sole this problem.
 I worked with a colleague and we
 
 ## Solution
+
+
+![Proliant Cabling Matrix](ttps://chriskpeterson.github.io/vuepress2/public/proliant-cabling-matrix.png)

@@ -1,17 +1,20 @@
 # Creating interactive DITA output by assigning XML output classes
 #work
 
+
+I'm very interested in interactive documentation delivery models. I believe we can reduce task complexity by allowing customers to choose options and retrieve relevant content. We realized this with the HPE Synergy Firmware Comparison Tool. Customers reported fewer issues understanding the supported software and firmware for their solution. Even better, we received positive feedback from customers and the field.
+
 A fun way to work with DITA XML documentation is to design interactivity into the DITA code. This is great for creating documentation content allowing customers to choose what they want to see.
 
 This is an example that could be implemented as part of a summary step to show the procedure when clicked. This would allow a user to navigate the superprocedure without leaving the topic.
 
 ## Creating a button that shows content
 
-DITA XML elements can be assigned output classes when authoring in XMetaL. These output classes are converted to classes in the HTML output. 
+DITA XML elements can be assigned output classes when authoring in XMetaL. These output classes are converted to classes in the HTML output.
 Classes allow you to manipulate content in an HTML document.
 
 *For example*
-The element `<p output class=“button one”>I’m a button</p>` is converted to `<p class=“button one”>I’m a button</p>` in the HTML output. Using CSS it can be style to look like a button. JQuery can be added to provide functionality.
+The element `<p output outputclass=“button one”>I’m a button</p>` is converted to `<p class=“button one”>I’m a button</p>` in the HTML output. Using CSS it can be style to look like a button. JQuery can be added to provide functionality.
 ```.button {
 width: 100px;
 height: 25px;
