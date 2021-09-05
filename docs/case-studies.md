@@ -8,6 +8,7 @@ lang: en-US
 
 ## Poly
 
+
 ### UC Software Administrator Guide Redesign
 
 Leverage legacy concept and reference topics to create a user-friendly task-based administrator guide.
@@ -25,7 +26,8 @@ Correct a customer satisfaction issue caused by inadequate Poly and third party 
 
 Update the outdated Poly Documentation Library metadata for better usability. Leverage Zoomin publishing's metadata plugin to streamline publishing when the new metadata is implemented.
 
-[Full case study - Update Metadata and Streamline Publishing](metadata-publishing-update.md)
+[Full case study - Update Metadata and Streamline Publishing](case-studies/metadata-publishing-update.md)
+
 
 <!---
 ### [Poly In-the-Box Setup Sheet Evaluation](case-studies/setup-sheet-eval.md)
@@ -43,7 +45,9 @@ Propose solutions to enhance search on the Poly Documentation Library.
 Investigated API documentation software to provide better API documentation for Poly voice products.
 --->
 
+
 ## HPE
+
 
 At Poly and HPE, I participated in various work streams and department initiatives.
 
