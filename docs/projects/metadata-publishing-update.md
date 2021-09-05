@@ -11,3 +11,19 @@ The plugin worked by converting metadata in the othermeta DITA element to select
 ## Problem
 
 Publishing is a cumbersome task due to the requirement to add metadata tags to topics each time you publish a document. This process wasn't only for new content but was required every time you publish any document.
+
+![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-original.png)
+
+
+
+
+
+
+
+![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-1.png)
+
+![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-2.png)
+
+![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-3.png)
+
+![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-4.png)

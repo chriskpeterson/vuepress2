@@ -30,7 +30,7 @@ They refer to this list of compatible firmware as recipes. To make things a bit 
 
 ## Solutions
 
-![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/HPE-firmware-comparison-tool.png)
+
 
 
 **Tools**: SDL, VS Code, and XMetaL
@@ -42,3 +42,5 @@ Before leaving HPE, I developed documentation and training so the team could upd
 [HPE Firmware Comparison Tool](https://techhub.hpe.com/eginfolib/synergy/sw_release_info/C.6.1_IS.6.1.html)
 
 The screen capture shows an HPE Synergy management combination with two selected firmware packages. Checking the **show differences** checkbox causes the firmware differences to display as bold text.
+
+![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/HPE-firmware-comparison-tool.png)
