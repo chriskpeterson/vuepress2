@@ -27,7 +27,7 @@ Update the outdated Poly Documentation Library metadata for better usability. Le
 
 [Full case study - Update Metadata and Streamline Publishing](metadata-publishing-update.md)
 
-
+<!---
 ### [Poly In-the-Box Setup Sheet Evaluation](case-studies/setup-sheet-eval.md)
 
 Evaluate in-the-box documentation usage and requirements by surveying an internal customer support audience. Provide recommendations to reduce in-the-box documentation costs based on the survey results.
@@ -41,7 +41,7 @@ Propose solutions to enhance search on the Poly Documentation Library.
 [Postman API Documentation Research](https://documenter.getpostman.com/view/13192773/TVYDdKDz)
 
 Investigated API documentation software to provide better API documentation for Poly voice products.
-
+--->
 
 ## HPE
 
@@ -56,12 +56,13 @@ Convert Excel and PowerPoint software and hardware compatibility and upgrade inf
 
 Deliver a complete and cohesive guide for cabling the HPE Synergy management network.
 
-
+<!---
 ### [HPE ProLiant Cabling Matrix](case-studies/dl380-cabling-matrix.md)
 
 Create a deliverable to help customers identify proper cabling to avoid internal server airflow and thermal issues.
+-->
 
-
+<!---
 ### [HPE Server Maintenance Guide Restructure](case-studies/hpe-maintenance-guide.md)
 
 Propose and test a HPE maintenance guide structural update promoting content reuse and customer usability.
@@ -75,7 +76,7 @@ A general look at interactive documentation a formal proposal created for an int
 ### [HPE Server Guides Content Template](case-studies/content-templates.md)
 
 Utilize DITA functionality to streamline the creation of HPE server user and maintenance guides.
-
+-->
 
 
 ### Information Architecture team
