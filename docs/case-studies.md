@@ -3,22 +3,49 @@ title: Content Development
 lang: en-US
 ---
 
-# Content Development
+# Content Development and Internal Projects
 
 
 ## Poly
 
-### [UC Software Administrator Guide Redesign](case-studies/admin-guide-redesign.md)
+### UC Software Administrator Guide Redesign
 
 Leverage legacy concept and reference topics to create a user-friendly task-based administrator guide.
 
-### [Poly Solutions for Microsoft Teams Roomw](case-studies/poly.mtr.md)
+[Full case study - UC Software Administrator Guide Redesign](case-studies/admin-guide-redesign.md)
 
-Customers were returning units due to inadequate instructions. Putting too much information on a small setup sheet and depending on third party partner's documentation caused customer dissatisfaction.
+### Poly Microsoft Teams Rooms Installation Guide Rework
+
+Correct a customer satisfaction issue caused by inadequate Poly and third party documentation.
+
+[Full case study - Poly Solutions for Microsoft Teams Rooms](case-studies/poly.mtr.md)
+
+
+### Update Metadata and Streamline Publishing
+
+Update the outdated Poly Documentation Library metadata for better usability. Leverage Zoomin publishing's metadata plugin to streamline publishing when the new metadata is implemented.
+
+[Full case study - Update Metadata and Streamline Publishing](metadata-publishing-update.md)
+
+
+### [Poly In-the-Box Setup Sheet Evaluation](case-studies/setup-sheet-eval.md)
+
+Evaluate in-the-box documentation usage and requirements by surveying an internal customer support audience. Provide recommendations to reduce in-the-box documentation costs based on the survey results.
+
+### [Poly Documentation Library Redesign](doc-library-redesign)
+
+Propose solutions to enhance search on the Poly Documentation Library.
+
+### API Documentation
+
+[Postman API Documentation Research](https://documenter.getpostman.com/view/13192773/TVYDdKDz)
+
+Investigated API documentation software to provide better API documentation for Poly voice products.
 
 
 ## HPE
 
+At Poly and HPE, I participated in various work streams and department initiatives.
 
 ### [HPE Synergy Firmware Compatibility Matrix](case-studies/interactive-matrix.md)
 
@@ -27,57 +54,28 @@ Convert Excel and PowerPoint software and hardware compatibility and upgrade inf
 
 ### [HPE Synergy Cabling Guide](case-studies/synergy-cabling-guide.md)
 
-Delivery a complete and cohesive guide for cabling the HPE Synergy management network.
+Deliver a complete and cohesive guide for cabling the HPE Synergy management network.
 
 
-### [HPE ProLiant Cabling Matrix](case-studies/proliant-cabling-matrix.md)
+### [HPE ProLiant Cabling Matrix](case-studies/dl380-cabling-matrix.md)
 
-Remove obstacles to finding cabling illustrations. Ensure customers understand where to route the cables.
-
-
-
-# Department Projects and Work Streams
-
-At Poly and HPE, I participated in various work streams and department initiatives.
-
-## Poly
-
-### Taxonomy and Metadata
-
-Worked with our editing team to update the product documentation library taxonomy. As part of this project, I worked with Zoomin to implement their metadata to facets publishing plugin. Using this plugin ensures that topics utilize consistent metadata tagging and saves publishing time by a few hours.
-
-### [Poly In-the-Box Setup Sheet Evaluation](case-studies/setup-sheet-eval.md)
-
-For most types of content, the web is the best place to put it. However, for hardware products that ship in boxes, the best place to find instructions is in the box.
-
-Management asked me to send out an internal survey and compile the results. The goal was to reduce in-the-box documentation cost. First, they wanted to better understand how services and customers utilize the in-the-box documentation.
-
-[Poly Documentation Library Redesign](doc-library-redesign)
-
-Provided input toward the redesign of the Poly Documentation Library.
+Create a deliverable to help customers identify proper cabling to avoid internal server airflow and thermal issues.
 
 
-### API Documentation
+### [HPE Server Maintenance Guide Restructure](case-studies/hpe-maintenance-guide.md)
 
-[Postman API Documentation Research](https://documenter.getpostman.com/view/13192773/TVYDdKDz)
-
-Investigated software to help our team write API documentation for both video and voice. I taught other team members how to run API commands on our voice products.
-
-
-## Hewlett Packard Enterprise
+Propose and test a HPE maintenance guide structural update promoting content reuse and customer usability.
 
 
 ### [Interactive Documentation](case-studies/interactive-documentation)
 
-Convert Excel and PowerPoint software and hardware compatibility and upgrade information into an interactive guide.
+A general look at interactive documentation a formal proposal created for an internal HPE audience.
 
 
 ### [HPE Server Guides Content Template](case-studies/content-templates.md)
 
 Utilize DITA functionality to streamline the creation of HPE server user and maintenance guides.
 
-
-### [HPE Server Maintenance Guide Restructure](case-studies/hpe-maintenance-guide.md)
 
 
 ### Information Architecture team
