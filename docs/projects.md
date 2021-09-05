@@ -13,6 +13,10 @@ At Poly and HPE, I participated in various work streams and department initiativ
 
 Worked with our editing team to update the product documentation library taxonomy. As part of this project, I worked with Zoomin to implement their metadata to facets publishing plugin. Using this plugin ensures that topics utilize consistent metadata tagging and saves publishing time by a few hours.
 
+* [Poly Documentation Library Redesign](doc-library-redesign)
+
+Around the time I started working at Poly, they were discussing how to document third party apps running on Poly devices.
+
 ### Create Task-Based Voice Documentation
 
 Initiated a project to take concept and reference topic-based administrator guides and convert them to task-based guides. This included creating a task template for this new type of task for our audience.

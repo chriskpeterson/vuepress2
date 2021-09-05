@@ -29,6 +29,8 @@ footer: chriskpeterson@gmail.com | 2021
 </div>
 
 <div class="features">
+</div>
+<div class="feature" style="text-align: center;">
 
   <div class="feature" style="text-align: center;">
     <h2>Case Studies</h2>
@@ -36,4 +38,6 @@ footer: chriskpeterson@gmail.com | 2021
     <b><a href="case-studies.html" style="text-decoration: underline;">Projects</a></b>
   </div>
 
+  <div class="feature" style="text-align: center;">
+</div>
 </div>
