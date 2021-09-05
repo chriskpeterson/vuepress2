@@ -20,10 +20,10 @@ Publishing is a cumbersome task due to the requirement to add metadata tags to t
 
 
 
-![1](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-1.PNG)
+![1](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-1.png)
 
-![2](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-2.PNG)
+![2](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-2.png)
 
-![3](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-3.PNG)
+![3](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-3.png)
 
-![4](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-4.PNG)
+![4](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-4.png)
