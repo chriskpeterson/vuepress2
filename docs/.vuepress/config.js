@@ -5,9 +5,9 @@ themeConfig: {
     nav: [
         { text: 'Home', link: '/'},
         { text: 'Resume', link: '/resume'},
-        { text: 'Writing Samples', link: 'writingsamples.html'},
-        { text: 'Content Development', link: 'case-studies.html'},
-        { text: 'Projects', link: 'projects.html'}
+        { text: 'Writing Samples', link: '/writingsamples'},
+        { text: 'Content Development', link: '/case-studies'}
+
     ],
 
     theme: [

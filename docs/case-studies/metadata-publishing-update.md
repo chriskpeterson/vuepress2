@@ -12,7 +12,7 @@ Facet update on the Zoomin site to match the new taxonomy
 Search on the Zoomin documentation site
 
 ## PDL Search
-The current PDL doesn't offer a robust search. Poly documentation includes a large amount of single-sourced content, and multiple versions of the guides are published on the PDL. So, when a customer searches for a topic, they see pages full of the same or similar topics. If they're lucky, the site will present the topic on page one.
+The previous PDF didn't offer a robust search. Poly documentation includes a large amount of single-sourced content, and multiple versions of the guides are published on the PDL. So, when a customer searches for a topic, they see pages full of the same or similar topics. If they're lucky, the site will present the topic on page one.
 
 ![Current Poly Documentation Library front page](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-original.png)
 
@@ -31,6 +31,10 @@ I proposed a second idea that displayed links to product documentation pages ben
 When a product is selected, the user is sent to the product page.
 
 ![3](https://chriskpeterson.github.io/vuepress2/public/search/poly-site-idea-4.png)
+
+**Current PDL**
+
+![3](https://chriskpeterson.github.io/vuepress2/public/search/poly-doc-library.png)
 
 ## Publishing
 I inherited the publishing portion of this project from a colleague that left the company. It hadn't been figured out yet so I worked with Zoomin to implement and test their metadata plugin.

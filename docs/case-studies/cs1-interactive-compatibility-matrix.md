@@ -7,6 +7,8 @@ HPE's customers were finding it difficult to understand which software and firmw
 
 The firmware team presented this challenge to Knowledge Manage. How can we present the software and firmware compatibility information in a way that's easy for customers to understand and act on?
 
+When I worked on HPE Synergy, it was HPE's premier product. The team wanted everything, including documentation, to celebrate this next generation blade server. In fact, documentation was considered a critical component and received more attention than it typically does.
+
 ## Research
 
 The team provided me with an Excel spreadsheet with 80 rows and 20 columns. This spreadsheet included firmware and software compatibility information for the HPE Synergy product. Initially, the team was going to just send this spreadsheet to customers. After reviewing the information and the team's need, we told them we could do something better.
@@ -14,3 +16,9 @@ The team provided me with an Excel spreadsheet with 80 rows and 20 columns. This
 I raised my hand for a challenge that I wasn't sure I could pull off. I evaluated the spreadsheet and thought of a way only show a portion of it. Not knowing how to program, I used Google and found the code I needed to create a demo. As things go, I got it worked out the morning of my presentation to the team.
 
 In Knowledge Management, we were mandated to use our SLD CMS for all deliverables. So, this firmware and software information would be required to be added to and published through SDL.
+
+## Solution
+
+This is a more recent screen capture of the tool. After creating the tool, I trained my coworker on how to update it also providing documentation.
+
+![HPE Firmware Comparison Tool](https://chriskpeterson.github.io/vuepress2/public/HPE-firmware-comparison-tool.png)

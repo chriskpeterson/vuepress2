@@ -32,7 +32,7 @@ For example, that default admin password.
 
 I created a quick task flow diagram to show how similar the setup is for each solution.
 
-![MTR Bundles Setup Diagram](https://chriskpeterson.github.io/vuepress2/public/MTR-diagram.png)
+![MTR Bundles Setup Diagram](https://chriskpeterson.github.io/vuepress2/public/MTR/MTR-diagram.png)
 
 ## Solution
 
@@ -43,4 +43,15 @@ The first iteration of this guide chunked the cabling steps together in a choose
 Now, the individual solutions into separate chunked topics. By separating the solutions setup instructions, customers can more easily identify and capture only the information they need.
 
 Poly Solutions for Microsoft Teams Rooms Solution Guide
+
+![MTR Bundles Setup Diagram](https://chriskpeterson.github.io/vuepress2/public/MTR/mtr-1.png)
+
+The guide includes a step-by-step walkthrough of the cabling procedure.
+
+![MTR Bundles Setup Diagram](https://chriskpeterson.github.io/vuepress2/public/MTR/mtr-step-through.png)
+
+## Results
+
+The sales enablement team reported that customers were no longer returning the conferencing systems. The solution architect team also provided positive feedback on the new documentation design.
+
 https://documents.polycom.com/bundle/mtr-sg-current
