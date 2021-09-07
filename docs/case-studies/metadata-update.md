@@ -1,6 +1,6 @@
 
 
-# Metadata and Publishing Update
+# Metadata and Search Improvements
 
 Last year, the team started working with Zoomin, our product documentation library host, to update the look of the Poly Documentation Library. When this project started, they tasked the team with coming up with things we'd like to see added for a better customer experience.
 

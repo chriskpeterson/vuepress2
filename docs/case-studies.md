@@ -22,9 +22,9 @@ Correct a customer satisfaction issue caused by inadequate Poly and third party 
 [Project details - Poly Solutions for Microsoft Teams Rooms](case-studies/poly-mtr.md)
 
 
-### Update Metadata and Streamline Publishing
+### Metadata and Search Improvements
 
-Update the outdated Poly Documentation Library metadata for better usability. Leverage Zoomin publishing's metadata plugin to streamline publishing when the new metadata is implemented.
+Update the outdated Poly Documentation Library metadata for better usability and search.
 
 [Project details - Update Metadata and Streamline Publishing](case-studies/metadata-update.md)
 
