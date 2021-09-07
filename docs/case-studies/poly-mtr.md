@@ -22,25 +22,25 @@ This was a case of trying to figure out what we should document for a third-part
 
 I picked up a demo unit from the office and set it up in my home lab. The team insisted that this product needed very few instructions, so the program's writer complied by creating a simple PDF setup sheet. Going through the setup process, it was clear that critical information was missing.
 
-Going through the system setup, I noted:
+Going through system setup, I noted:
 
-* We were missing critical information on our setup sheet.
-For example, that default admin password.
-* We made assumptions about what the customer knows and about the usability of Microsoft's help center.
-* Cabling is complex and can't be adequately shown in one diagram.
-* The conferencing system shipped with so many cables that figuring out where they went was difficult.
+* We were missing critical information. For example, the default admin password.
+* We made assumptions about what the customer knows about Microsoft Teams Rooms licensing.
+* Cabling was too complex and can't be adequately conveyed in one diagram. The conferencing system shipped with so many cables that figuring out where they went was difficult.
 
-I created a quick task flow diagram to show how similar the setup is for each solution.
+My initial thought was that the guide should be an HTML deliverable. The PDF setup sheet was an online deliverable and not printed as in-the-box content.
+
+First, I created a quick task flow diagram to show how similar setup is for each solution. This allowed me to convince the team to move forward with one setup document for each of the three conferencing systems.
 
 ![MTR Bundles Setup Diagram](https://chriskpeterson.github.io/vuepress2/public/MTR/MTR-diagram.png)
 
-## Solution
+I mocked up an HTML version of the setup content with step-by-step cabling instructions. The team agreed to move forward with the new format, so I moved the content into our CMS to create a guide for formal review.
 
-I created a single HTML deliverable that included the information for each of the conferencing systems. The setup for each is almost identical. The only difference is the camera.
+## Project
 
-The first iteration of this guide chunked the cabling steps together in a choose your own adventure style. As supported components were added, the solution guide became difficult to follow. To update the guide, I grouped the cabling procedures for each solution separately. The DITA OpenToolkit transform doesn't like including a topic more than once, so I had to figure out how to get past it. After reading the DITA spec and some trial and error, I found the solution.
+The first iteration of this guide chunked the cabling steps together in a choose your adventure style. As the team added supported components, the solution guide became difficult to follow. For better usability, I grouped the cabling procedures for each solution separately. The DITA OpenToolkit transform doesn't like including a topic more than once, so I had to figure out how to make it work. After reading the DITA spec and with some trial and error, I found the solution.
 
-Now, the individual solutions into separate chunked topics. By separating the solutions setup instructions, customers can more easily identify and capture only the information they need.
+Now, the guide chunks the individual conferencing system cabling instructions into separate HTML pages. By separating the solutions setup instructions, customers can more easily identify and capture only the information they need.
 
 Poly Solutions for Microsoft Teams Rooms Solution Guide
 

@@ -60,11 +60,11 @@ Convert Excel and PowerPoint software and hardware compatibility and upgrade inf
 
 Deliver a complete and cohesive guide for cabling the HPE Synergy management network.
 
-<!---
+
 ### [HPE ProLiant Cabling Matrix](case-studies/dl380-cabling-matrix.md)
 
 Create a deliverable to help customers identify proper cabling to avoid internal server airflow and thermal issues.
--->
+
 
 <!---
 ### [HPE Server Maintenance Guide Restructure](case-studies/hpe-maintenance-guide.md)

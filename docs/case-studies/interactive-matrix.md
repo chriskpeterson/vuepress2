@@ -1,41 +1,60 @@
 
 
-
-# HPE Synergy Software Solutions Interactive documentation
-
+#  HPE Synergy Software Interactive Matrix
 
 ## Problem
 
-
-
-Customers were confused about which firmware for the many components was compatible with each other. The HPE Synergy software team needed help providing an easy view of the compatible firmware and software. At the time they contacted my team, their proposal was to send a large Excel spreadsheet to customers.
-
-In addition to the firmware comparison tool, the team needed a way to communicate additional information include the supported upgrade paths for the main HPE Synergy software..
-
-
-## Research
-
-I immediately thought that we could build on the filter table already added to the HPE ConvergedSystem compatibiliy matrix. However, we'd also need a way to show only portions of the large fifteen column table on the screen.
-
-I spoke to the members of the software team to identify how customers use the matrix and what their painpoints were. The team indicated that customers want to compare one recipe with another. Their goal is to figure out which components received a firmware update in the new recipe.
-
-Second, customers want to download a CSV version of the two recipes their comparing so they can do additional research as to what might be affected when they update their system.
-
-They refer to this list of compatible firmware as recipes. To make things a bit more confusing, certain recipes are only compatible with the main HPE Synergy software.
+The Synergy software team approached my PM and me hoping we could help them solve a problem. HPE Synergy was still a new product, but the software release cadence was causing the information to become difficult to maintain and deliver to customers.
 
 
 
+The information the team provided to customers included the software and firmware combinations released in each update package. Due to the potential downtime updating a system causes, customers needed to carefully plan out updates and decide if they were even necessary.
+
+The team collected the software and firmware information in an Excel spreadsheet. When they approached us, they planned to provide customers with their spreadsheet. Of course, we recoiled at the thought. As the documentation team, we were absolutely to find a documentation solution.
 
 
 
-## Solutions
+Knowing a bit about JavaScript and what's possible on the web, I presented the idea that we could hide all but one column of data to reduce cognitive load. In our initial discussion, the team approved this plan.
+
+## Initial Research
+
+Before started work, I:
+
+- Surveyed the broader Synergy software team to understand how customers work with the data.
+- Researched how to output the content from our CCMS to avoid creating a document outside our standard process. 
+
+We met with the Synergy team to discuss customer pain points and to understand how we could support the customer's needs.
+
+- Compare two Synergy software packages. They look at the one they're currently on against the most recent version.
+- Capture the updated firmware and software to evaluate if updating their system should be done immediately or if they should wait for the next software package.
+
+## Proposal
+
+Based on our research, we proposed:
+
+- Showing two columns of data allowing the customer to compare two software packages. The first column would include the latest software package. The second column allows the customer to select their software package for comparison. If they needed to compare two other packages, they could change the first column to another software package.
+- Making the comparison easier by adding a checkbox to highlight the differences. The customer could quickly identify the deltas between two software packages.
+- Adding a CSV download button allowing the customer to move the data to Excel or another tool.
+- Adding a print button to create a version styled for printing.
+- Including a filtered search field, allowing customers to reduce the list to fewer rows.
+
+The Synergy team agreed that this was a good strategy, so we moved forward with the project.
+
+## Implementation
+
+To put the tool together, I researched the JavaScript code required to hide columns in a table. From there, I entered the information software version information into our CCMS.
 
 
 
+I'm not much of a coder, but I was able to get the site working just before our first meeting with the team. Luckily, we were near summer, so I was able to work with one of our interns to implement the remaining code and help streamline the code I'd put together.
 
-**Tools**: SDL, VS Code, and XMetaL
 
-This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. Before this tool was created, the team provided a large Excel spreadsheet to customers.
+
+Eventually, we had a functional prototype with all of the functions we'd promised the team. They were eager to launch the new tool so we prepared it for the next software launch.
+
+
+
+We named the tool **HPE Synergy Firmware Comparison Tool**. This firmware comparison tool allows customers to choose and compare two HPE Synergy Custom SPPs. Before this tool was created, the team provided a large Excel spreadsheet to customers.
 
 Before leaving HPE, I developed documentation and training so the team could update and maintain the tool.
 
@@ -43,4 +62,22 @@ Before leaving HPE, I developed documentation and training so the team could upd
 
 The screen capture shows an HPE Synergy management combination with two selected firmware packages. Checking the **show differences** checkbox causes the firmware differences to display as bold text.
 
-![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/HPE-firmware-comparison-tool.png)
+When the page displays, only the latest software package is shown. 
+
+![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/firmware-tool/synergy-firmware-initial-screen.png)
+
+You choose a software package from the right column, and it displays.
+
+![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/firmware-tool/synergy-firmware-choose-spp.png)
+
+Selecting the show difference checkbox highlights the deltas.
+
+![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/firmware-tool/synergy-firmware-deltas.png)
+
+Customers can filter the list by entering a term in the text box. For example, they can review firmware for all of the Synergy computer modules.
+
+![HPE Firmware Comparison Tools](https://chriskpeterson.github.io/vuepress2/public/firmware-tool/synergy-firmware-filter-search.png)
+
+## Results
+
+At launch, we received positive feedback from the Synergy software team and the field engineers that work directly with customers. To make it one step better, my PM and I were walking out of work one day and ran into the vice president of the Total Customer Experience and Quality group. She recognized us and thanked us for creating the tool. She said the tool allowed her to understand how the software and firmware worked together. 

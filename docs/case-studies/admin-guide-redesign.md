@@ -9,7 +9,7 @@ The current administrator guides don’t show customers how to perform tasks. In
 
 ## Problem
 
-I noted in the past that, as a new employee, it was difficult to use our documentation to set up and configure a phone. I felt we needed a task-based guide that provided clear instructions on:
+As a new employee, I brought up the fact that that it was difficult to use our documentation to set up and configure a phone. I felt we needed a task-based guide that provided clear instructions on:
 
 * Steps required to get the phone working so you can make a call
 * Recommended configuration tasks such as security and networking
@@ -17,7 +17,7 @@ I noted in the past that, as a new employee, it was difficult to use our documen
 
 ### Example From the Previous Guide
 
-The following is an example of the previous topic on server-based do not disturb. Imagine a customer wanting to configure server-based do not disturb.
+The following is an example of a feature topic set from the previous guide. As a customer, if my goal is to configure server-based do not disturb, I'll spend unnecessary time figuring out what to do.
 
 ![Previous Administrator Guide consistent](https://chriskpeterson.github.io/vuepress2/public/admin-guide-rewrite/dnd-concept.png)
 
@@ -29,21 +29,20 @@ The customer would then have to figure out which parameter they needed to config
 
 This structure did not lend itself to being an administrator guide. It looked more like a parameter reference guide.
 
-## Process
+## Proposal
 
-I proposed this project to management and the team detailing the requirements in a presentation and documentation plan. Customers want the information they need to be quick to find and easy to follow. I soon found out this is something the team has tried to complete in the past, but they didn't get very far in the process.
+I proposed the idea to management that we rewrite the guide to be task-based. When I brought this idea to my manager, she indicated that they'd try to create a task-based guide a few times previously. She was ready to see it completed, so she gave an adamant approval. With the project approved, I created a presentation and some initial concepts on how the topics and document would be structured.
 
-Once the project kicked off, we met with the program manager and SMEs, reviewed our community forums, and researched competitors' administrator guides.
+## Project
+
+With the team in agreement we should convert the guide, my peers on the voice team each took a role in the project's success. We kicked off the project by meeting with the program manager and SMEs. We reviewed our community forums and researched competitors' administrator guides.
 
 I worked on a new task template, including the structure of the parameters referenced in the topics. I brought template ideas to our biweekly IA meetings where we decided on a final structure. Once agreed upon, I constructed the template in our CCMS.
 
-Another coworker took on the project management role because this project was for voice guides, and I was working on video products. I took on a supporting role. The voice products writing team banded together and worked on the topics. Rewriting the topics required that the writers gain a better understanding of the features, which often resulted in SME consultations.
+Another coworker took on the project management role. At the time, I had moved to write for video products, and this project was for the voice product administrator guide. In my supporting role, I worked with the team to rewrite the topics. Rewriting the content provided additional clarity into how difficult it must be for customers to follow the guide. In most cases, we had to consult with SMEs to detangle the content.
 
-After six months of hard work, outside of program work, the first two guides were complete.
+After six months of hard work, outside of our program work, the first two guides were complete.
 
-## Solution
-
-The team delivered a reworked administrator guide using task-based instructions to better guide customers in using parameters and achieving their goals.
 
 ### Example from the new guide:
 
@@ -57,3 +56,7 @@ To simplify the maintenance of our parameter guide, I started a project to conve
 
 
 ![Previous Administrator Guide consistent](https://chriskpeterson.github.io/vuepress2/public/admin-guide-rewrite/param-html.png)
+
+## Results
+
+The guide hasn't been out long enough to capture meaningful customer analytics. However, the team has received positive feedback from the product teams and management. In addition, the writers now have a better understanding of the features and topics for the products they support.

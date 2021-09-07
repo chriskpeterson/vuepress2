@@ -6,7 +6,7 @@
 
 ## ABOUT
 
-Customer success-driven writer who brings thought leadership and innovation. Able to quickly grasp new and challenging concepts and processes. Strives to build solid relationships with coworkers, SMEs, and product stakeholders. Inquisitive and research-driven, an active participant in team discussions, product meetings, and daily stand-ups.
+Customer and team success-driven writer who able to builds solid relationships with coworkers, SMEs, and product stakeholders. Inquisitive, hands-on, and research-driven able to quickly learn new and challenging concepts. Active participant in team discussions, product meetings, and daily stand-ups.
 
 Authored documentation for Poly (Plantronics/Polycom) phone and video products, HPE composable infrastructure products, individual server hardware components. Worked on various internal teams including, information architecture and customer call case analysis.
 
