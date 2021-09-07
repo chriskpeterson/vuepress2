@@ -37,7 +37,7 @@ The following three illustrations show the step-by-step cabling in the updated g
 
 ![HPE Synergy Cabling Diagram](https://chriskpeterson.github.io/vuepress2/public/synergy-cabling/synergy-3-frame-link-port-cabling.png)
 
-![HPE Synergy Cabling Diagram](https://chriskpeterson.github.io/vuepress2/public/synergy-cabling/synergy-3-frame-link-mgmt-cabling.png)
+![HPE Synergy Cabling Diagram](https://chriskpeterson.github.io/vuepress2/public/synergy-cabling/synergy-3-frame-mgmt-port-cabling.png)
 
 ![HPE Synergy Cabling Diagram](https://chriskpeterson.github.io/vuepress2/public/synergy-cabling/synergy-3-frame-all-cables.png)
 

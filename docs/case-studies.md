@@ -13,20 +13,20 @@ lang: en-US
 
 Leverage legacy concept and reference topics to create a user-friendly task-based administrator guide.
 
-[Full case study - UC Software Administrator Guide Redesign](case-studies/admin-guide-redesign.md)
+[Project details - UC Software Administrator Guide Redesign](case-studies/admin-guide-redesign.md)
 
 ### Poly Microsoft Teams Rooms Installation Guide Rework
 
 Correct a customer satisfaction issue caused by inadequate Poly and third party documentation.
 
-[Full case study - Poly Solutions for Microsoft Teams Rooms](case-studies/poly-mtr.md)
+[Project details - Poly Solutions for Microsoft Teams Rooms](case-studies/poly-mtr.md)
 
 
 ### Update Metadata and Streamline Publishing
 
 Update the outdated Poly Documentation Library metadata for better usability. Leverage Zoomin publishing's metadata plugin to streamline publishing when the new metadata is implemented.
 
-[Full case study - Update Metadata and Streamline Publishing](case-studies/metadata-publishing-update.md)
+[Project details - Update Metadata and Streamline Publishing](case-studies/metadata-publishing-update.md)
 
 
 <!---
@@ -51,20 +51,23 @@ Investigated API documentation software to provide better API documentation for 
 
 At Poly and HPE, I participated in various work streams and department initiatives.
 
-### [HPE Synergy Firmware Compatibility Matrix](case-studies/interactive-matrix.md)
+### HPE Synergy Firmware Compatibility Matrix
 
 Convert Excel and PowerPoint software and hardware compatibility and upgrade information into an interactive guide.
 
+[Project details - HPE Synergy Firmware Compatibility Matrix](case-studies/interactive-matrix.md)
 
-### [HPE Synergy Cabling Guide](case-studies/synergy-cabling-guide.md)
+### HPE Synergy Cabling Guide
 
 Deliver a complete and cohesive guide for cabling the HPE Synergy management network.
 
+[Project details - HPE Synergy Cabling Guide](case-studies/synergy-cabling-guide.md)
 
+<!---
 ### [HPE ProLiant Cabling Matrix](case-studies/dl380-cabling-matrix.md)
 
 Create a deliverable to help customers identify proper cabling to avoid internal server airflow and thermal issues.
-
+-->
 
 <!---
 ### [HPE Server Maintenance Guide Restructure](case-studies/hpe-maintenance-guide.md)
