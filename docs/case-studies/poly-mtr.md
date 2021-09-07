@@ -16,7 +16,12 @@ Customers were provided units to test before purchasing. The customers were retu
 
 My manager asked me to pick up a unit from the office to set up in my home lab. I went through the setup procedure and found multiple gaps in the documentation.
 
-This was a case of trying to figure out what we should document for a third-party application. Depending on the third party to provide sufficient documentation may lead to customer dissatisfaction.
+This was a case of trying to figure out what we should document for a third-party application. The product team believed that we didn't need to document Microsoft Teams Rooms procedures. This is where the issues started. The lack of clear direction on the required licenses or even the administrator password caused installation failures.
+
+The original setup sheet:
+
+![MTR Bundles Setup Diagram](https://chriskpeterson.github.io/vuepress2/public/MTR/mtr-original.png)
+
 
 ## Research
 
