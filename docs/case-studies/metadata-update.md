@@ -44,7 +44,7 @@ The team liked the idea of adding facets to the initial search. However, the fin
 
 ![The final design of the Poly PDL filter search facets. The search bar has a filter button to the left that presents a list of high level categories the customer can choose to filter search.](https://chriskpeterson.github.io/vuepress2/public/search/poly-doc-library.png)
 
-The design to add facets to the initial search was only the beginning of this project. Addition efforts to finalize and implement the facets included:
+The design to add facets to the initial search was only the beginning of this project. Additional efforts to finalize and implement the facets included:
 
 * Updating the documentation taxonomy
 * Translating the updated taxonomy to a new metadata structure
