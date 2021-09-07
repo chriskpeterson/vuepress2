@@ -26,7 +26,7 @@ Correct a customer satisfaction issue caused by inadequate Poly and third party 
 
 Update the outdated Poly Documentation Library metadata for better usability. Leverage Zoomin publishing's metadata plugin to streamline publishing when the new metadata is implemented.
 
-[Project details - Update Metadata and Streamline Publishing](case-studies/metadata-publishing-update.md)
+[Project details - Update Metadata and Streamline Publishing](case-studies/metadata-update.md)
 
 
 <!---
