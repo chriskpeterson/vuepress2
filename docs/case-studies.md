@@ -63,6 +63,8 @@ Deliver a complete and cohesive guide for cabling the HPE Synergy management net
 
 [Project details - HPE Synergy Cabling Guide](case-studies/synergy-cabling-guide.md)
 
+
+
 <!---
 ### [HPE ProLiant Cabling Matrix](case-studies/dl380-cabling-matrix.md)
 
@@ -85,7 +87,7 @@ A general look at interactive documentation a formal proposal created for an int
 Utilize DITA functionality to streamline the creation of HPE server user and maintenance guides.
 -->
 
-
+<!--
 ### Information Architecture team
 
 Worked performed as part of this team:
@@ -97,4 +99,6 @@ Worked performed as part of this team:
 
 ### Quality team
 
-This team evaluates support cases flagged for potential documentation issues. In one case, we identified that customers continued to call in about a particular server setup procedure. We were able to borrow the server and confirmed that the process, as documented, was unclear. We updated the guide and leading to a reduction in service calls.
+This team evaluates support cases flagged for potential documentation issues. In one case, we identified that customers continued to call in about a particular server setup procedure.
+We were able to borrow the server and confirmed that the process, as documented, was unclear. We updated the guide and leading to a reduction in service calls.
+-->
