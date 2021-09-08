@@ -7,29 +7,34 @@ lang: en-US
 
 # HPE Synergy Cabling guide
 
-When I started working on this project, the first version of the HPE Synergy Cabling Guide was already released. I had to learn about the product and see what improvements I could make.
+When I started working on this project, the first version of the HPE Synergy Cabling Guide was already published.
+
+## Problem
+
+Customers were calling support for issues due to improper cabling. Hardware engineering SMEs requested updates to the cabling diagrams and additional cabling scenarios to reduce service calls.
 
 ## Research
 
-The first thing I did was make sure the cabling diagrams were correct. After talking to SMEs, I found that the cabling guide did not show every cable required for each configuration. In addition:
+I reviewed the first version of the guide and then interviewed SMEs to access where the information gaps were and what improvements they'd like to see. The SMEs asked for:
+* More thorough explanations of limitations and requirements
+* Updated cabling diagrams to address readability
+* Additional cabling diagrams to avoid customers having to figure them out
 
-* Some cabling scenarios didn't include additional cabling required for some configurations
-* The cabling diagrams included every cable in one illustration even though the cabling task listed each cabling step separately.
+After speaking with the SMEs, I went to the Synergy lab and walked through the cabling scenarios. I also reviewed the supported cable types, required adapters, and transceivers.
 
 ## Project
 
-When working on documentation strategy, I prefer to keep the content simple and easy to maintain. Initially, I wanted to create an interactive cabling guide with a checkbox for each cable. However, it wasn't clear the interactivity would provide any value. Programming the interactivity would be another issue.
+I presented a plan to show step-by-step cabling diagrams to match each step. We'd then move the complete cabling diagram to the end of the task. The SMEs and broader team approved this approach.
 
-To keep the guide simple, I created a topic for each cabling scenario. Each step in the task included a cabling illustration.
+I made the following improvements to the guide:
 
-* Each cabling scenario included a step-by-step cabling guide.
-* At the end of the walkthrough, a final illustration showed all the cables.
-* I included every component that the system required for each scenario.
-* I used colors to differentiate the cables.
-* For accessibility, each illustration included alt text. The step-by-step instructions also provided better textual guidance.
-* The final diagram is not ideal for colorblind customers, but the step-by-step instructions don't rely on colors as they show each step one by one.
+* Each cabling scenario included step-by-step cabling instructions
+* At the end of the walkthrough, a final illustration showed all the cables
+* The cabling diagrams included every component required for each scenario
+* Added additional cabling scenarios to cover all use cases
 
-The following is an example of one of the more complex cabling diagrams. In the original guide, this cabling scenario didn't include all of the required cables.
+The following is an example of one of the more complex cabling diagrams.
+In the original guide, this cabling scenario didn't include all of the required cables.
 
 ![HPE Synergy Cabling Diagram](https://chriskpeterson.github.io/vuepress2/public/synergy-cabling/image-streamer-five-frame.png)
 
