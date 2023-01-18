@@ -1,4 +1,9 @@
+
+// .vuepress/config.js
 module.exports = {
+    theme: '@vuepress/blog',
+    themeConfig: {
+  
 title: 'Chris Peterson',
 description: 'Senior Technical Writer | Resume and Work Samples',
 themeConfig: {
