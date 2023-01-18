@@ -8,12 +8,6 @@
 	"docs:build": "vuepress build"
   },
 
-  "scripts": {
-    ...
-    "dev": "vuepress dev blog", // starts a development server with automatic reload.
-    "build": "vuepress build blog" // builds your website.
-  },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chriskpeterson/vuepress2.git"
