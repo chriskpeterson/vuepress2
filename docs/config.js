@@ -2,10 +2,11 @@
 // .vuepress/config.js
 module.exports = {
     theme: '@vuepress/blog',
-    themeConfig: {
-  
-title: 'Chris Peterson',
+    title: 'Chris Peterson',
 description: 'Senior Technical Writer | Resume and Work Samples',
+
+  
+
 themeConfig: {
     nav: [
         { text: 'Home', link: '/'},
@@ -16,6 +17,5 @@ themeConfig: {
     
     sidebar: [{'auto'}
 ]
-}
 }
 }
