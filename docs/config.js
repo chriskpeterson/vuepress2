@@ -1,21 +1,9 @@
 
 // .vuepress/config.js
 module.exports = {
-    theme: '@vuepress/blog',
-    title: 'Chris Peterson',
-description: 'Senior Technical Writer | Resume and Work Samples',
-
-  
-
-themeConfig: {
-    nav: [
-        { text: 'Home', link: '/'},
-        { text: 'About', link: 'about.html'},
-        { text: 'Resume', link: '/resume'},
-        { text: 'Writing Samples', link: 'writingsamples.html'}
-    ],
-    
-    sidebar: [{'auto'}
-]
-}
-}
+    title: 'Chris Peterson Portfolio', // Title for the site. This will be displayed in the navbar.
+    theme: '@vuepress/theme-blog',
+    themeConfig: {
+      // Please keep looking down to see the available options.
+    }
+  }
