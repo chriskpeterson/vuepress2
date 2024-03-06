@@ -5,23 +5,24 @@ lang: en-US
 
 # Writing Samples
 
-At Poly, I write software administrator and user guides, hardware setup guides, and release notes for voice and video products.
+At Poly, I work on new and existing products writing release notes, administrator guides, user guides, API guides, and various other compliance-driven documentation.
+While I work on documentation, a large part of my role is leading the team and the overall video documentation strategy. 
 
-At HPE, I wrote hardware and software user guides, update guides, setup overviews, and firmware compatibility matrices. In addition, I worked on release notes, OS installation guides, and volatility statements.
+At HPE, I authored hardware and software release notes, administrator guides, user guides, update guides, setup overviews, and firmware compatibility matrices. 
 
 At both Poly and HPE, I worked on additional internal projects and served on work streams. I included some of these projects in [Projects](projects.md).
 
-Please use the links below to view writing samples from Poly and HPE.
+Use the links below to view writing samples from Poly and HPE.
 
 ## Poly
 
-At Poly, I've worked on both voice and video products. I started working on CCX business media phones full suite of guides. Currently I work on high visibility video products and occasionally help with new voice products.
+At Poly, I've worked on both voice and video products. My first product was the CCX business media phone working on all required documentation. Currently, I work on high-visibility video products and occasionally help with new voice products.
 
-I've included a few samples of work for products currently on the market.
+I've included a few work samples for products currently on the market.
 
 ### Poly CCX Business Media Phones with UC Software
 
-Helping launch the CCX phones was my first project at Poly. I have since turned this project over to a junior writer providing guidance and assistance.
+Helping launch CCX business media phones was my first project at Poly.
 
 [Writing sample](writing-samples/poly-ccx.html)
 
@@ -30,7 +31,7 @@ Helping launch the CCX phones was my first project at Poly. I have since turned 
 
 ### HPE Synergy
 
-For this program, I redesigned a start here poster, cabling guide, and software release content. To complete this project, I worked directly with the engineering team in the lab and had access to the product's virtual test environment.
+For this program, I redesigned a Start Here poster, a cabling guide, and software release content. To complete this project, I worked directly with the engineering team in the lab and had access to the product's virtual test environment.
 
 [Writing sample](writing-samples/synergy.html)
 
@@ -59,7 +60,7 @@ The ConvergedSystem product consists of various HPE hardware components and soft
 
 ### HPE Hyper Converged 380
 
-The Hyper Converged 380 was a new product similar to ConvergedSystems, but using only one server. I worked on the launch of this program as the writer for the user guide, compatibility matrix, and release notes. The administrator guide writer and I worked closely and met with engineers in our datacenter to go step by step through the procedures.
+The Hyper Converged 380 was a new product similar to ConvergedSystems, but using only one server. I worked on the launch of this program as the writer for the user guide, compatibility matrix, and release notes. The administrator guide writer and I worked closely and met with engineers in our data center to go step by step through the procedures.
 
 [Writing sample](writing-samples/simplivity380.html)
 
