@@ -5,7 +5,7 @@ lang: en-US
 
 # Writing Samples
 
-My writing samples include current HP/Poly samples and older HPE samples. While my current work involves a lot of research, testing, and implementation, I'm not necessarily writing about complex subjects. I'd say that the main goal is to provide accurate information to ensure customers are connecting, configuring, and deploying their systems correctly.
+My writing samples include current HP/Poly samples and older HPE samples. While my current work involves a lot of research, testing, and implementation, I'm not necessarily writing about complex subjects. I'd say that the main goal is to provide accurate task-based information to ensure customers are connecting, configuring, and deploying their systems correctly.
 
 Poly documentation style guide dictates that all documentation is task-based. There are few in-depth explanations of technologies or functionality. For HPE, I worked on more complicated documentation for the HPE Synergy, Hyper Converged, and ConvergeSystems products.
 
