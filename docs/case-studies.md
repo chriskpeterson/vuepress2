@@ -5,6 +5,13 @@ lang: en-US
 
 # Content Development and Internal Projects
 
+## HP | Poly
+
+### Compatibility Matrix
+
+Identified a gap in knowledge around what's supported across Poly video products. Much of the information was in developer's heads and not in a central repository.
+During the research, I found that many service engineers and system architects were creating their own Excel spreadsheets to keep up with what was supported.
+Met with stakeholders and proposed a Confluence Wiki page along with a customer facing compatibility matrix reference guide.
 
 ## Poly
 

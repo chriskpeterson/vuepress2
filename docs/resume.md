@@ -6,19 +6,35 @@
 
 ## ABOUT
 
+<!--
 Customer and team success-driven writer who able to builds solid relationships with coworkers, SMEs, and product stakeholders. Inquisitive, hands-on, and research-driven able to quickly learn new and challenging concepts. Active participant in team discussions, product meetings, and daily stand-ups.
 
 Authored documentation for Poly (Plantronics/Polycom) phone and video products, HPE composable infrastructure products, individual server hardware components. Worked on various internal teams including, information architecture and customer call case analysis.
 
 Familiar with various authoring methodologies including, DocBook and DITA XML structured authoring, Markdown, and every writer's favorite, Word. Worked documentation platforms and tools including SDL, Author-it, Vasont, Arbortext, XMetaL, and Oxygen.
 
+--->
+
+Collaborative customer-focused technical writer and leader with over ten years of experience creating content for administer-level audiences for various software and hardware products. 
+Hands-on and highly technical, able to quickly grasp complex technical concepts. 
+
+
 ## EXPERIENCE
 
-### Senior Technical Writer
+### Staff Technical Writer
+#### HP | Poly, Austin, TX - 
 
-#### Poly, Austin, TX - 10/2019 - Present
+Poly video products team lead responsible for planning, scoping, and managing HP/Poly video product documentation. 
+Align writers on documenting new software features, updates, and hotfixes, including working with the scrum teams to create, story point, and initiate documentation tasks. Responsible for evaluating candidates, interviewing, and helping select new video team writers. Utilize Confluence and Jira to capture information and track documentation tasks and software bugs.
+As part of the information architecture team and a Poly writing lead, I contribute to updates to style standards, information architecture, tools, and best practices.
 
-Documentation project manager and UX writer for Poly embedded software products. Plan and complete project milestones, including compliance, alpha, beta, and localization schedules. Participate in core team meetings and daily stand-ups. Mentor junior writers, interview new hires, and serve on the information architecture team.
+- Guided, trained, and mentored junior technical writers on project direction and ensuring deadlines.
+- Assisted in allocating limited team resources ensuring the successful launch of multiple new products.
+- Created a compatibility matrix to resolve customer confusion identifying supported configurations.
+- Reduced support calls by partnering with customer support to address documentation gaps.
+- Utilized Confluence and Jira to capture information and track documentation tasks and software bugs.
+- Created a central knowledge wiki after identifying a significant gap in managing internal knowledge.
+- Set best practices and provided training on documentation tools and processes.
 
 **_Manage front-end planning of documentation initiatives_** - Create formal documentation plans for new products. Partner with program and product managers, developers, solution architects, and other stakeholders to plan the feature work for each release. Work with prototype hardware and firmware installing and testing developer builds. Attend daily stand-ups and weekly core team meetings.
 
@@ -36,18 +52,34 @@ Documentation project manager and UX writer for Poly embedded software products.
 
 **_Recognized as an innovator and leader_** - Received multiple Poly WoW awards for leadership and innovation.
 
+
+### Senior Technical Writer
+
+#### Poly, Austin, TX - 10/2019 - Present
+
+Writer and documentation prime for audio and video endpoint product programs focusing on CCX business phones. Documentation efforts include administrator, user, parameter, and API documentation. Provided guidance and mentorship to junior writers.
+
+- Awarded multiple Poly Wow awards for collaboration and process improvement. 
+- Contributed to a Vasont to SDL content migration effort, delivering folder strategy, testing, and training.
+- Improved content findability by delivering a documentation portal taxonomy and metadata update.
+- Increased documentation technical accuracy by training writers to set up labs and to use Poly systems.
+- Launched Poly’s first fully touchscreen phone, ensuring usability in an unknown desk phone format. 
+- Reduced publishing time by an hour per document by implementing a Zoomin publishing transform to convert metadata to documentation portal facets.
+
+
 ### Information Developer
 
 #### Hewlett Packard Enterprise, Houston, TX — 6/2013 – 10/2019
 
-Documentation lead for HPE Synergy, a composable infrastructure frame components. Serve on information architecture and customer escalation teams. Assisted with new hire training and intern project management.
+Documentation lead for HPE Synergy, HPE OneView, HPE Simplivity, and HPE ConvergedSystem products. Worked with Knowledge Management program managers to plan and scope new and sustaining documentation work. Participated in core team meetings and product teardowns. Worked with engineers in hardware labs to research and validate content for HPE Synergy, ConvergedSystem solutions, and HPE ProLiant Servers.
 
-- Enhanced documentation usability by creating an interactive firmware comparison tool using DITA/XML and JQuery.
-- Assisted in migrating HPE knowledge management to a single DITA XML-based content management system.
-- Member of the knowledge management Information Architecture team evaluating and defining HPE DITA/XML standards.
-- Provide training and support to new hires and contingent workers on the use of content and graphics creation tools.
-- Created an augmented reality template tool to address cabling and airflow issues in rack servers.
-- Awarded multiple HPE All-Star awards for innovation and collaboration.
+- Awarded multiple HPE All-Star awards for innovation and collaboration. 
+- Enhanced customer experience and reduced service calls by creating an interactive compatibility matrix. 
+- Increased writer efficiency by providing training and troubleshooting support as a writing tools expert.
+- Simplified server cabling, creating an interactive storage options table and augmented reality overlays.
+- Improved content consistency and structure as part of the information architecture team.
+- Unified software and hardware content by working on a migration of major CCMS and writing tools.
+
 
 ### Communications Assistant
 
@@ -67,6 +99,8 @@ Responsible for state warrant (check) distributions, stock inventory, and agency
 
 - Created a database to streamline the distribution of payee letters.
 - Enhanced management of warrant (check) stock utilizing Excel automation.
+
+<!---
 
 ### Document Service Manager
 
@@ -94,3 +128,4 @@ University of Houston | 1999
 
 Content development, Customer advocacy, Design thinking, Problem solving, Project management, Topic authoring, Training
 Adobe Creative Suite (Illustrator, InDesign, Photoshop, XD), Agile, Confluence, DITA/XML, Github, Jira, Markdown, Microsoft Office and Microsoft Teams, Oxygen XML, SDL, Visual Studio Code, and XMetaL.
+--->

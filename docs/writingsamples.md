@@ -14,17 +14,25 @@ At both Poly and HPE, I worked on additional internal projects and served on wor
 
 Use the links below to view writing samples from Poly and HPE.
 
+## HP | Poly
+
+### Integrator's Guide
+
+HP | Poly customers have been asking for an integrator's guide for a number of years. The last guide was created for a legacy product released in 2017.
+I proposed creating a similar technical document for the new Poly Studio G62 video codec.
+
+
 ## Poly
 
 At Poly, I've worked on both voice and video products. My first product was the CCX business media phone working on all required documentation. Currently, I work on high-visibility video products and occasionally help with new voice products.
 
 I've included a few work samples for products currently on the market.
 
-### Poly CCX Business Media Phones with UC Software
+### Poly VideoOS Hardware and Software Documentation
 
-Helping launch CCX business media phones was my first project at Poly.
 
-[Writing sample](writing-samples/poly-ccx.html)
+Poly Video Mode Administrator Guide
+Poly Partner Mode Administrator Guide
 
 
 ## Hewlett Packard Enterprise
@@ -35,10 +43,6 @@ For this program, I redesigned a Start Here poster, a cabling guide, and softwar
 
 [Writing sample](writing-samples/synergy.html)
 
-### HPE Synergy Cabling Guide
-
-In addition to the poster, I worked on the HPE Synergy Cabling Guide. When I took the guide over, we provided one incomplete cabling diagram for each cabling scenario. Working with the product team, I created a step-by-step cabling guide to add clarity and simplify the cabling process.
-
 
 ### HPE Synergy Frame Link Module
 
@@ -46,11 +50,6 @@ I worked on various components of the HPE Synergy project, but the frame link mo
 
 [Writing sample](writing-samples/framelinkmodule.html)
 
-### HPE ProLiant DL385 Server
-
-For this program, I work on in-the-box print deliverables and the user guide. HPE servers each have their separate guides, but there's a high percentage of reuse across the server guides. In [Projects](projects.md), I discuss a DITA XML template I created to reduce development time for the server documentation.
-
-[Writing sample](writing-samples/HPEProLiantServers.html)
 
 ### ConvergedSystem 700
 
@@ -64,8 +63,3 @@ The Hyper Converged 380 was a new product similar to ConvergedSystems, but using
 
 [Writing sample](writing-samples/simplivity380.html)
 
-## Topic analysis and rewrite exercise
-
-To demonstrate how I think when writing or updating content, I choose two existing topics to evaluate and rewrite.
-
-[Topic evaluation](writing-samples/topicevaluation.html)

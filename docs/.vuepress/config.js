@@ -4,6 +4,7 @@ description: 'Resume and Work Samples',
 themeConfig: {
     nav: [
         { text: 'Home', link: '/'},
+        { text: 'About', link: '/about'},
         { text: 'Resume', link: '/resume'},
         { text: 'Writing Samples', link: '/writingsamples'},
         { text: 'Content Development', link: '/case-studies'}

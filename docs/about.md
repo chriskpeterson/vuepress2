@@ -31,7 +31,7 @@ Awesome animal shelter here in Houston. I generally helped with the adoption dat
 
 Refurbished corporate PCs with Ubuntu Linux for underserved families.
 
-## What Impact Have a Had with Poly
+## What Impact Have a Had with Poly, HP | Poly
 
 - Provided new thinking and strategies around documentation delivery.
 - Made things possible such as a taxonomy update and documentation strategies
