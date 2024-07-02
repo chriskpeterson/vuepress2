@@ -23,18 +23,23 @@ In addition to working on VideoOS documentation, I provide feedback on UI design
 The Poly Video Mode Administrator Guide is a comprehensive guide for the Poly VideoOS software that runs on Poly Studio G and Studio X codecs.
 This guide provides information from onboarding a system to configuring network and security settings in the system web interface.
 
-[Poly Video Mode Administrator Guide](https://docs.poly.com/bundle/polyvideomode-ag-current/)
-
 <a href="https://docs.poly.com/bundle/polyvideomode-ag-current/" rel="noreferrer">Poly Video Mode Administrator Guide</a>
 
-### Integrator's Guide
+### Poly Studio G62
 
 HP | Poly customers have asked for an integrator's guide for several years. The last guide was created for a legacy product released in 2017.
 I proposed creating a similar technical document for the new Poly Studio G62 video codec.
 
-[Poly Studio G62 Integrator Reference Guide](https://docs.poly.com/bundle/g62-integrator-guide/)
+[Writing sample](writing-samples/poly-studio-g62.html)
+
+<a href="https://docs.poly.com/bundle/g62-integrator-guide/" rel="noreferrer">Poly Studio G62 Integrator Reference Guide</a>
+
+### Poly VideoOS
+
+[Writing samples](writing-samples/poly-video-os.html)
 
 
+<a href="https://docs.poly.com/bundle/polyvideoos-prg-current/" rel="noreferrer">Poly VideoOS Parameter Reference Guide</a>
 
 
 ## Hewlett Packard Enterprise
