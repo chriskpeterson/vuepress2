@@ -9,6 +9,12 @@ footer: chriskpeterson@gmail.com | 2021
 <div class="features">
 
   <div class="feature" style="text-align: center;">
+    <h2>About</h2>
+    <p>Work experience, skills, school, and volunteering.</p>
+    <b><a href="about.html" style="text-decoration: underline;">About</a></b>
+  </div>
+  
+  <div class="feature" style="text-align: center;">
     <h2>Resume</h2>
     <p>Work experience, skills, school, and volunteering.</p>
     <b><a href="resume.html" style="text-decoration: underline;">Resume</a></b>

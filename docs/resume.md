@@ -35,6 +35,7 @@ As part of the information architecture team and a Poly writing lead, I contribu
 - Utilized Confluence and Jira to capture information and track documentation tasks and software bugs.
 - Created a central knowledge wiki after identifying a significant gap in managing internal knowledge.
 - Set best practices and provided training on documentation tools and processes.
+<!---
 
 **_Manage front-end planning of documentation initiatives_** - Create formal documentation plans for new products. Partner with program and product managers, developers, solution architects, and other stakeholders to plan the feature work for each release. Work with prototype hardware and firmware installing and testing developer builds. Attend daily stand-ups and weekly core team meetings.
 
@@ -52,6 +53,7 @@ As part of the information architecture team and a Poly writing lead, I contribu
 
 **_Recognized as an innovator and leader_** - Received multiple Poly WoW awards for leadership and innovation.
 
+--->
 
 ### Senior Technical Writer
 

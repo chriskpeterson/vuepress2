@@ -22,6 +22,7 @@ These Ethernet connections provide fault-tolerant connectivity to the frame mana
 
 ![frame link module management network](https://chriskpeterson.github.io/vuepress2/public/flm_mgmt_network.PNG)
 
+
 ### HPE Synergy 12000 Frame external management ring network
 
 ::: warning IMPORTANT
