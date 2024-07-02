@@ -18,6 +18,15 @@ While I work on documentation, a large part of my role is leading the team and t
 
 In addition to working on VideoOS documentation, I provide feedback on UI designs, review UI strings, and participate in beta software trials with Poly equipment.
 
+### Poly VideoOS Software Documentation
+
+The Poly Video Mode Administrator Guide is a comprehensive guide for the Poly VideoOS software that runs on Poly Studio G and Studio X codecs.
+This guide provides information from onboarding a system to configuring network and security settings in the system web interface.
+
+[Poly Video Mode Administrator Guide](https://docs.poly.com/bundle/polyvideomode-ag-current/)
+
+<a href="https://docs.poly.com/bundle/polyvideomode-ag-current/" rel="noreferrer">Poly Video Mode Administrator Guide</a>
+
 ### Integrator's Guide
 
 HP | Poly customers have asked for an integrator's guide for several years. The last guide was created for a legacy product released in 2017.
@@ -26,18 +35,6 @@ I proposed creating a similar technical document for the new Poly Studio G62 vid
 [Poly Studio G62 Integrator Reference Guide](https://docs.poly.com/bundle/g62-integrator-guide/)
 
 
-## Poly
-
-At Poly, I've worked on both voice and video products. My first product was the CCX business media phone working on all required documentation. Currently, I work on high-visibility video products and occasionally help with new voice products.
-
-I've included a few work samples for products currently on the market.
-
-### Poly VideoOS Hardware and Software Documentation
-
-The Poly Video Mode Administrator Guide is a comprehensive guide for the Poly VideoOS software that runs on Poly Studio G and Studio X codecs.
-This guide provides information from onboarding a system to configuring network and security settings in the system web interface.
-
-[Poly Video Mode Administrator Guide](https://docs.poly.com/bundle/polyvideomode-ag-current/)
 
 
 ## Hewlett Packard Enterprise
@@ -66,6 +63,6 @@ The ConvergedSystem product consists of various HPE hardware components and soft
 
 ### HPE Hyper Converged 380
 
-The Hyper Converged 380 was a new product similar to ConvergedSystems, but using only one server. I worked on the launch of this program as the writer for the user guide, compatibility matrix, and release notes. The administrator guide writer and I worked closely and met with engineers in our data center to go step by step through the procedures.
+The Hyper Converged 380 was a new product similar to ConvergedSystems, but using only one server. I worked on the launch of this program as the writer for the user guide, compatibility matrix, and release notes. For the administrator guide, I met with engineers in our data center for a step-by-step walkthrough of the procedures.
 
 [Writing sample](writing-samples/simplivity380.html)
