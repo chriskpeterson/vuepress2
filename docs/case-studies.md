@@ -20,12 +20,15 @@ Leverage legacy concept and reference topics to create a user-friendly task-base
 
 [Project details - UC Software Administrator Guide Redesign](case-studies/admin-guide-redesign.md)
 
+<!---
+
 ### Poly Microsoft Teams Rooms Installation Guide Rework
 
 Correct a customer satisfaction issue caused by inadequate Poly and third party documentation.
 
 [Project details - Poly Solutions for Microsoft Teams Rooms](case-studies/poly-mtr.md)
 
+--->
 
 ### Metadata and Search Improvements
 

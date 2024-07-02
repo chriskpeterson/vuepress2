@@ -28,7 +28,6 @@ This guide provides instructions for installing and setting up the Poly Studio G
 
 [Writing sample](writing-samples/poly-studio-g62.html)
 
-<a href="https://docs.poly.com/bundle/g62-integrator-guide/" rel="noreferrer">Poly Studio G62 Integrator Reference Guide</a>
 
 
 ## Hewlett Packard Enterprise
