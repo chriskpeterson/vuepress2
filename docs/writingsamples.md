@@ -23,6 +23,8 @@ In addition to working on VideoOS documentation, I provide feedback on UI design
 HP | Poly customers have asked for an integrator's guide for several years. The last guide was created for a legacy product released in 2017.
 I proposed creating a similar technical document for the new Poly Studio G62 video codec.
 
+[Poly Studio G62 Integrator Reference Guide](https://docs.poly.com/bundle/g62-integrator-guide/)
+
 
 ## Poly
 
