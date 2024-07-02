@@ -5,16 +5,13 @@ lang: en-US
 
 # Writing Samples
 
-My writing samples include current HP/Poly samples and older HPE samples. While my current work involves a lot of digging, testing, and implementing, I'm not necessarily writing about complex subjects. I'd say that the main goal is to provide accurate information to ensure customers are connecting, configuring, and deploying their systems correctly.
+My writing samples include current HP/Poly samples and older HPE samples. While my current work involves a lot of research, testing, and implementation, I'm not necessarily writing about complex subjects. I'd say that the main goal is to provide accurate information to ensure customers are connecting, configuring, and deploying their systems correctly.
 
-Poly documentation tends to be short and to the point with the style guide dictating that all documentation is task-based. There are few in-depth explanations of technologies or functionality. This is something I'm currently working on changing with the Poly Studio G62 Integrator Reference Guide.
-
-At both Poly and HPE, I worked on additional internal projects and served on work streams. I included some of these projects in [Projects](projects.md).
+Poly documentation style guide dictates that all documentation is task-based. There are few in-depth explanations of technologies or functionality. For HPE, I worked on more complicated documentation for the HPE Synergy, Hyper Converged, and ConvergeSystems products.
 
 ## HP | Poly
 
-At Poly, I work on new and sustaining products writing release notes, administrator guides, user guides, API guides, and other compliance-driven documentation.
-While I work on documentation, a large part of my role is leading the team and the overall video documentation strategy. 
+At Poly, I work on new and sustaining products. Documentation includes release notes, administrator guides, user guides, API guides, and other compliance-driven documentation. In addition, I work with the product services readiness and marketing team to assist with and review training materials and instructional videos.
 
 In addition to working on VideoOS documentation, I provide feedback on UI designs, review UI strings, and participate in beta software trials with Poly equipment.
 
@@ -23,23 +20,15 @@ In addition to working on VideoOS documentation, I provide feedback on UI design
 The Poly Video Mode Administrator Guide is a comprehensive guide for the Poly VideoOS software that runs on Poly Studio G and Studio X codecs.
 This guide provides information from onboarding a system to configuring network and security settings in the system web interface.
 
-<a href="https://docs.poly.com/bundle/polyvideomode-ag-current/" rel="noreferrer">Poly Video Mode Administrator Guide</a>
+[Writing samples](writing-samples/poly-video-os.html)
 
 ### Poly Studio G62
 
-HP | Poly customers have asked for an integrator's guide for several years. The last guide was created for a legacy product released in 2017.
-I proposed creating a similar technical document for the new Poly Studio G62 video codec.
+This guide provides instructions for installing and setting up the Poly Studio G62 with video and audio conferencing peripherals.
 
 [Writing sample](writing-samples/poly-studio-g62.html)
 
 <a href="https://docs.poly.com/bundle/g62-integrator-guide/" rel="noreferrer">Poly Studio G62 Integrator Reference Guide</a>
-
-### Poly VideoOS
-
-[Writing samples](writing-samples/poly-video-os.html)
-
-
-<a href="https://docs.poly.com/bundle/polyvideoos-prg-current/" rel="noreferrer">Poly VideoOS Parameter Reference Guide</a>
 
 
 ## Hewlett Packard Enterprise
@@ -55,14 +44,14 @@ For this program, I redesigned a Start Here poster, a cabling guide, and softwar
 
 ### HPE Synergy Frame Link Module
 
-I worked on various components of the HPE Synergy project, but the frame link module was my main product. I joined the team after the initial launch, quickly learning the product and becoming an information lead. After getting up to speed, I noticed the same terminology was being used for the CLI management tool for multiple components. I worked with the team to update the terminology database and reduce customer confusion.
+I worked on various components of the HPE Synergy project, but the frame link module was my main product. I joined the team after the initial launch, quickly learning the product and becoming an information lead. After getting up to speed, I noticed the same inconsistent terminology used for the command line interface management tool. I worked with the team to update the terminology database and reduce customer confusion.
 
 [Writing sample](writing-samples/framelinkmodule.html)
 
 
 ### ConvergedSystem 700
 
-The ConvergedSystem product consists of various HPE hardware components and software from multiple other companies. ConvergedSystems is a complex product requiring the team to verify that all software and firmware work together without issues. To upgrade the software or update the firmware, you must follow an exact sequence of steps across each product. Some upgrades require skipping and hopping around the system updating firmware. In these instances, I guided the team to provide the best structure for customer success. For this program, I wrote firmware and software compatibility matrices and step-by-step upgrade guides.
+The ConvergedSystem product consists of various HPE hardware components and software from third-party companies. ConvergedSystems is a complex product requiring the intricate verification that all software and firmware work together without issue. 
 
 [Writing sample](writing-samples/cs700.html)
 

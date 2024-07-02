@@ -13,7 +13,7 @@ As my first program, I launched Poly's new line of phones, the CCX series. Much 
 
 ## Task-Based Administrator Guide Rewrite
 
-Mid last year, I proposed a project to rewrite the administrator guides for our voice projects. The guides were a mix of concept and reference topics with very few tasks. Essentially, these guides only served as a reference and not a how-to. Because of this format, very few customers were viewing the guides. Instead, engineers were creating separate documents and outlining steps in external blogs.
+I proposed a project to rewrite the administrator guides for our voice projects. The guides were a mix of concept and reference topics with very few tasks. Essentially, these guides only served as a reference and not a how-to. Because of this format, very few customers were viewing the guides. Instead, engineers were creating separate documents and outlining steps in external blogs.
 
 Management sponsored the project, and we started working on it late last year. Ultimately, due to my workload, another colleague managed the project. I moved into a support role, helping convert the topics.
 

@@ -35,25 +35,7 @@ As part of the information architecture team and a Poly writing lead, I contribu
 - Utilized Confluence and Jira to capture information and track documentation tasks and software bugs.
 - Created a central knowledge wiki after identifying a significant gap in managing internal knowledge.
 - Set best practices and provided training on documentation tools and processes.
-<!---
 
-**_Manage front-end planning of documentation initiatives_** - Create formal documentation plans for new products. Partner with program and product managers, developers, solution architects, and other stakeholders to plan the feature work for each release. Work with prototype hardware and firmware installing and testing developer builds. Attend daily stand-ups and weekly core team meetings.
-
-**_Solve customer satisfaction issues_** - Assigned by management to handle customer satisfaction issues in the department. Set up and use Poly products acting as a customer advocate identifying documentation gaps and proposing new documentation strategies. In one instance, customers were returning a product due to their inability to properly set up and configure it. In another, a customer required a quick tips guide for their staff before committing a purchase.
-
-**_Participate in new hire interviews, onboarding, and training_** - As a trusted team leader, conduct new hire and contractor interviews, onboarding, and training. Establish strong working relationships through ongoing coaching and assistance.
-
-**_Deliver an updated taxonomy and metadata strategy_** - As a member of the information architecture team, participated in restructuring the documentation taxonomy to better align with the overall company taxonomy. Updated the product documentation library XML subjectscheme file and Oxygen profiling attributes. Created an XSL transform to convert metadata in legacy documents to match the new model. Supported the team by conducting department-wide metadata training.
-
-**_Increase the team's technology knowledge_** - Help colleagues better understand telephony and conferencing technology for voice and video products. Trained coworkers to set up SIP IP phones for documentation development and product testing. Provided the team with written and video instructions for setting up a provisioning server in their home lab using a Linux-based virtual machine.
-
-**_Convert legacy documentation to user-friendly task-based guides_** - Worked with voice colleagues to convert concept and reference topic-based administrator guides to task-based. The new task-based administrator guides include parameter sample code for configuring various phone features. Created parameter reference guides as a separate deliverable for advanced level customers and partners.
-
-**_Research new processes and tools_** - Assist management in adopting the best tools and practices by evaluating trials and researching developments in information delivery. Tasked with evaluating CCMS, publishing tools, API documentation tools, and design software.
-
-**_Recognized as an innovator and leader_** - Received multiple Poly WoW awards for leadership and innovation.
-
---->
 
 ### Senior Technical Writer
 
@@ -116,18 +98,42 @@ imaging. Responsible for vendor management including negotiating and managing eq
 - Enhanced services and quality by cross-training staff on all department functions and fostering personal development initiatives.
 - Created opportunities for staff to attend on and off site training for office and creative programs.
 
+--->
+
 ## EDUCATION
 
 ### BS Industrial Design
 
-University of Houston | 2014
+University of Houston
 
 ### BA English / Minor Studio Arts
 
-University of Houston | 1999
+University of Houston
 
 # SKILLS AND TOOLS
 
-Content development, Customer advocacy, Design thinking, Problem solving, Project management, Topic authoring, Training
-Adobe Creative Suite (Illustrator, InDesign, Photoshop, XD), Agile, Confluence, DITA/XML, Github, Jira, Markdown, Microsoft Office and Microsoft Teams, Oxygen XML, SDL, Visual Studio Code, and XMetaL.
+Agile, Content Design, Content Strategy, Customer Advocacy, Information Architecture, Project Management, Research, Structured Content, Taxonomy, Training, UX Writing
+Adobe Creative Suite (Illustrator, InDesign, and Photoshop), Confluence, DITA XML, GitHub, Jira, Markdown, Microsoft Office Suite, Oxygen, SDL, Sharepoint, Vasont, Zoomin 
+API, CSS, HTML, JavaScript (limited), Linux, Python (limited), XML
+
+
+
+<!---
+
+**_Manage front-end planning of documentation initiatives_** - Create formal documentation plans for new products. Partner with program and product managers, developers, solution architects, and other stakeholders to plan the feature work for each release. Work with prototype hardware and firmware installing and testing developer builds. Attend daily stand-ups and weekly core team meetings.
+
+**_Solve customer satisfaction issues_** - Assigned by management to handle customer satisfaction issues in the department. Set up and use Poly products acting as a customer advocate identifying documentation gaps and proposing new documentation strategies. In one instance, customers were returning a product due to their inability to properly set up and configure it. In another, a customer required a quick tips guide for their staff before committing a purchase.
+
+**_Participate in new hire interviews, onboarding, and training_** - As a trusted team leader, conduct new hire and contractor interviews, onboarding, and training. Establish strong working relationships through ongoing coaching and assistance.
+
+**_Deliver an updated taxonomy and metadata strategy_** - As a member of the information architecture team, participated in restructuring the documentation taxonomy to better align with the overall company taxonomy. Updated the product documentation library XML subjectscheme file and Oxygen profiling attributes. Created an XSL transform to convert metadata in legacy documents to match the new model. Supported the team by conducting department-wide metadata training.
+
+**_Increase the team's technology knowledge_** - Help colleagues better understand telephony and conferencing technology for voice and video products. Trained coworkers to set up SIP IP phones for documentation development and product testing. Provided the team with written and video instructions for setting up a provisioning server in their home lab using a Linux-based virtual machine.
+
+**_Convert legacy documentation to user-friendly task-based guides_** - Worked with voice colleagues to convert concept and reference topic-based administrator guides to task-based. The new task-based administrator guides include parameter sample code for configuring various phone features. Created parameter reference guides as a separate deliverable for advanced level customers and partners.
+
+**_Research new processes and tools_** - Assist management in adopting the best tools and practices by evaluating trials and researching developments in information delivery. Tasked with evaluating CCMS, publishing tools, API documentation tools, and design software.
+
+**_Recognized as an innovator and leader_** - Received multiple Poly WoW awards for leadership and innovation.
+
 --->
