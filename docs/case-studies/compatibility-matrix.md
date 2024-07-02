@@ -3,6 +3,9 @@ title: Compatibility Matrix
 lang: en-US
 ---
 
+
+# Poly VideoOS Compatibility Matrix
+
 I identified a knowledge gap regarding supported configurations with Poly video products. This included working with the Interoperatiblty Testing Team, the Software Quality Assurance team, product management, and interviewing integrators and customers.
 
 Through my research, I found that the release notes were considered the single source of truth and not a central knowledge repository or wiki. 
@@ -12,7 +15,6 @@ To correct this, I created a Confluence page to act as the single source of trut
 This content is not confidential, but it's not yet published. Here are a few sample topics.
 
 
-![Compatibility Matrix - Supported Audio Peripherals](https://chriskpeterson.github.io/vuepress2/public/comp-matrix-2.PNG)
+![Compatibility Matrix - Supported Audio Peripherals](https://chriskpeterson.github.io/vuepress2/public/comp-matrix-1.png)
 
-![Compatibility Matrix - Supported Controllers](https://chriskpeterson.github.io/vuepress2/public/comp-matrix-2.PNG)
-)
+![Compatibility Matrix - Supported Controllers](https://chriskpeterson.github.io/vuepress2/public/comp-matrix-2.png)
