@@ -1,9 +1,9 @@
 ---
-title: Content Development
+title: Documentation Strategy
 lang: en-US
 ---
 
-# Content Development and Internal Projects
+# Documentation Strategy
 
 ## HP | Poly
 

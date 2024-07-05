@@ -6,7 +6,7 @@ themeConfig: {
         { text: 'Home', link: '/'},
         { text: 'Resume', link: '/resume'},
         { text: 'Writing Samples', link: '/writingsamples'},
-        { text: 'Content Development', link: '/case-studies'}
+        { text: 'Content Development', link: '/documentation-strategy'}
 
     ],
 
