@@ -25,7 +25,9 @@ footer: chriskpeterson@gmail.com | 2024
     <h2>Content Development</h2>
     <p>Document strategy samples and other projects.</p>
     <b style="text-decoration: underline;"><a href="https://chriskpeterson.com/case-studies.html">Document Strategy</a></b>
+    [Document Strategy](https://chriskpeterson.com/case-studies.html)
   </div>
+
 
 </div>
 
