@@ -23,7 +23,7 @@ footer: chriskpeterson@gmail.com | 2024
 
   <div class="feature" style="text-align: center;">
     <h2>Documentation Strategy</h2>
-    <p>Document strategy samples and other projects.</p>
+    <p>Documentation strategy samples and other projects.</p>
     <p><a href="https://chriskpeterson.com/documentation-strategy.html">Documentation Strategy</a></p>
   </div>
 
