@@ -28,6 +28,15 @@ This guide provides instructions for installing and setting up the Poly Studio G
 
 [Writing sample](writing-samples/poly-studio-g62.html)
 
+### HP | Poly Getting Started Video
+
+Outside of documentation, I work with our sales enablement team to guide the creation of getting started videos for new products. 
+
+<a href="https://youtu.be/y2g719CaRqI?si=jZDjztOSV6gP05bE" rel="noreferrer">Poly Studio Large Room Kit: Setup (with Microsoft Teams)</a>
+
+### Poly VideoOS API Documentation
+
+[Poly VideoOS API Documentation](https://polyos.plcm.vc/docs/)
 
 
 ## Hewlett Packard Enterprise
