@@ -11,7 +11,7 @@ themeConfig: {
     ],
 
     theme: [
-        {'default-prefers-color-scheme' : true},
+        {'vuepress-theme-hope' : true},
     ],
 
     head: [
